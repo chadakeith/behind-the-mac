@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Two Techniques for Improving Google Chrome Security | Behind the Mac</title>
+  <meta name="description" content="Although most Mac users rely on Apple’s Safari for Web browsing, plenty of people prefer Google Chrome(&lt;https://www.google.com/chrome/) for its cross-platform compatibility, massiv">
+  <link rel="canonical" href="https://behindthemac.com/blog/techniques-improving-google-chrome-security/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="Two Techniques for Improving Google Chrome Security | Behind the Mac">
+  <meta property="og:description" content="Although most Mac users rely on Apple’s Safari for Web browsing, plenty of people prefer Google Chrome(&lt;https://www.google.com/chrome/) for its cross-platform compatibility, massiv">
+  <meta property="og:url" content="https://behindthemac.com/blog/techniques-improving-google-chrome-security/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Two Techniques for Improving Google Chrome Security | Behind the Mac">
+  <meta name="twitter:description" content="Although most Mac users rely on Apple’s Safari for Web browsing, plenty of people prefer Google Chrome(&lt;https://www.google.com/chrome/) for its cross-platform compatibility, massiv">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2024-07-09">Jul 9, 2024</time></p>
+        <h1>Two Techniques for Improving Google Chrome Security</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/d3bfc003-3b3d-4d66-b6b9-f71b110d52db/Update-Chrome-text-photo.jpg" /></p>
+<p>Although most Mac users rely on Apple’s Safari for Web browsing, plenty of people prefer <a href="https://www.google.com/chrome/">Google Chrome</a> for its cross-platform compatibility, massive collection of extensions, and tight integration with the Google ecosystem. Chrome is by far the most popular browser in the world, with about 65% of the market, compared to Safari’s 18%. Still others opt for alternative browsers based on the same open-source Chromium engine, such as <a href="https://arc.net/">Arc</a>, <a href="https://brave.com/">Brave</a>, <a href="https://www.microsoft.com/en-us/edge/download">Microsoft Edge</a>, <a href="https://www.opera.com/">Opera</a>, and <a href="https://vivaldi.com/">Vivaldi</a>.</p>
+<p>Unfortunately, Chrome’s dominance makes it a target for attackers in two ways. First, attackers may attempt to find vulnerabilities that would let them steal data or compromise credentials. Second, although Google reviews extensions submitted to the Chrome Web Store, researchers have discovered malicious extensions with millions of downloads. To keep your copy of Chrome secure, we recommend two things: relaunch the browser regularly and be careful with extensions.​</p>
+<h3>Relaunch Chrome to Install Updates</h3>
+<p>Google Chrome and all the other Chromium-based browsers update themselves automatically. Sort of. While the browser is running, it downloads the latest update but doesn’t install it until you quit and relaunch. Since both macOS and most apps are highly reliable, many people go weeks or even months without relaunching, leaving Chrome vulnerable to recent security exploits. You can check if you’re running the latest version or need to install an update by choosing Chrome &gt; About Google Chrome. (Some extensions, like 1Password, even refuse to run when an update is required.)</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/3444b0ba-630f-4279-8c0d-921516b81c0f/Chrome-updates.png" /></p>
+<p>In other words, it’s important that you quit and relaunch Chrome and any other Chromium browsers regularly—we recommend a weekly schedule to match <a href="https://security.googleblog.com/2023/08/an-update-on-chrome-security-updates.html">Google’s schedule for security updates</a>. There’s no need to worry about losing your open tabs as long as you set Chrome to “Continue where you left off” in Chrome &gt; Settings &gt; On Startup. All the Chromium-based browsers have a similar setting. (While we’re on the topic, remember that it’s also a good idea to restart your Mac occasionally!)</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/13c25ff9-ceb2-4ed2-a59f-4d3ac41929fd/Chrome-startup.png" /></p>
+<p>There is one exception among the alternative browsers: Arc. Its developers have figured out how to <a href="https://resources.arc.net/hc/en-us/articles/21489650267031-Update-Arc-Browser">download and install updates automatically</a>. The feature is still being rolled out to all users, but when enabled, it installs updates when the Mac wakes from sleep rather than forcing the user to quit and relaunch.​</p>
+<h3>Be Careful with Chrome Extensions</h3>
+<p>Chrome extensions can be both a blessing and a curse. There are vastly more Chrome extensions than Safari extensions, so Chrome and the Chromium browsers enjoy added features that Safari lacks. On the downside, in 2023, researchers discovered <a href="https://www.kaspersky.com/blog/dangerous-chrome-extensions-87-million/48562/">dozens of malicious extensions</a> with tens of millions of combined downloads. Google has removed all of them, but many had been on the Chrome Web Store for 6 months or more.</p>
+<p>There are over 100,000 extensions in the Chrome Web Store, so while malicious extensions are real, most extensions are legitimate. But if Google can miss them for months or years, how can you reduce the chances of installing something evil? Here’s what we do:</p>
+<p><strong>Reduce the number of extensions you install:</strong> The fewer extensions you install, the less likely one is to be malicious or cause other problems. Regularly uninstall any extensions you don’t use from Window &gt; Extensions (the location may vary slightly in the Chromium browsers).</p>
+<p><strong>Only install from the Chrome Web Store:</strong> Stick to extensions that have at least gone through Google’s reviews for the Chrome Web Store and avoid direct downloads for extensions.</p>
+<p><strong>Read reviews before installing:</strong> Although reviews are no guarantee, if you see people complaining about unusual behavior, that may be a clue that the extension is doing something sketchy.</p>
+<p><strong>Evaluate extension metadata:</strong> In general, avoid extensions that aren’t used by many people, that don’t have many reviews, or that aren’t updated frequently. Those aren’t guaranteed signals of a malicious extension but may be a hint to be cautious.</p>
+<p><strong>Review permissions before installing:</strong> When you click the Add to Chrome button in the Chrome Web Store, a prompt explains what permissions will be granted to the extension. If they seem unnecessarily broad, cancel the installation.</p>
+<p>Don’t stress too much about this. Maintaining good Chrome security comes down to relaunching the browser once a week and being careful about which extensions you use—it’s easy.</p>
+<p>(Featured image based on an original by iStock.com/ArtemisDiana)</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/techniques-improving-google-chrome-security">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

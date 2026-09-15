@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Improve Privacy by Removing Metadata from Office Documents and PDFs | Behind the Mac</title>
+  <meta name="description" content="When we share data with others, we do so intentionally—a law firm sending a client legal documents, for instance. But those documents shouldn’t include ancillary in-formation that ">
+  <link rel="canonical" href="https://behindthemac.com/blog/improve-privacy-by-removing-metadata-from-office-documents-and-pdfs/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="Improve Privacy by Removing Metadata from Office Documents and PDFs | Behind the Mac">
+  <meta property="og:description" content="When we share data with others, we do so intentionally—a law firm sending a client legal documents, for instance. But those documents shouldn’t include ancillary in-formation that ">
+  <meta property="og:url" content="https://behindthemac.com/blog/improve-privacy-by-removing-metadata-from-office-documents-and-pdfs/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Improve Privacy by Removing Metadata from Office Documents and PDFs | Behind the Mac">
+  <meta name="twitter:description" content="When we share data with others, we do so intentionally—a law firm sending a client legal documents, for instance. But those documents shouldn’t include ancillary in-formation that ">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2023-07-28">Jul 28, 2023</time></p>
+        <h1>Improve Privacy by Removing Metadata from Office Documents and PDFs</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/d4ae276e-72b1-45bc-bd73-63f4f98e698a/metadata-magnifying-glass-photo.jpg" /></p>
+<p>When we share data with others, we do so intentionally—a law firm sending a client legal documents, for instance. But those documents shouldn’t include ancillary in-formation that might reveal other, more sensitive details. Because all digital files contain metadata—additional information about the file or its contents—it’s worth knowing what you could share inadvertently and learning how to avoid doing so.</p>
+<p>Much metadata is innocuous, like file type and file size. However, some common file types contain additional metadata that can reveal information that you might not want to share. In this situation, the most common file types are Microsoft Office documents and PDF files. Let’s look at each and how you can see what metadata is there and remove it before sharing.</p>
+<p><strong>Cleaning Metadata from Microsoft Office Documents</strong></p>
+<p>Metadata that you might want to remove from Microsoft Office documents falls into two broad categories: reviewer information, like comments and tracked changes, and document properties.</p>
+<p>The first thing to do when removing metadata is to use File &gt; Save As to make a copy of your file and work on the copy. This automatically removes or resets some metadata and allows you to delete other metadata without worrying about losing it from your original.</p>
+<p>If you use change tracking in Word or comments in any Office app, you may want to remove those before sharing a document to prevent recipients from seeing internal conversations or information about who worked on the document.</p>
+<p>To remove change tracking and comments in Word, click Review in the toolbar. Next, click the arrow next to the Delete button in the comments section and choose Delete All Comments in Document. Finally, click the arrow next to Accept in the change tracking section and choose Accept All Changes and Stop Tracking. Browse through the document to make sure accepting all changes didn’t do something unexpected, and then save.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/62ef793d-86b2-4b80-99e2-d5cb5ec52c98/Word-comments-changes.png" /></p>
+<p>Excel and PowerPoint lack change tracking but let you add comments. Like Word, PowerPoint’s Review toolbar offers a similar menu associated with the Delete button; choose Delete All Comments in Presentation to clear the comments. In Excel, switch to the Review toolbar, choose Edit &gt; Select All (comments can be deleted only from selected cells), and click the Delete button in the toolbar.</p>
+<p>To see what metadata is in the document properties of a Word, Excel, or PowerPoint document, choose File &gt; Properties, and look in the Summary, Statistics, and Custom tabs. Generally speaking, these won’t contain anything damning, but they may reveal information like the names of people associated with the document. Don’t assume there’s no metadata here just because you didn’t add anything manually—document control systems can add metadata you don’t expect.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/5a6a413c-f277-4066-bc8f-b21b5635eedf/Word-Document-Properties.png" /></p>
+<p>The three Office apps offer different approaches to removing personal information in the Summary and Custom tabs, and the process is extremely different than in the Windows versions. (For Windows, refer to Microsoft’s instructions.) Here’s how you remove personal information:</p>
+<ul>
+<li><strong>Word:</strong> Choose Tools &gt; Protect Document, and in the Password Protect dialog, select “Remove personal information from this file on save.” Save the document, and then go back to File &gt; Properties to make sure it removed every-thing that concerns you.</li>
+</ul>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/8e611378-f249-4a1d-bc8a-8cbd6ca3351c/Word-remove-metadata.png" /></p>
+<ul>
+<li><strong>Exce</strong> l: Choose Excel &gt; Preferences &gt; Security, and select the “Remove person-al information from this file on save” checkbox. Then save the document and verify that the desired metadata is gone.</li>
+</ul>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/5db1639b-32f2-440f-ad60-95912a2ae1f5/Excel-remove-metadata.png" /></p>
+<ul>
+<li><strong>PowerPoint:</strong> PowerPoint appears to lack that checkbox, but you can choose File &gt; Properties and manually delete all the information from the Summary and Custom tabs before saving the document.</li>
+</ul>
+<p>Information in the Statistics tab is generally cleared or reset by using File &gt; Save As, so you don’t need to do anything more to clear it.</p>
+<p>If you’re truly concerned about not revealing additional information in shared Office documents, think about what might appear in headers and footers, footnotes, text that’s white (and thus invisible), hyperlinks, and macros. Finally, remember that you can hide text in Word, columns and rows in Excel, and slides in PowerPoint—that hidden content may reveal sensitive information if it’s allowed to remain in a shared document. In PowerPoint, you may also want to check for presenter notes you don’t want to share; choose View &gt; Notes.</p>
+<p><strong>Cleaning Metadata from PDFs</strong></p>
+<p>Another way to remove a great deal of metadata from Office documents is to share a PDF of the document instead. By “printing” to PDF, anything that’s invisible automat-ically disappears. However, PDFs have their own metadata that you might want to review and remove. How you go about it depends on which apps you have available: Adobe Acrobat Pro or just Apple’s bundled Preview.</p>
+<p>First, to view metadata in Acrobat Pro, choose File &gt; Properties and click the De-scription tab (left). In Preview, choose Tools &gt; Show Inspector and click the leftmost General Info tab (right).</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/c1741120-a06d-428b-a90f-5fdb22772c1d/Word-Document-Properties.png" /></p>
+<p>Adobe Acrobat Pro provides several tools for redacting content (replacing it with a black box) and removing hidden content and metadata. To access them, click the Tools tab at the top of the screen and click Redact to display a pair of buttons on the secondary toolbar. Redact Text &amp; Images lets you redact content, but you’ll most like-ly want to use Sanitize Document, which removes metadata and a boatload of possi-ble hidden data.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/160283b5-21b5-4a64-af44-895176a7fdab/Adobe-Acrobat-Pro-Sanitize-Document.png" /></p>
+<p>It’s easiest to click Remove All, but you might prefer to click Selectively Remove and look at what Acrobat Pro finds before clicking the Remove button in the Hidden In-formation tab.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/5fb25006-2a52-44eb-b6a4-ef6572638d14/Adobe-Acrobat-Pro-hidden-Information-tab.png" /></p>
+<p>For those who rely on Preview for working with PDFs, there’s a simple process for removing metadata and anything else lurking in a PDF that’s good enough for most situations.</p>
+<p>Choose File &gt; Print, and then choose Save As PDF from the pop-up PDF menu at the bottom of the Print dialog. This may seem counterintuitive, but as with any other document type, printing in this way creates a PDF that contains only the visible in-formation in the original, ensuring that all hidden data and metadata are removed.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/a32d75bf-a62e-4a56-9480-f5f755703a34/Preview-print-to-PDF.png" /></p>
+<p>Although all Mac users have Preview, there is another common option for removing metadata from PDFs—online tools. They’re easily found, but we urge caution. If you’re concerned about the recipient of your PDF being able to see metadata or hid-den content, why would you trust a free online service with that information? If you want to head down this path, stick with sites headquartered in the European Union, which has stronger privacy regulations than other parts of the world. For instance, Metadata2Go, which displays all the metadata in a file, is in Germany, and Sejda, whose Edit PDF Metadata tool can remove all metadata, is based in the Netherlands.</p>
+<p>One last thought. If you’ve gotten to this point and are thinking that you need an en-terprise-wide solution to removing metadata, look for services like Adarsus’s Meta-Clean, which can automatically remove metadata from files sent as email attach-ments or stored on file servers.</p>
+<p>(Featured image by iStock.com/Imilian)</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/3k8g6conpddwq613yk9vxtceusdwgs">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

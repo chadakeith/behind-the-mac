@@ -1,0 +1,54 @@
+---
+title: "Is Your Wi-Fi Network a Security Risk?"
+date: 2023-03-28
+slug: "is-your-wi-fi-network-a-security-risk"
+original_url: "https://www.atlascarolina.com/blog/kl6lcdsf4o3no72nd5ounvt4ak2i57"
+author: "Chad Keith"
+source: atlascarolina
+---
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/2c419d9d-dc34-4423-b2fe-f6a908afc1ee/wireless-router-wi-fi-security-photo.jpg)
+
+With Wi-Fi security, it’s easy to fall into the “out of sight, out of mind” trap. Your Wi-Fi router probably lives in a corner or closet, and of course, Wi-Fi’s radio waves are invisible. But the ease of connecting your devices to your Wi-Fi network means it’s equally as easy for a hacker to connect to your network and eavesdrop on your traffic. Or rather, it’s easy unless you take advantage of the security options available in every Wi-Fi router.
+
+Before looking at those options, let’s discuss the importance of securing your wireless network. The fact is, we all send sensitive data over Wi-Fi and onto the Internet. That data includes passwords, financial information, and personal details, all of which could be used for identity or outright theft. For those who work at home, it may also include important corporate credentials and information. In addition, if your Wi-Fi network is open for everyone and has a bandwidth cap, you could be throttled or incur additional charges due to extra usage from someone using your network without your knowledge. Worse, someone could engage in illegal activity from your network, potentially putting you at legal risk.
+
+Here are six ways you should secure your Wi-Fi network, plus another that’s usually not worth the effort. Exactly how you go about these tasks varies depending on your Wi-Fi router, but they should all be easy to accomplish.​
+
+### 1\. Change Your Wi-Fi Router’s Default Password
+
+Every Wi-Fi router has an app- or Web-based administrative interface where you can adjust settings, including security options. The first thing you should do when setting up a new Wi-Fi router is change the password for accessing that admin interface. (And if you didn’t do that when you set up your current Wi-Fi router, go do it now. Immediately. We’ll wait.) The default passwords are well known to hackers, who can use them to take over routers and turn off all the other security settings.​
+
+### 2\. Change the Default Network Name (SSID)
+
+Every Wi-Fi network has a name—technically an SSID, or Service Set Identifier. There’s no security benefit in changing it to anything in particular, but you should change it from the default name. That’s because default names often identify the router's manufacturer, such as “Netgear” or “Linksys,” and some routers have known vulnerabilities or password styles that make it easier to break in. Of course, the main advantage of changing the network name is that it makes it easier to pick out from any other nearby networks.​
+
+### 3\. Update Your Wi-Fi Router’s Firmware
+
+Wi-Fi router manufacturers frequently fix security vulnerabilities and release new firmware versions. Check to make sure your Wi-Fi router has the latest firmware available, and if there’s an option for it to update its firmware automatically, turn that on.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/b7f82ea8-60e3-48c6-9f19-be358ebcd960/Wi-Fi-firmware.jpg)
+
+### 4\. Disable WPS (Wi-Fi Protected Setup) If Possible
+
+When you connect a new device to your Wi-Fi network, you need to enter your Wi-Fi password. That’s entirely reasonable, and Apple devices automatically offer to share that password with your other Apple devices and other people in your Contacts. More generally, a technology called Wi-Fi Protected Setup (WPS) was designed to enable connecting without typing the Wi-Fi password, either by entering an 8-digit PIN or pressing a button on the router. The button is fine—no one can connect without physical access to the router. But the PIN is horribly insecure and can be brute forced with readily available cracking software. If your router supports WPS—not all do, happily—turn it off entirely.​
+
+### 5\. Create a Guest Network
+
+You’ll probably want to give visitors access to your Wi-Fi network so they can get to the Internet. The best way to do that is to create a guest network—a feature in nearly all Wi-Fi routers—separate from your main Wi-Fi network. It has a different name and password, and its traffic is isolated from yours, ensuring that even if a hacker were to access it, they wouldn’t be able to eavesdrop on your communications. It can have a simpler password since all it’s protecting is your bandwidth. One additional tip—put “Internet of Things” devices like smart appliances, video game consoles, and the like on your guest network to ensure they don’t provide access to your main network’s traffic if they’re hacked. You probably won’t want to do that with HomeKit devices, which will work better on the same network as your Apple devices.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/43341f19-8db3-42be-8cb2-3520db3d0d39/Wi-Fi-guest-network.jpg)
+
+### 6\. Use Strong WPA2 or WPA3 Encryption
+
+After changing the default admin password, this is the second-most important piece of Wi-Fi security advice. All traffic on a Wi-Fi network can (and should) be encrypted so hackers can’t eavesdrop with impunity. The first wireless security protocol was WEP (Wired Equivalent Privacy), which was commonly used from the late 1990s through 2004. Unfortunately, WEP is so easily broken today that it’s no longer considered secure. If you still use WEP, immediately switch to WPA2 (Wi-Fi Protected Access). There’s also WPA3, which is even more secure but is available only in hardware sold in the last few years.​
+
+### Don’t Bother Hiding Your SSID
+
+Finally, you may see suggestions that you should hide your Wi-Fi SSID, which prevents nearby devices from displaying it when they list available networks. That might seem like it would improve security, but all it does is prevent the sort of people who aren’t a threat anyway from seeing it. Anyone with the necessary software and skills to break into an unprotected or weakly protected Wi-Fi network can still detect and access a hidden network. They might even be more interested in what’s there, given that the network owner took the trouble to hide it. As long as you follow all the other advice in this article, there’s no benefit in hiding the SSID as well.​
+
+### Bonus Advice: Use a VPN When on Public Wi-Fi Networks
+
+Ensuring the security of your Wi-Fi network is essential, but what about public Wi-Fi networks in coffee shops, hotels, and airports? Because they’re open to anyone within range, they’re insecure by definition, and anyone on the network could theoretically see any other user’s traffic. Don’t panic. Most Web connections now use HTTPS, which encrypts traffic between you and the destination site (look for _https_ at the start of URLs or a lock icon in the address bar of your Web browser). To ensure that all traffic is protected from prying eyes, use a VPN (Virtual Private Network), which creates an encrypted pipe from your computer to a VPN server elsewhere. Many organizations provide or even require VPN use so that traveling or remote employees can’t inadvertently use unencrypted connections. If your organization doesn’t have a VPN now but would like to set one up, contact us.
+
+(Featured image by iStock.com/CASEZY)

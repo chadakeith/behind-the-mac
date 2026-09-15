@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to Develop Safely with AI | Behind the Mac</title>
+  <meta name="description" content="Generative AI is transforming software development. Large language models are good at human languages, but they’re even better at programming languages, which have much smaller voc">
+  <link rel="canonical" href="https://behindthemac.com/blog/develop-safely-with-ai/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="How to Develop Safely with AI | Behind the Mac">
+  <meta property="og:description" content="Generative AI is transforming software development. Large language models are good at human languages, but they’re even better at programming languages, which have much smaller voc">
+  <meta property="og:url" content="https://behindthemac.com/blog/develop-safely-with-ai/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="How to Develop Safely with AI | Behind the Mac">
+  <meta name="twitter:description" content="Generative AI is transforming software development. Large language models are good at human languages, but they’re even better at programming languages, which have much smaller voc">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2026-08-21">Aug 21, 2026</time></p>
+        <h1>How to Develop Safely with AI</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/4502a3e2-f684-416f-be5b-f5880643e8c4/AI-development-photo.jpg" /></p>
+<p>Generative AI is transforming software development. Large language models are good at human languages, but they’re even better at programming languages, which have much smaller vocabularies and fewer ways to combine words. Most importantly, code does something, so running it confirms whether it performs as intended.</p>
+<p>The result has been a democratization of development, much as happened with desktop publishing. The Macintosh and PageMaker made it possible for almost anyone to produce a newsletter or brochure, but they did not turn every user into a professional designer, illustrator, or prepress specialist. AI can now produce working software for people who could never have written it themselves, but generating code is only part of building a reliable, trustworthy system.</p>
+<p>Today, if you have a repetitive task that’s annoying to do but doesn’t warrant hiring a developer, you can use ChatGPT, Claude, or Gemini to help you create an AppleScript, shell script, Mac or iPhone app, or even a full-fledged Web app. However, if you’re going to dip your toe into AI-assisted development, you need to be careful. Professional developers know to watch out for numerous pitfalls, but if you’re using an AI, it’s up to you to make sure the AI takes them into account. Also, be aware that you’re still ultimately responsible for what you create with AI.</p>
+<h3>What Could Go Wrong?</h3>
+<p>In AI-powered development, there are two broad failure categories: problems with the development agent itself and problems with the finished product.</p>
+<p>The AI world has moved past basic chatbots to agents that can look up information, change files, write and execute code, drive apps, and more. That makes them much more capable, but it also creates a situation where they could change or delete data, expose confidential data, or install software that itself creates a vulnerability.</p>
+<p>On the other side of the equation is the finished product. If it’s local code, it could run but produce incorrect results, fill up a drive with data, overwrite important data, or cause crashes. A networked app could also generate excessive traffic, leak or expose confidential data, or serve as an entry point into your network.</p>
+<h3>Take AI Development in Steps</h3>
+<p>Professional developers aren’t born that way. They start with simple tasks and tackle more involved projects as they gain experience. With AI handling the programming for you, it can be tempting to take on a major app, but it’s safer to start with simple data analysis and local automation tools before moving on to full-fledged apps and networked systems. The process won’t turn you into a professional developer, but you’ll have a greater appreciation for all the things they have to consider.</p>
+<h4><em>Read-only Experiments</em></h4>
+<p>The best way to get started with AI development is with data analysis that would otherwise require you to build spreadsheet formulas, parse large CSV files, compare exported files, and the like. This may not seem like development, but when you drag the files into a chatbot conversation and ask it to work on them, you’ll notice that it does so by writing and executing one or more scripts, often in Python.</p>
+<p>With this sort of AI work, you’re limited only by your data and your imagination. You could analyze an event registration or inventory spreadsheet to find trends, get a human-readable summary of errors in a massive log file, or compare data between two differently formatted CSV files to see which people appear in both.</p>
+<p>The reason to start here is that you can easily detect errors, and nothing you do can change the data. Incorrect results may still look convincing, however, so compare them against known examples, verify totals, and spot-check the underlying records.</p>
+<h4><em>Local Automation Scripts</em></h4>
+<p>The next type of AI development to try is local automation via AppleScript or shell scripts. (If you’re uncertain how to execute a script, remember that you can always ask the AI for detailed instructions.) You could build customized scripts for batch-renaming files, creating future calendar events, manipulating images, and even reformatting HTML files.</p>
+<p>However, because scripts can modify and delete data, you need to be more careful here. When possible, have the script create new output rather than modifying the original. Otherwise, work on a copy and ask the AI to:</p>
+<p>● Warn you about risks or ambiguities in your request</p>
+<p>● Preview exactly what it plans to change</p>
+<p>● Act only after you confirm the preview</p>
+<p>● Log what it changed</p>
+<p>● Record enough information to reverse its actions</p>
+<h4><em>Standalone Mac or iOS App</em></h4>
+<p>Apple’s App Store contains a vast number of apps, but it’s time-consuming to search for apps that promise to do what you want and test them to see if they actually do. All too often, they don’t.</p>
+<p>With AI and Apple’s<a href="https://developer.apple.com/xcode"> Xcode</a> development environment, you can now create native apps for all your Apple devices. Needless to say, even setting up Xcode is complicated, but once again, an AI agent can do much of it for you and walk you through the rest of the steps. The hard part is often figuring out where some interface control is located, so don’t be shy about pasting a screenshot into the chat and saying, “I don’t see that control—where is it?”</p>
+<p>The sky is the limit when it comes to developing your own apps for personal or internal use. You could create an injury rehab tracker, a publishing production checker, a custom document converter, a specialized camera app that adds metadata to photos, and more. Any workflow that’s awkward or doesn’t meet your needs is a candidate. Mac apps can be shared by copying; iPhone and iPad apps must go through Apple’s<a href="https://developer.apple.com/testflight/"> TestFlight</a>. Again, ask for help.</p>
+<p>When it comes to safety, as long as the apps are for personal or internal use, you mostly need to focus on app reliability and data integrity. Make sure to emphasize that the AI should build and run automated tests on every change, and when you’re testing, comment on <em>anything</em> that seems wrong—don’t settle. Specify that data integrity is paramount, require automatic backups, and allow for manual exports.</p>
+<p>The bar gets much higher if you plan to distribute the app more widely. You’ll need to consider your obligations regarding support, compatibility, privacy, distribution, and long-term maintenance. An AI can help with some of those issues—be sure to ask it if there are any ways that user privacy could be abused, for instance—but the buck stops with you.</p>
+<p>If you’re contemplating selling your app, you’ll also need to confirm that the licenses for any external code, images, fonts, and other components permit commercial distribution. Be extremely cautious if you plan to build a business around an app!</p>
+<h4><em>Networked Systems</em></h4>
+<p>With great power comes great responsibility. You must be much more careful with networked systems, especially if they’ll be accessible over the Internet. But it can be compelling to build such systems—you could make an equipment checkout system, an event registration system that goes beyond Google Forms, a shared inventory system, a document submission service, or a dashboard that aggregates live data from multiple services.</p>
+<p>The problem is that the list of considerations goes well beyond app reliability and data integrity, including these questions:</p>
+<p>● <strong>What data and operations must be protected?</strong> Some data may be confidential, and personally identifiable information is especially important to protect. Authentication credentials, API keys, and other secrets should never be embedded in source code, prompts, logs, or shared configuration files. Instead, store them in a system designed to manage secrets and limit who and what can access them.</p>
+<p>● <strong>Who may perform each action, and how is that enforced?</strong> Define user roles and limit each role’s permissions to only what is necessary. You don’t want a novice support representative accidentally deleting the database.</p>
+<p>● <strong>How do you contain hostile inputs and abusive use?</strong> Attackers will probe what happens when they submit malicious URLs, API requests, filenames, uploaded files, Web hooks, and other unexpected input. To reduce your exposure, validate all input, limit its size and complexity, and restrict how frequently users can trigger operations.</p>
+<p>● <strong>How do you separate development, testing, and production?</strong> Once you go live, it’s essential to separate these different environments so mistakes made during development don’t take down the live system and data generated during testing doesn’t contaminate the production database. Make sure to separate data and credentials as well.</p>
+<p>● <strong>How will the system handle simultaneous requests, retries, and partial failures?</strong> Network requests can arrive twice, overlap, or fail midway through multi-step operations. Work with the AI to prevent these sorts of issues, which can result in duplicate payments, registrations, messages, or inconsistent records.</p>
+<p>● <strong>How will you detect and contain attacks, outages, and unexpected behavior?</strong> Decide what to log, what conditions should trigger alerts, how access can be revoked, and if it’s possible to isolate a compromised component without shutting down the entire system.</p>
+<p>Finally, assign an owner before putting any significant networked system into use. That person must be responsible for investigating failures, restoring data, updating dependencies, renewing credentials and certificates, responding to vulnerabilities, and eventually retiring the system. An internal application that nobody maintains may become less reliable and less secure with every operating-system update, expired credential, and newly discovered vulnerability.</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/develop-safely-with-ai">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

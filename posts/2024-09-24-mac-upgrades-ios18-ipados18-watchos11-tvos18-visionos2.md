@@ -1,0 +1,78 @@
+---
+title: "When Should You Should Upgrade to macOS 15 Sequoia, iOS 18, iPadOS 18, watchOS 11, tvOS 18, and visionOS 2?"
+date: 2024-09-24
+slug: "mac-upgrades-ios18-ipados18-watchos11-tvos18-visionos2"
+original_url: "https://www.atlascarolina.com/blog/mac-upgrades-ios18-ipados18-watchos11-tvos18-visionos2"
+author: "Chad Keith"
+source: atlascarolina
+---
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/88943f1a-8f30-495f-b13d-5763c32e2a53/macOS-Sequoia-photo.jpg)
+
+The calendar has flipped over to September, so Apple will soon release major upgrades for all its operating systems. iOS 18 and watchOS 11 will undoubtedly ship alongside new iPhone and Apple Watch models mid-month. iPadOS 18 is likely to accompany iOS 18, as are tvOS 18 and visionOS 2. Although Apple has sometimes delayed the release of macOS until later in the year, we anticipate that Apple will release macOS 15 Sequoia earlier this year, probably with its siblings. That’s because the company has already said it will release the initial Apple Intelligence features in iOS 18.1, iPadOS 18.1, and macOS 15.1; those will probably debut in October or November.
+
+Apple previewed these releases at its Worldwide Developers Conference in June, and many people have been testing the public betas since. Once Apple judges each of its operating systems to be ready for public consumption, the question arises—when should you upgrade?
+
+Note that we say _when_ and not _if._ There’s no harm in delaying a major operating system upgrade until Apple has sanded off any rough edges that slipped through testing. But waiting too long puts you at risk from security vulnerabilities, increases compatibility annoyances, and prevents you from taking advantage of new features. Plus, when you buy a new Mac, iPhone, or iPad after these operating systems have shipped, you’ll get the latest version, which could pose problems for your existing apps or compatibility with older hardware or workflows. It’s best to be prepared if you have to replace a device unexpectedly.
+
+Given that we don’t know precisely when each operating system will come out, here’s our recommendation for the general upgrade order that we anticipate and how long we suggest waiting after the release appears. We also share a few new features that might encourage you to upgrade, assuming you have [a device that’s new enough to take advantage of them](<https://tidbits.com/2024/07/12/the-real-system-requirements-for-apples-2024-operating-systems/>).
+
+Remember, _always_ make a backup before upgrading a Mac, iPhone, or iPad so you can revert if necessary.​
+
+### iOS 18
+
+It’s usually safe to upgrade iOS fairly quickly because Apple puts significant effort into ensuring that the new iOS version is a good experience for those who buy the new iPhones that come with it. However, because iPhones are so crucial to our everyday lives, it’s worth delaying the upgrade to [iOS 18](<https://www.apple.com/ios/ios-18-preview/>) for a week or two, just in case. After that, you can install it and enjoy the new features.
+
+Even before the Apple Intelligence features start appearing in iOS 18.1, there’s plenty to look forward to in iOS 18. Messages via satellite will let you stay in touch even when there’s no cellular or Wi-Fi service. You’ll be able to personalize your Home Screen layout more by placing apps and widgets wherever you want. App icons and widgets get a new Dark look, and you can even tint them all a certain color. Keep prying eyes out of sensitive apps by requiring Face ID to open them. You can now rearrange and resize controls in Control Center, plus create groups of controls accessible with a single continuous swipe. You can even swap out the flashlight and camera icons on the Lock Screen for other controls. Photos has been redesigned (and simplified after public outcry during the beta). Messages lets you use bold, italics, underline, and strikethrough, but more interesting is the ability to send tapback responses with any emoji or sticker—it’s a great way to respond quickly to messages. Maps gains topo maps and trail networks, including all US national parks, and a new Passwords app extracts your logins and passwords from the Settings app.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/938221c4-9d44-4b87-a02b-6083a9fe2464/iOS-18-splash.jpg)
+
+As noted, Apple Intelligence features will start shipping with iOS 18.1 and will continue appearing in new versions throughout 2025. They include a smarter Siri, categorization in Mail, writing tools that correct your grammar and summarize long texts, and generative AI image creation—you’ll even be able to make your own emoji. Apple says these features will require an iPhone 15 Pro or iPhone 15 Pro Max; it’s likely that all the upcoming iPhone 16 models will be compatible, though Apple could hold out Apple Intelligence as a reason to buy a Pro model.​
+
+### watchOS 11
+
+Once you upgrade your iPhone to iOS 18, there’s no reason to delay upgrading your Apple Watch to [watchOS 11](<https://www.apple.com/watchos/watchos-preview/>). Few of the changes are likely to require significant adjustments in your usage patterns, and some may be quite welcome.
+
+When you wear your watch overnight, the new Vitals app displays your heart rate, respiratory rate, wrist temperature, blood oxygen (on units that have it enabled), and sleep duration, showing a typical range and identifying outlier metrics. You can now adjust Activity ring goals for every day of the week or put your rings on pause if you need to take a break for any reason. The Activity app now shows your training load so you can adjust the intensity of your workouts. The Smart Stack interface now includes Live Activities and has been improved to be more intelligent, suggesting widgets based on time, date, location, and daily routines. Finally, Apple enhanced the Photos watch face to select photos automatically, optimizing the subject’s position with the frame and creating a sense of depth. Its Dynamic mode shows a new image on every raise of your wrist.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/71f4b00a-b94b-4333-a3b5-8db2cbb899f4/watchOS-11-splash.jpg)
+
+### iPadOS 18
+
+Our general advice is that it’s OK to install [iPadOS 18](<https://www.apple.com/ipados/ipados-18-preview/>) shortly after it ships. For the most part, iPadOS is a superset of iOS, so if you’re comfortable upgrading to iOS 18, think of iPadOS 18 similarly. The main caveat is when you rely heavily on a particular app. In that case, check with the developer to ensure your app is compatible before upgrading.
+
+Along with most of the features in iOS 18 that aren’t specific to the iPhone (like Messages via satellite), iPadOS 18 finally gains a Calculator app that goes well beyond the basics, offering the Math Notes feature that solves equations written with the Apple Pencil. The Notes app gains live audio transcription, styled highlighting, collapsible sections, and Smart Script, which refines your handwriting to be smoother, straighter, and more legible. You can also paste in typed text, correct spelling inline, touch and drag to reflow text, and scratch out writing to delete it. A new tab bar at the top of the screen promises to provide easier navigation in apps and quick access to app sidebars.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/4b961882-e371-4bf1-8a76-8d37fdea567e/iPadOS-18-splash.jpg)
+
+### tvOS 18
+
+Regardless of when Apple releases [tvOS 18](<https://www.apple.com/newsroom/2024/06/updates-to-the-home-experience-elevate-entertainment-and-bring-more-convenience/>), it’s safe to update within a week or two of release, depending on the level to which you depend on your Apple TV.
+
+tvOS 18 introduces several notable features to enhance the Apple TV experience. InSight provides real-time information about actors, characters, and music from Apple TV+ content, similar to Amazon Prime Video’s X-Ray feature. Apple updated the Enhance Dialogue to provide greater vocal clarity for a broader range of speakers. Subtitles have also received enhancements and now automatically appear when you mute the TV or skip back, or when content is in a different language. People with projectors will appreciate the added support for the 21:9 aspect ratio. New screensaver options include Snoopy and Woodstock, Portraits, and scenes from Apple TV+ shows.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/bc1a0b08-0728-48b2-bfab-d29a8e60da3d/tvOS-18-splash.jpg)
+
+If nothing in that list encourages you to upgrade as soon as tvOS 18 ships, let your Apple TV (the fourth-generation model and later) upgrade itself when it gets around to it, assuming you have automatic updates turned on in Settings > System > Software Updates.​
+
+### visionOS 2
+
+Since the Vision Pro has been out for less than a year and hasn’t seen widespread adoption, most people can upgrade to [visionOS 2](<https://www.apple.com/visionos/visionos-2-preview/>) shortly after it comes out. People with mobility issues or disabilities that make the Vision Pro an essential aspect of everyday life should probably wait until early adopters have given the upgrade a thumbs up.
+
+The promised new features should enhance the overall Vision Pro experience. New hand gestures let you open the Home View and Control Center more easily. You can also personalize the Home View in a manner similar to moving icons around on the iPhone Home Screen. The Mac Virtual Display feature now supports an ultra-wide display equivalent to two 4K monitors, making it more useful for travelers who need a lot of screen real estate on the road. Beta testers have praised the new capability to convert 2D photos to 3D spatial photos. SharePlay in Photos lets you and other Vision Pro users on a FaceTime call share and interact with spatial photos, videos, and panoramas. There’s a new Bora Bora environment, and whatever environment you’re in, your Magic Keyboard or MacBook keyboard appears in front of you to ease typing. Finally, the Guest User feature now saves your most recent guest’s eye and hand data so they can skip the setup on subsequent uses.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/ee179b65-60ea-48b0-94ad-f62cc6f4fb0b/visionOS-2-splash.jpg)
+
+### macOS 15 Sequoia
+
+For most of us, the hardest upgrade decision revolves around upgrading your Mac to [macOS 15 Sequoia](<https://www.apple.com/macos/macos-sequoia-preview/>). Most people should be able to upgrade because Apple dropped support only for two MacBook Air models from 2018 and 2019; otherwise, everything that can run macOS 14 Sonoma can upgrade to Sequoia. (If you have one of those MacBook Airs, consider this an excuse to upgrade—you’ll love the current MacBook Air.) The problem with upgrading macOS is that Apple’s changes are seldom more compelling than keeping your Mac working the way it is now. It can take a few months before the apps you use every day all work without compromise.
+
+What capabilities does Sequoia promise? The big one is iPhone mirroring, which will let you view and interact with your iPhone right on your Mac screen. iPhone notifications can appear on your Mac, and later this year, you’ll be able to drag and drop files, photos, and videos between your Mac and iPhone. New window tiling features make it easy to arrange windows in side-by-side tiles on your desktop by dragging or using keyboard or menu shortcuts. Those who do video calls all day will appreciate background replacements and a presenter preview that shows exactly what you’ll share before displaying it to everyone. The new Passwords app appears on the Mac and syncs securely across all your Apple devices. And you’ll enjoy the same updates to Mail, Maps, Messages, Notes, and Photos as are in iOS and iPadOS.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/a496dbb8-3f20-41cf-a9ba-ad56ab088287/macOS-15-Sequoia-splash.jpg)
+
+We always encourage caution when upgrading to a new version of macOS. Wait at least a month or two before upgrading your primary Mac to Sonoma. App compatibility is less of a long-term problem with iOS and iPadOS, but many people rely on older Mac apps that may not work in the latest version of macOS. Even once you’re confident that your apps will work adequately in Sequoia, there may be workflow or intra-office compatibility concerns if some people upgrade and others don’t. And, of course, unanticipated bugs could crop up at inconvenient times—important work takes place on Macs!
+
+Please do not upgrade to Sequoia without first checking with us. With luck, the bug fixes and app updates necessary to give the green light will have appeared by the end-of-year break, which provides some welcome downtime during which you can install and spend some time exploring the new features.
+
+(Featured image by Apple)

@@ -4,18 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Blog | Behind the Mac</title>
-  <meta name="description" content="Short Mac notes from Chad Keith. Posts are coming soon.">
+  <meta name="description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
   <link rel="canonical" href="https://behindthemac.com/blog/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Behind the Mac">
   <meta property="og:title" content="Blog | Behind the Mac">
-  <meta property="og:description" content="Short Mac notes from Chad Keith. Posts are coming soon.">
+  <meta property="og:description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
   <meta property="og:url" content="https://behindthemac.com/blog/">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Blog | Behind the Mac">
-  <meta name="twitter:description" content="Short Mac notes from Chad Keith. Posts are coming soon.">
+  <meta name="twitter:description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
   <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../css/styles.css">
+  <script src="../js/posts.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -33,19 +34,30 @@
   <main id="content">
     <header class="page">
       <h1>Blog</h1>
-      <p class="lede">Short posts, when they're ready.</p>
+      <p class="lede">Mac and Apple notes from Chad Keith.</p>
     </header>
-    <section class="coming-soon">
-      <div class="panel">
-        <p>Coming soon. I'll put notes here about setups, the things that broke, and the odd tip worth keeping.</p>
+    <section
+      class="post-index"
+      aria-labelledby="posts-heading"
+      data-posts-src="../posts/index.json"
+      data-posts-base=""
+      data-posts-group="year"
+    >
+      <h2 id="posts-heading" class="visually-hidden">Posts</h2>
+      <div class="empty-posts">
+        <p>No posts yet. New ones will show up here.</p>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>Personal Mac notes by Chad Keith.</p>
-      <p><a href="../index.html">Home</a> · <a href="../about/">About</a></p>
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
     </div>
   </footer>
 </body>

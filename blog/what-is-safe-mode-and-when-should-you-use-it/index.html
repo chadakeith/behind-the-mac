@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What Is Safe Mode, and When Should You Use It? | Behind the Mac</title>
+  <meta name="description" content="Although Macs are highly reliable, unusual problems can still rear their ugly heads. Often, these issues are caused by software you’ve installed or accessories you’ve connected. If">
+  <link rel="canonical" href="https://behindthemac.com/blog/what-is-safe-mode-and-when-should-you-use-it/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="What Is Safe Mode, and When Should You Use It? | Behind the Mac">
+  <meta property="og:description" content="Although Macs are highly reliable, unusual problems can still rear their ugly heads. Often, these issues are caused by software you’ve installed or accessories you’ve connected. If">
+  <meta property="og:url" content="https://behindthemac.com/blog/what-is-safe-mode-and-when-should-you-use-it/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="What Is Safe Mode, and When Should You Use It? | Behind the Mac">
+  <meta name="twitter:description" content="Although Macs are highly reliable, unusual problems can still rear their ugly heads. Often, these issues are caused by software you’ve installed or accessories you’ve connected. If">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2025-08-29">Aug 29, 2025</time></p>
+        <h1>What Is Safe Mode, and When Should You Use It?</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/5df3585e-bf9b-412c-92f3-ec1d9e27c2d9/MacBook-safe-mode-photo.jpg" /></p>
+<p>Although Macs are highly reliable, unusual problems can still rear their ugly heads. Often, these issues are caused by software you’ve installed or accessories you’ve connected. If you’re experiencing Mac misbehavior that isn’t easily fixed by restarting, updating software, or unplugging a dodgy device, try <a href="https://support.apple.com/en-us/116946#about">safe mode</a>. (Seriously, before checking if safe mode will help with a problem, you should always restart, ensure you’re running the latest version of macOS and any involved apps, and unplug non-essential peripherals.)</p>
+<p>Safe mode is one of macOS’s key troubleshooting tools, though many users don’t know when or how to use it. By starting up your Mac with minimal required software and services, safe mode can help identify and resolve various system issues.​</p>
+<h3>How to Enter Safe Mode</h3>
+<p>The process for entering Safe Mode varies depending on whether you have a Mac with Apple silicon or an Intel-based Mac.</p>
+<p>For Macs with Apple silicon:</p>
+<p>1. Shut down your Mac.</p>
+<p>2. Press and hold the power button until the startup options appear.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/9d70f59c-1216-48ea-a160-e8338f3e9102/safe-mode-startup.png" /></p>
+<p>3. Select your startup disk.</p>
+<p>4. Hold the Shift key and click Continue in Safe Mode.</p>
+<p>5. Log in (you may need to do this twice). You’ll see “Safe Boot” in red in the menu bar on the login screen.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/fd19df4e-b3b1-4fc4-b6e2-83b19091d31e/safe-boot-tag.png" /></p>
+<p>For Intel-based Macs:</p>
+<p>1. Restart your Mac.</p>
+<p>2. Press and hold the Shift key until you see the login window.</p>
+<p>(If you have a firmware password, you must remove it in Recovery before starting up in safe mode.)</p>
+<p>To verify that you’re in safe mode, click the Apple menu while holding the Option key, select System Information, and look for “Boot Mode: Safe” under Software. To exit safe mode, just restart your Mac normally.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/05740a4f-330e-4a99-8539-3f776258b3b3/Safe-mode-in-System-Information.png" /></p>
+<h3>What Safe Mode Does</h3>
+<p>When your Mac boots in safe mode, it performs several important functions designed to eliminate troubleshooting variables:</p>
+<ul>
+<li>
+<p>Prevents non-essential software from loading, including third-party login items, kernel extensions, system extensions (the modern replacement for kernel extensions), and fonts not installed by macOS</p>
+</li>
+<li>
+<p>Clears some system caches, including font caches and the kernel cache</p>
+</li>
+</ul>
+<p>Apple also says that safe mode performs a basic check of your startup disk, but research from the community suggests that this check is no different from the one performed during a normal boot. If you suspect disk-related problems, use the <a href="https://support.apple.com/en-us/102611">First Aid feature of Disk Utility</a> to conduct a more comprehensive (and much slower) test.</p>
+<p>This minimal environment helps identify whether the problems are caused by software that loads during startup or by core system components. Safe mode also prevents many customizations and modifications from taking effect, making it easier to determine if third-party software is the cause of the issues.</p>
+<p>However, the downside of using safe mode is that some macOS features may not work. According to Apple, these include “video capture, graphics performance, file sharing, Wi-Fi, accessibility, audio devices, and devices connected via USB, Thunderbolt, or FireWire.” In practice, some of these will work fine, but the main point is that you might not be able to do everything you want while in safe mode. It’s designed for troubleshooting, not regular use.​</p>
+<h3>When to Use Safe Mode</h3>
+<p>Safe Mode is beneficial in several common scenarios:</p>
+<ul>
+<li>
+<p><strong>Identifying extension conflicts:</strong> If your Mac is misbehaving, booting in safe mode can help determine if third-party kernel or system extensions are the cause.</p>
+</li>
+<li>
+<p><strong>Troubleshooting startup problems:</strong> If your Mac doesn’t start normally, safe mode might help you get in and address the issue.</p>
+</li>
+<li>
+<p><strong>Installing updates:</strong> Although this is less necessary in recent versions of macOS, if a macOS update fails to install properly, trying again in safe mode often resolves the issue.</p>
+</li>
+<li>
+<p><strong>Fixing update issues:</strong> Problems that appear after a macOS update—likely caused by outdated third-party software incompatible with the new version of macOS—can often be resolved by starting in safe mode.</p>
+</li>
+<li>
+<p><strong>Performance problems:</strong> If your Mac is running slowly, safe mode can help identify whether login items or extensions are causing the issue.</p>
+</li>
+<li>
+<p><strong>General diagnostics:</strong> Safe mode is a worthwhile initial step for diagnosing issues before attempting more complex solutions.​</p>
+</li>
+</ul>
+<h3>What Comes After Safe Mode</h3>
+<p>Once you’re in safe mode, it’s up to you to reproduce the problem you experienced earlier. Then, there are two possibilities:</p>
+<ul>
+<li>
+<p><strong>The problem persists in safe mode:</strong> While this result is not ideal, safe mode has still provided you with more troubleshooting information by eliminating third-party login items, extensions, and fonts from consideration, along with clearing certain caches. Since those aren’t the cause, try testing in a clean <a href="https://support.apple.com/guide/mac-help/change-users-groups-settings-mtusr001/mac#%3A~%3Atext=Change%20Group%20settings.-,add%20user,-Click%20Add%20User">user account</a>, disconnecting remaining peripherals, and reinstalling macOS.</p>
+</li>
+<li>
+<p><strong>The problem goes away in safe mode:</strong> Great! First, restart your Mac to see if the problem has disappeared, as would be the case if it were related to corrupt caches. If the problem returns after restarting, you can narrow down the cause to third-party login items, extensions, or fonts. Remove third-party log-in items in <strong>System Settings &gt; General &gt; Login Items &amp; Extensions</strong>. (We recommend taking a screenshot with Command-Shift-5 first, so you can remember how you were set up.) You can also disable extensions in <strong>System Settings &gt; General &gt; Login Items &amp; Extensions </strong>by toggling their switches. Restart and test again. If that still doesn’t fix it, try testing in a clean user account to rule out any software issues tied to your main account.</p>
+</li>
+</ul>
+<p>The beauty of safe mode is that it’s easy to enter and entirely non-destructive. It may not help identify all possible problems, but it’s always worth trying after the simple steps of restarting your Mac, updating associated software, and unplugging non-essential peripherals.</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/what-is-safe-mode-and-when-should-you-use-it">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

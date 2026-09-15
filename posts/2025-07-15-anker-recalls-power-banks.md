@@ -1,0 +1,14 @@
+---
+title: "Anker Recalls Millions of Power Banks: Check Yours Today"
+date: 2025-07-15
+slug: "anker-recalls-power-banks"
+original_url: "https://www.atlascarolina.com/blog/anker-recalls-power-banks"
+author: "Chad Keith"
+source: atlascarolina
+---
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/70280030-5dc0-42c3-9ea6-381ca12df0cd/swollen-power-bank-photo.jpg)
+
+We recommend sticking with well-known brands when buying accessories, and a recent example illustrates why this is important. Anker, a highly regarded accessory manufacturer, has initiated voluntary recalls of power bank models sold from 2016 to the present due to the risk of overheating, melting, smoke, and fire. In mid-June, the company recalled 1.1 million PowerCore 10000 power banks; it has now issued another recall for more recent models of its Power Bank, MagGo Power Bank, and Zolo Power Bank. If you own one of these products—even if it’s working fine—go to [Anker’s product recalls page](<https://www.anker.com/product-recalls>) for more information and a serial number checker. If your power bank is affected, stop using it immediately and contact your municipal household hazardous waste collection center for disposal guidance—neither the trash nor standard recycling boxes at retail stores are acceptable. Anker will give you a free replacement or a gift card for use on the Anker website.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/9241d336-789a-42cc-9bda-9a0eb7efb535/Anker-battery-recall.jpg)

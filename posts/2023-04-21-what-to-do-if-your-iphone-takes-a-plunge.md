@@ -1,0 +1,71 @@
+---
+title: "What to Do If Your iPhone Takes a Plunge"
+date: 2023-04-21
+slug: "what-to-do-if-your-iphone-takes-a-plunge"
+original_url: "https://www.atlascarolina.com/blog/a18o80eo3qspt1h8vgmv5d2m5es63a"
+author: "Chad Keith"
+source: atlascarolina
+---
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/e9c7b2f8-0759-4304-a50c-263ba18b38cc/iPhone-under-water-photo.jpg)
+
+No one intends to drop their iPhone in a pool or fall off a boat with their iPhone in a pocket. But accidents happen. Happily, Apple has designed the iPhone with significant levels of splash and water resistance, so brief exposure to rain or even a quick dunk might not cause any problems. If your iPhone does get wet, follow our advice below to dry it out before calling for more help. ​
+
+### How Waterproof Is Your Phone?
+
+First, you’ll want to understand what you should worry about, which boils down to your phone’s IP rating and its age. All iPhones have an IP—[Ingress Protection](<https://www.iec.ch/ip-ratings>)—rating that specifies what they should be able to handle when new. Current and recent iPhone models are rated at IP68, with the older iPhone 7, 8, XR, and second-generation SE models rated at IP67. The first digit specifies the protection against solid objects like dust, and the second against water. A rating of 6 for the first digit means the device is dust-tight—no dust can get in. For the second digit:
+
+7 means the device is protected against the effects of _temporary_ immersion in water under standardized conditions of time and pressure.
+
+8 means the device is protected against the effects of _continuous_ immersion in water. The conditions under which this rating is awarded are specified by the manufacturer but must be more severe than rating 7.
+
+Apple has been improving the [water resistance of iPhones](<https://support.apple.com/en-us/HT207043>). The iPhone 11, XS, and XS Max are designed to withstand immersion at a maximum depth of 2 meters for up to 30 minutes. The iPhone 11 Pro and 11 Pro Max increase the depth to 4 meters, and every newer model can handle the increased pressure of up to 6 meters. In other words, all should be able to survive a brief dip.
+
+Don’t get complacent about that old iPhone XS, though. Water resistance isn’t a permanent condition. It depends on tight seals and gaskets that are weakened by age, drops, disassembly, extreme hot or cold temperatures, and exposure to chemicals (like insect repellent and sunscreen). The older your iPhone is, the less likely it is to meet the criteria of its IP rating.​
+
+### Dealing with Splashes, Spills, and Submersion
+
+Enough theory! What should you do if your iPhone gets wet? It depends on how wet it got. For instance, if you have to use your iPhone in the rain, it’s difficult to keep raindrops off the screen and case. They shouldn’t pose a problem; just dry the iPhone off with a cloth. However, if you accidentally tip over your coffee on your iPhone, first rinse the affected area with tap water. Then dry it off with a cloth. In both cases, we recommend not plugging in a Lightning cable until it’s had more time to dry out.
+
+More concerning is when your iPhone takes a plunge. Despite the IP rating suggesting it can withstand up to 30 minutes of immersion, try to get it out of the water as quickly as possible. Then there are some dos and don’ts.
+
+**Do:**
+
+Do turn it off immediately with the power slider that appears when you hold the side button and either volume button (Face ID iPhones) or the side button (Touch ID iPhones).
+
+Do rinse it under tap water if you dropped it in a muddy puddle (dirt and other contaminants), the ocean (salt water), a swimming pool (chlorinated water), or a toilet (ick)—basically anything other than clean, fresh water.
+
+Do dry the exterior with a soft cloth.
+
+Do remove excess liquid by tapping it gently against your hand with the Lightning port and speaker facing down.
+
+Do open the SIM tray and leave the iPhone in a dry area with airflow. If possible, direct a fan at the openings.
+
+Do leave it turned off and let it dry for at least 5 hours and up to 24 hours.
+
+**Don’t:**
+
+Don’t attempt to dry the iPhone with a hair dryer, any heat source, or compressed air.
+
+Don’t insert anything like a cotton swab or tissue into the Lightning connector or SIM tray. Let any water inside evaporate.
+
+Don’t connect a charging cable or any other cable until the iPhone is completely dry. Recent iPhones will warn if they [detect water in the Lightning port](<https://support.apple.com/en-us/HT210424>). If you see that warning, Apple recommends waiting at least 30 minutes and up to 24 hours before trying again. (Wireless charging should be fine, but seriously, just leave the iPhone alone to dry.)
+​
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/0d5382ef-e9f5-4c6e-be42-9a68a98c6fd6/water-in-Lightning-port.jpg)
+
+### Bonus Techniques
+
+There are two additional techniques you can try, one to remove water in general and another to clear water from the iPhone’s speaker.
+
+First, the classic advice for a water-damaged electronic device is to bury it in a container of uncooked rice for a day or two. The idea is that the rice absorbs the moisture in its vicinity, pulling it out of the iPhone. It can work, but Apple recommends against it because of the likelihood of getting tiny bits of rice in the Lightning port. If you want to use rice, wrap the iPhone loosely in a paper towel first to protect its ports.
+
+A better approach is to use a sealed plastic bag containing silica gel desiccant packets like those in vitamin bottles. They’re inexpensive and [readily available](<https://www.amazon.com/s?k=silica+gel+packets>), and you can even get ones that you can recharge in a microwave or oven. But of course, you have to have them on hand, or it’s back to the rice.
+
+Second, if your iPhone’s speaker sounds muffled, some people suggest using an Apple Watch-like trick of playing a particular sound to eject water. Visit [FixMySpeakers](<https://fixmyspeakers.com/>) and tap the button. This is clever and shouldn’t hurt anything, but if there’s water in the speakers, there’s probably water elsewhere, and it might be safer to turn the iPhone off quickly and let it dry naturally—as I recommend above.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/42dd4605-77f5-48b1-9810-4885d1e14ced/FixMySpeakers.jpg)
+
+One last piece of advice: Apple doesn’t claim any sort of water resistance for iPads or MacBooks. If one of them gets wet, you can try following the advice above—it shouldn’t hurt anything—but it’s more likely that a repair is in your future.
+
+(Featured image by iStock.com/Evgen_Prozhyrko)

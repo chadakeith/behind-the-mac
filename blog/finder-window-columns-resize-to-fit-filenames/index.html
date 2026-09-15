@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Make Finder Window Columns Resize to Fit Filenames | Behind the Mac</title>
+  <meta name="description" content="Column view in the Finder has an annoying tendency to either show overly wide columns that waste space or truncate long filenames, forcing you to drag a column divider to see more ">
+  <link rel="canonical" href="https://behindthemac.com/blog/finder-window-columns-resize-to-fit-filenames/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="Make Finder Window Columns Resize to Fit Filenames | Behind the Mac">
+  <meta property="og:description" content="Column view in the Finder has an annoying tendency to either show overly wide columns that waste space or truncate long filenames, forcing you to drag a column divider to see more ">
+  <meta property="og:url" content="https://behindthemac.com/blog/finder-window-columns-resize-to-fit-filenames/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Make Finder Window Columns Resize to Fit Filenames | Behind the Mac">
+  <meta name="twitter:description" content="Column view in the Finder has an annoying tendency to either show overly wide columns that waste space or truncate long filenames, forcing you to drag a column divider to see more ">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2026-02-17">Feb 17, 2026</time></p>
+        <h1>Make Finder Window Columns Resize to Fit Filenames</h1>
+      </header>
+      <div class="post-body">
+        <p>Column view in the Finder has an annoying tendency to either show overly wide columns that waste space or truncate long filenames, forcing you to drag a column divider to see more of the name. In macOS 26.1 Tahoe, Apple added an option to the Finder’s View Options window that automatically adjusts column widths to display the longest visible filename in each column. To activate it, choose <strong>View &gt; Show View Options</strong> with a column-view window frontmost, then select the “Resize columns to fit filenames” checkbox. If you’re running macOS 13 Ventura through macOS 15 Sequoia, this option is hidden, but you can enable it by pasting this command into Terminal: defaults write com.apple.finder _FXEnableColumnAutoSizing -bool YES; killall Finder. (Change YES to NO to revert the change.) Alternatively, the free<a href="https://www.bresink.com/osx/TinkerTool10.html"> TinkerTool 10</a> utility provides a graphical toggle for these older operating systems—look for “Automatically adapt to file name widths in column mode” in the Finder section.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/824a4530-cb49-4c18-8e8a-819cf0a71eed/regular-and-resized-columns.jpg" /></p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/finder-window-columns-resize-to-fit-filenames">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
