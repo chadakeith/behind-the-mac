@@ -5,6 +5,8 @@ slug: "post-slug"
 original_url:
 author: "Chad Keith"
 source:
+image:
+excerpt:
 ---
 
 Write the post here.

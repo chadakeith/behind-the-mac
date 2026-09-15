@@ -31,6 +31,8 @@ source: atlascarolina
 | `original_url` | no | Source URL if this is a migrated Atlas post |
 | `author` | no | Use `Chad Keith` |
 | `source` | no | `atlascarolina` for migrated posts |
+| `image` | no | Featured image URL. If omitted, the first body image is used. |
+| `excerpt` | no | Short listing summary. If omitted, it is derived from the body. |
 
 Opaque Squarespace ID slugs were rewritten from the title (kebab-case, unique). Human-readable Atlas slugs were kept.
 
@@ -39,5 +41,15 @@ Body is markdown after the closing `---`. Copy [`_template.md`](_template.md) to
 ## Listing index
 
 Home (latest 10) and `/blog/` (full archive, grouped by year) read [`index.json`](index.json). Keep that file in sync when adding posts. Sort newest-first.
+
+Each index entry includes `title`, `date`, `slug`, plus `image` and `excerpt` when they can be derived from the markdown.
+
+Rebuild the listing from markdown (no live scrape):
+
+```
+python3 scripts/build_index.py
+```
+
+That also promotes the first article image to a hero figure and adds `og:image` on existing post pages.
 
 Re-import helper: `scripts/import_atlas_posts.py`

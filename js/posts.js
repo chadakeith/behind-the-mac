@@ -21,29 +21,70 @@
     return base + encodeURIComponent(slug) + "/";
   }
 
+  function cardImageSrc(url) {
+    if (!url) return "";
+    if (url.indexOf("squarespace-cdn.com") === -1) return url;
+    return url + (url.indexOf("?") === -1 ? "?" : "&") + "format=1000w";
+  }
+
   function emptyHTML() {
     return '<div class="empty-posts"><p>No posts yet. New ones will show up here.</p></div>';
   }
 
-  function renderList(posts, base) {
+  function renderCard(post, base, eager) {
+    var href = postHref(base, post.slug);
+    var title = escapeHtml(post.title);
+    var excerpt = post.excerpt ? escapeHtml(post.excerpt) : "";
+    var image = post.image ? cardImageSrc(post.image) : "";
+    var alt = escapeHtml(post.image_alt || post.title || "");
+    var media = "";
+
+    if (image) {
+      media =
+        '<div class="post-card-media">' +
+        '<img src="' +
+        escapeHtml(image) +
+        '" alt="' +
+        alt +
+        '"' +
+        (eager ? ' fetchpriority="high"' : ' loading="lazy"') +
+        ' decoding="async">' +
+        "</div>";
+    }
+
     return (
-      '<ul class="post-list">' +
+      '<article class="post-card' +
+      (image ? "" : " post-card--text") +
+      '">' +
+      '<a class="post-card-link" href="' +
+      href +
+      '">' +
+      media +
+      '<div class="post-card-copy">' +
+      '<h3 class="post-card-title">' +
+      title +
+      "</h3>" +
+      (excerpt ? '<p class="post-card-excerpt">' + excerpt + "</p>" : "") +
+      '<p class="post-card-meta"><time datetime="' +
+      escapeHtml(post.date) +
+      '">' +
+      escapeHtml(formatDate(post.date)) +
+      "</time></p>" +
+      "</div>" +
+      "</a>" +
+      "</article>"
+    );
+  }
+
+  function renderFeed(posts, base, eagerFirst) {
+    return (
+      '<div class="post-feed">' +
       posts
-        .map(function (post) {
-          return (
-            '<li><a href="' +
-            postHref(base, post.slug) +
-            '"><time datetime="' +
-            escapeHtml(post.date) +
-            '">' +
-            escapeHtml(formatDate(post.date)) +
-            "</time>" +
-            escapeHtml(post.title) +
-            "</a></li>"
-          );
+        .map(function (post, index) {
+          return renderCard(post, base, Boolean(eagerFirst && index === 0));
         })
         .join("") +
-      "</ul>"
+      "</div>"
     );
   }
 
@@ -86,7 +127,7 @@
     groups.forEach(function (group) {
       html += '<section class="year-group" id="year-' + group.year + '">';
       html += "<h3>" + group.year + "</h3>";
-      html += renderList(group.posts, base);
+      html += renderFeed(group.posts, base, false);
       html += "</section>";
     });
     return html;
@@ -114,7 +155,7 @@
         var html = heading ? heading.outerHTML : "";
 
         if (limit) {
-          html += renderList(sorted.slice(0, limit), base);
+          html += renderFeed(sorted.slice(0, limit), base, true);
           if (moreHref && sorted.length > limit) {
             html +=
               '<p class="more-posts"><a href="' +
@@ -124,7 +165,7 @@
         } else if (groupYears) {
           html += renderArchive(sorted, base);
         } else {
-          html += renderList(sorted, base);
+          html += renderFeed(sorted, base, true);
         }
 
         root.innerHTML = html;

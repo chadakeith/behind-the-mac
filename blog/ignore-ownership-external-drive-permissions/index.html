@@ -11,7 +11,9 @@
   <meta property="og:title" content="When Should You “Ignore Ownership” on an External Drive? | Behind the Mac">
   <meta property="og:description" content="Under the hood, macOS relies on Unix, which is a multi-user operating system. That’s why a Mac can host multiple users who, as long as they don’t know each other’s passwords, canno">
   <meta property="og:url" content="https://behindthemac.com/blog/ignore-ownership-external-drive-permissions/">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/c687dd29-b277-42e6-b3a9-d77dd7bb325a/Ignore-Ownership-external-drive-text-photo.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/c687dd29-b277-42e6-b3a9-d77dd7bb325a/Ignore-Ownership-external-drive-text-photo.jpg">
   <meta name="twitter:title" content="When Should You “Ignore Ownership” on an External Drive? | Behind the Mac">
   <meta name="twitter:description" content="Under the hood, macOS relies on Unix, which is a multi-user operating system. That’s why a Mac can host multiple users who, as long as they don’t know each other’s passwords, canno">
   <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
@@ -37,7 +39,7 @@
         <h1>When Should You “Ignore Ownership” on an External Drive?</h1>
       </header>
       <div class="post-body">
-        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/c687dd29-b277-42e6-b3a9-d77dd7bb325a/Ignore-Ownership-external-drive-text-photo.jpg" /></p>
+        <figure class="post-hero"><img alt="When Should You “Ignore Ownership” on an External Drive?" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/c687dd29-b277-42e6-b3a9-d77dd7bb325a/Ignore-Ownership-external-drive-text-photo.jpg" /></figure>
 <p>Under the hood, macOS relies on Unix, which is a multi-user operating system. That’s why a Mac can host multiple users who, as long as they don’t know each other’s passwords, cannot see each other’s files. To maintain each user’s privacy, macOS relies on permissions that specify who can do what with any given file or folder. For the most part, permissions work how they’re supposed to, letting you work with all your files and keep any other users on the Mac out of your stuff.</p>
 <p>Where things can get tricky is with external drives. In some situations, permissions can prevent you from accessing files written to an external drive on one Mac from another Mac. That happens because the first admin user account created on a Mac is given the UniqueID of 501, regardless of its name. (Because, Unix.) If you create additional accounts, they get UniqueIDs of 502, 503, and so on. Again, the names are irrelevant; all that matters is the UniqueID.</p>
 <p>If you write files to an external drive while logged into the 501 admin account on one Mac but then try to access those files from an account with any other UniqueID on that Mac or any other, macOS won’t let you. No 503 account, for instance, can access a 501 account’s files.</p>
