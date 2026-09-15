@@ -327,6 +327,72 @@ main {
   margin-top: 1.5rem;
 }
 
+.post {
+  padding-bottom: 3rem;
+}
+
+.post-meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin-bottom: 0.6rem;
+}
+
+.post-body {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.5rem 1.5rem;
+}
+
+.post-body p,
+.post-body li {
+  color: var(--muted);
+  font-size: 1.05rem;
+  margin-bottom: 1.1rem;
+}
+
+.post-body h2,
+.post-body h3 {
+  letter-spacing: -0.02em;
+  margin: 2rem 0 0.8rem;
+}
+
+.post-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: calc(var(--radius) - 8px);
+  margin: 1.4rem 0;
+}
+
+.post-body ul,
+.post-body ol {
+  padding-left: 1.3rem;
+  margin-bottom: 1.25rem;
+}
+
+.post-body blockquote {
+  border-left: 3px solid var(--line);
+  padding-left: 1rem;
+  color: var(--muted);
+  margin: 0 0 1.25rem;
+}
+
+.post-source {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  font-size: 0.85rem;
+}
+
+.post-source a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.post-source a:hover {
+  color: var(--ink);
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;

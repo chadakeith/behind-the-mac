@@ -1,6 +1,6 @@
 # Posts
 
-Markdown posts for Behind the Mac. A follow-up PR will drop the Atlas Carolina blog export here (~560 posts). Do not scrape or import that archive in this change.
+Markdown source for Behind the Mac. The first import is the Atlas Carolina blog archive (562 posts). New posts can be added the same way.
 
 ## Filename
 
@@ -14,10 +14,12 @@ Example: `2024-03-12-macos-sequoia-first-look.md`
 
 ```yaml
 ---
-title: Post title
+title: "Post title"
 date: 2024-03-12
-slug: macos-sequoia-first-look
-original_url: https://atlascarolina.com/blog/example
+slug: "macos-sequoia-first-look"
+original_url: "https://www.atlascarolina.com/blog/example"
+author: "Chad Keith"
+source: atlascarolina
 ---
 ```
 
@@ -26,23 +28,16 @@ original_url: https://atlascarolina.com/blog/example
 | `title` | yes | Display title |
 | `date` | yes | `YYYY-MM-DD` (same as the filename prefix) |
 | `slug` | yes | URL slug; match the filename after the date |
-| `original_url` | no | Source URL on the Atlas blog, if this is a migrated post |
+| `original_url` | no | Source URL if this is a migrated Atlas post |
+| `author` | no | Use `Chad Keith` |
+| `source` | no | `atlascarolina` for migrated posts |
 
-Body is markdown after the closing `---`. Copy [`_template.md`](_template.md) to start a post.
+Opaque Squarespace ID slugs were rewritten from the title (kebab-case, unique). Human-readable Atlas slugs were kept.
+
+Body is markdown after the closing `---`. Copy [`_template.md`](_template.md) to start a post. Each published post also has a static page at `/blog/{slug}/`.
 
 ## Listing index
 
-Home (latest 10) and `/blog/` (full archive, grouped by year) read [`index.json`](index.json). Keep that file in sync when adding posts:
+Home (latest 10) and `/blog/` (full archive, grouped by year) read [`index.json`](index.json). Keep that file in sync when adding posts. Sort newest-first.
 
-```json
-[
-  {
-    "title": "Post title",
-    "date": "2024-03-12",
-    "slug": "macos-sequoia-first-look",
-    "original_url": "https://atlascarolina.com/blog/example"
-  }
-]
-```
-
-Sort newest-first. `original_url` is optional. Published URL for a post is `/blog/{slug}/`.
+Re-import helper: `scripts/import_atlas_posts.py`

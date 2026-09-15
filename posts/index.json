@@ -1,1 +1,4498 @@
-[]
+[
+  {
+    "title": "Beware of Scam Party Invitations from Hijacked Accounts",
+    "date": "2026-09-11",
+    "slug": "scam-party-invitations-from-hijacked-accounts",
+    "original_url": "https://www.atlascarolina.com/blog/scam-party-invitations-from-hijacked-accounts",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Updates Mac mini and Mac Studio with New M6 and M5 Ultra Chips",
+    "date": "2026-09-08",
+    "slug": "apple-updates-mac-mini-and-mac-studio-with-new-m6-and-m5-ultra-chips",
+    "original_url": "https://www.atlascarolina.com/blog/apple-updates-mac-mini-and-mac-studio-with-new-m6-and-m5-ultra-chips",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Eliminate Article Distractions with Safari Reader",
+    "date": "2026-09-04",
+    "slug": "eliminate-article-distractions-with-safari-reader",
+    "original_url": "https://www.atlascarolina.com/blog/eliminate-article-distractions-with-safari-reader",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "WhatCable Reports on Your USB-C Cables",
+    "date": "2026-09-01",
+    "slug": "whatcable-reports-on-your-usb-c-cables",
+    "original_url": "https://www.atlascarolina.com/blog/whatcable-reports-on-your-usb-c-cables",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Tim Cook’s last day as Apple CEO",
+    "date": "2026-09-01",
+    "slug": "tim-cooks-last-day-as-apple-ceo",
+    "original_url": "https://www.atlascarolina.com/blog/tim-cooks-last-day-as-apple-ceo",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Delay Mac Purchases to the Last Minute",
+    "date": "2026-08-28",
+    "slug": "dont-delay-mac-purchases",
+    "original_url": "https://www.atlascarolina.com/blog/dont-delay-mac-purchases",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Prepare for macOS, iOS, and iPadOS OS 27 by Updating to 26.6",
+    "date": "2026-08-25",
+    "slug": "prepare-for-macos-ios-and-ipados-os-27-by-updating-to-266",
+    "original_url": "https://www.atlascarolina.com/blog/prepare-for-macos-ios-and-ipados-os-27-by-updating-to-266",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Develop Safely with AI",
+    "date": "2026-08-21",
+    "slug": "develop-safely-with-ai",
+    "original_url": "https://www.atlascarolina.com/blog/develop-safely-with-ai",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Turn Off Unused Sharing Services on Your Mac",
+    "date": "2026-08-18",
+    "slug": "turn-off-unused-sharing-services-on-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/turn-off-unused-sharing-services-on-your-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "AI-Powered Hack Shows Why Updates Are More Important Than Ever",
+    "date": "2026-08-14",
+    "slug": "ai-powered-hack-updates",
+    "original_url": "https://www.atlascarolina.com/blog/ai-powered-hack-updates",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Be Careful When Offloading iPhone Apps",
+    "date": "2026-08-11",
+    "slug": "offloading-iphone-apps",
+    "original_url": "https://www.atlascarolina.com/blog/offloading-iphone-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share Your Location Temporarily While Traveling",
+    "date": "2026-08-04",
+    "slug": "share-location-temporarily-while-traveling",
+    "original_url": "https://www.atlascarolina.com/blog/share-location-temporarily-while-traveling",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Control Center Is Improved—and Highly Customizable—in macOS 26 Tahoe",
+    "date": "2026-07-31",
+    "slug": "control-center-highly-customizable-macos-26-tahoe",
+    "original_url": "https://www.atlascarolina.com/blog/control-center-highly-customizable-macos-26-tahoe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Never Miss a Meeting Again with In Your Face",
+    "date": "2026-07-28",
+    "slug": "in-your-face",
+    "original_url": "https://www.atlascarolina.com/blog/in-your-face",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Share Sensitive Information Securely over the Internet",
+    "date": "2026-07-24",
+    "slug": "share-sensitive-information-securely-over-the-internet",
+    "original_url": "https://www.atlascarolina.com/blog/share-sensitive-information-securely-over-the-internet",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Drag Documents to Apps in the macOS App Switcher",
+    "date": "2026-07-21",
+    "slug": "macos-app-switcher",
+    "original_url": "https://www.atlascarolina.com/blog/macos-app-switcher",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Raises Prices on Macs and iPads, but not iPhones or Apple Watches… Yet",
+    "date": "2026-07-17",
+    "slug": "apple-raises-prices-on-macs-and-ipads",
+    "original_url": "https://www.atlascarolina.com/blog/apple-raises-prices-on-macs-and-ipads",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Try Swipe Typing with QuickPath on the iPhone",
+    "date": "2026-07-14",
+    "slug": "swipe-typing-with-quickpath-on-the-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/swipe-typing-with-quickpath-on-the-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Understanding AI Today: No Longer Just a Chatbot",
+    "date": "2026-07-10",
+    "slug": "ai-today-no-longer-just-a-chatbot",
+    "original_url": "https://www.atlascarolina.com/blog/ai-today-no-longer-just-a-chatbot",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Fake Contacts to Improve Dictation Accuracy",
+    "date": "2026-07-07",
+    "slug": "improve-dictation-accuracy",
+    "original_url": "https://www.atlascarolina.com/blog/improve-dictation-accuracy",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Upgrade Your Apple Devices?",
+    "date": "2026-07-03",
+    "slug": "when-should-you-upgrade-your-apple-devices",
+    "original_url": "https://www.atlascarolina.com/blog/when-should-you-upgrade-your-apple-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Office 2019 for Mac Goes Read-Only on July 13, 2026",
+    "date": "2026-06-30",
+    "slug": "office-2019-for-mac-goes-read-only-on-july-13-2026",
+    "original_url": "https://www.atlascarolina.com/blog/office-2019-for-mac-goes-read-only-on-july-13-2026",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How AI Vulnerability Detection Changes Software Security",
+    "date": "2026-06-26",
+    "slug": "ai-vulnerability-detection-changes-software-security",
+    "original_url": "https://www.atlascarolina.com/blog/ai-vulnerability-detection-changes-software-security",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Not Sure If You’re Presentable for a Video Call? Try Hand Mirror",
+    "date": "2026-06-23",
+    "slug": "hand-mirror",
+    "original_url": "https://www.atlascarolina.com/blog/hand-mirror",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best Mac for a College-Bound Student in 2026",
+    "date": "2026-06-19",
+    "slug": "best-mac-college-bound-student-2026",
+    "original_url": "https://www.atlascarolina.com/blog/best-mac-college-bound-student-2026",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Your AirPods as a Camera Remote",
+    "date": "2026-06-16",
+    "slug": "airpods-as-a-camera-remote",
+    "original_url": "https://www.atlascarolina.com/blog/airpods-as-a-camera-remote",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "10 Reasons to Upgrade to Apple’s Version 27 Operating Systems This Fall",
+    "date": "2026-06-10",
+    "slug": "upgrade-to-apples-version-27-operating-systems-this-fall-5kt5n",
+    "original_url": "https://www.atlascarolina.com/blog/upgrade-to-apples-version-27-operating-systems-this-fall-5kt5n",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Safari’s Compact Tab Bar Returns in macOS 26.4 and iPadOS 26.4",
+    "date": "2026-06-09",
+    "slug": "safaris-compact-tab-bar",
+    "original_url": "https://www.atlascarolina.com/blog/safaris-compact-tab-bar",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Speed Up Mac and iOS Typing with Text Expansion",
+    "date": "2026-06-05",
+    "slug": "text-expansion",
+    "original_url": "https://www.atlascarolina.com/blog/text-expansion",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Never Run AppleScripts from Untrusted Sources",
+    "date": "2026-06-02",
+    "slug": "applescripts-from-untrusted-sources",
+    "original_url": "https://www.atlascarolina.com/blog/applescripts-from-untrusted-sources",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Sure Your Home Network Router Is Secure",
+    "date": "2026-05-29",
+    "slug": "home-network-router-is-secure",
+    "original_url": "https://www.atlascarolina.com/blog/home-network-router-is-secure",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choose Default Apps for File Types in iOS 26 and iPadOS 26",
+    "date": "2026-05-26",
+    "slug": "default-apps-for-file-types-in-ios-26-and-ipados-26",
+    "original_url": "https://www.atlascarolina.com/blog/default-apps-for-file-types-in-ios-26-and-ipados-26",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Get to Your Files Faster by Choosing the Best Finder View",
+    "date": "2026-05-22",
+    "slug": "best-finder-view",
+    "original_url": "https://www.atlascarolina.com/blog/best-finder-view",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Today’s Fire Prevention Tip: Avoid Cheap Lithium-Ion Batteries",
+    "date": "2026-05-19",
+    "slug": "avoid-cheap-lithium-ion-batteries",
+    "original_url": "https://www.atlascarolina.com/blog/avoid-cheap-lithium-ion-batteries",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Customize the Camera Control on Your iPhone",
+    "date": "2026-05-15",
+    "slug": "customize-the-camera-control-on-your-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/customize-the-camera-control-on-your-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Understanding New MacBook Battery Charging Features",
+    "date": "2026-05-01",
+    "slug": "new-macbook-battery-charging-features",
+    "original_url": "https://www.atlascarolina.com/blog/new-macbook-battery-charging-features",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Not All Your Mac’s USB-C Ports Are the Same",
+    "date": "2026-04-24",
+    "slug": "macs-usb-c-ports",
+    "original_url": "https://www.atlascarolina.com/blog/macs-usb-c-ports",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Intel-Based Apps Will Stop Working in macOS 28",
+    "date": "2026-04-21",
+    "slug": "intel-based-apps-will-stop-working-in-macos-28",
+    "original_url": "https://www.atlascarolina.com/blog/intel-based-apps-will-stop-working-in-macos-28",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two iPhone Exploit Kits Mean You Should Update iOS Now",
+    "date": "2026-04-17",
+    "slug": "exploit-kits-update-ios-now",
+    "original_url": "https://www.atlascarolina.com/blog/exploit-kits-update-ios-now",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Create AI-Powered Playlists with iOS 26.4’s Playlist Playground",
+    "date": "2026-04-14",
+    "slug": "ai-powered-playlists-with-ios-264s-playlist-playground",
+    "original_url": "https://www.atlascarolina.com/blog/ai-powered-playlists-with-ios-264s-playlist-playground",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "View Suspicious Documents Safely with Dangerzone",
+    "date": "2026-04-10",
+    "slug": "suspicious-documents-safely-dangerzone",
+    "original_url": "https://www.atlascarolina.com/blog/suspicious-documents-safely-dangerzone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Check Your Input Source If Your Mac Types Unexpected Characters",
+    "date": "2026-04-07",
+    "slug": "input-source-unexpected-characters",
+    "original_url": "https://www.atlascarolina.com/blog/input-source-unexpected-characters",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Cloud Storage Isn’t a Backup",
+    "date": "2026-04-03",
+    "slug": "cloud-storage-isnt-a-backup",
+    "original_url": "https://www.atlascarolina.com/blog/cloud-storage-isnt-a-backup",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iOS 26 Can AutoFill Credit Card Details",
+    "date": "2026-03-31",
+    "slug": "ios-26-autofill-credit-card-details",
+    "original_url": "https://www.atlascarolina.com/blog/ios-26-autofill-credit-card-details",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s Focus Is Powerful but Unpredictable",
+    "date": "2026-03-27",
+    "slug": "apple-focus",
+    "original_url": "https://www.atlascarolina.com/blog/apple-focus",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Refreshes Studio Display and Introduces Studio Display XDR",
+    "date": "2026-03-24",
+    "slug": "studio-display-studio-display-xdr",
+    "original_url": "https://www.atlascarolina.com/blog/studio-display-studio-display-xdr",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How Does the New MacBook Neo Compare to the MacBook Air?",
+    "date": "2026-03-20",
+    "slug": "macbook-neo-compare-to-the-macbook-air",
+    "original_url": "https://www.atlascarolina.com/blog/macbook-neo-compare-to-the-macbook-air",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Find and Silence the Browser Tab That’s Playing Audio",
+    "date": "2026-03-17",
+    "slug": "browser-tab-audio",
+    "original_url": "https://www.atlascarolina.com/blog/browser-tab-audio",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Refreshes iPhone, iPad Air, and MacBook Lineups",
+    "date": "2026-03-13",
+    "slug": "apple-refreshes-iphone-ipad-air-and-macbook-lineups",
+    "original_url": "https://www.atlascarolina.com/blog/apple-refreshes-iphone-ipad-air-and-macbook-lineups",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Losing Messages or Calls? Look in the Unknown Senders/Callers Filter",
+    "date": "2026-03-10",
+    "slug": "losing-messages-or-calls-look-in-the-unknown-senders-callers-filter",
+    "original_url": "https://www.atlascarolina.com/blog/losing-messages-or-calls-lunknown-senders/callers-filter",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Your IT Budget Working During a Slowdown",
+    "date": "2026-03-06",
+    "slug": "it-budget",
+    "original_url": "https://www.atlascarolina.com/blog/it-budget",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Look Up a Saved Wi-Fi Network Password",
+    "date": "2026-03-03",
+    "slug": "look-up-a-saved-wi-fi-network-password",
+    "original_url": "https://www.atlascarolina.com/blog/look-up-a-saved-wi-fi-network-password",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Your Windows Reopen (Or Don’t) As You Expect",
+    "date": "2026-02-27",
+    "slug": "windows-reopen",
+    "original_url": "https://www.atlascarolina.com/blog/windows-reopen",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Customize Folder Colors and Icons in macOS 26 Tahoe",
+    "date": "2026-02-24",
+    "slug": "customize-folder-colors-and-icons-in-macos-26-tahoe",
+    "original_url": "https://www.atlascarolina.com/blog/customize-folder-colors-and-icons-in-macos-26-tahoe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Be Very Careful with AI Agents!",
+    "date": "2026-02-20",
+    "slug": "ai-agents",
+    "original_url": "https://www.atlascarolina.com/blog/ai-agents",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Finder Window Columns Resize to Fit Filenames",
+    "date": "2026-02-17",
+    "slug": "finder-window-columns-resize-to-fit-filenames",
+    "original_url": "https://www.atlascarolina.com/blog/finder-window-columns-resize-to-fit-filenames",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Can You Do With the iPhone’s Action Button? Nearly Anything!",
+    "date": "2026-02-16",
+    "slug": "iphones-action-button",
+    "original_url": "https://www.atlascarolina.com/blog/iphones-action-button",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Apple Creator Studio Bundles Pro Apps",
+    "date": "2026-02-15",
+    "slug": "new-apple-creator-studio-bundles-pro-apps",
+    "original_url": "https://www.atlascarolina.com/blog/new-apple-creator-studio-bundles-pro-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Upgrade to macOS 26 Tahoe When You’re Ready",
+    "date": "2026-01-30",
+    "slug": "upgrade-macos-26-tahoe",
+    "original_url": "https://www.atlascarolina.com/blog/upgrade-macos-26-tahoe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Google Points to a Chatbot Conversation, Be Skeptical",
+    "date": "2026-01-27",
+    "slug": "chatbot-conversation",
+    "original_url": "https://www.atlascarolina.com/blog/chatbot-conversation",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Encourage Successful AI Use in Your Organization",
+    "date": "2026-01-23",
+    "slug": "successful-ai-use-in-your-organization",
+    "original_url": "https://www.atlascarolina.com/blog/successful-ai-use-in-your-organization",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "If Your iPhone’s Lock Screen Clock Is Too Transparent, You Can Fix It",
+    "date": "2026-01-20",
+    "slug": "iphones-lock-screen-clock-transparent",
+    "original_url": "https://www.atlascarolina.com/blog/iphones-lock-screen-clock-transparent",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Ensure You Don’t Miss Reminders",
+    "date": "2026-01-16",
+    "slug": "reminders",
+    "original_url": "https://www.atlascarolina.com/blog/reminders",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Try macOS 26.2’s Edge Light for Low-Light Video Calls",
+    "date": "2026-01-13",
+    "slug": "macos-262s-edge-light-video-calls",
+    "original_url": "https://www.atlascarolina.com/blog/macos-262s-edge-light-video-calls",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Five Invisible Characters That Still Matter in Word Processing and Layout",
+    "date": "2026-01-09",
+    "slug": "five-invisible-characters-word-processing",
+    "original_url": "https://www.atlascarolina.com/blog/five-invisible-characters-word-processing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Control Song Transitions in Apple Music",
+    "date": "2026-01-06",
+    "slug": "song-transitions-apple-music",
+    "original_url": "https://www.atlascarolina.com/blog/song-transitions-apple-music",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Spotlight Gets Brighter in macOS 26 Tahoe",
+    "date": "2026-01-02",
+    "slug": "spotlight-gets-brighter-in-macos-26-tahoe",
+    "original_url": "https://www.atlascarolina.com/blog/spotlight-gets-brighter-in-macos-26-tahoe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Reminders (Finally) Adds Time Zone Support",
+    "date": "2025-12-30",
+    "slug": "reminders-time-zone-support",
+    "original_url": "https://www.atlascarolina.com/blog/reminders-time-zone-support",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Automate Your Mac with Folder Action Scripts",
+    "date": "2025-12-26",
+    "slug": "automate-your-mac-folder-action-scripts",
+    "original_url": "https://www.atlascarolina.com/blog/automate-your-mac-folder-action-scripts",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Create Reminders to Return Calls Directly in the Phone App",
+    "date": "2025-12-23",
+    "slug": "reminders-return-calls-phone-app",
+    "original_url": "https://www.atlascarolina.com/blog/reminders-return-calls-phone-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Five Ways to Protect Against Forgetting Your Apple Account Password",
+    "date": "2025-12-19",
+    "slug": "ways-to-protect-apple-account-password",
+    "original_url": "https://www.atlascarolina.com/blog/ways-to-protect-apple-account-password",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Messages Now Offers Shared Conversation Backgrounds",
+    "date": "2025-12-16",
+    "slug": "messages-shared-conversation-backgrounds",
+    "original_url": "https://www.atlascarolina.com/blog/messages-shared-conversation-backgrounds",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Stay Safe in 2026 with These New Year’s Resolutions",
+    "date": "2025-12-12",
+    "slug": "2026-resolutions",
+    "original_url": "https://www.atlascarolina.com/blog/2026-resolutions",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Clean Up Your Mac’s Login Items for Better Performance",
+    "date": "2025-12-09",
+    "slug": "clean-macs-login-items-better-performance",
+    "original_url": "https://www.atlascarolina.com/blog/clean-macs-login-items-better-performance",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Miss Calls and Texts: How to Use New Phone and Messages Filtering",
+    "date": "2025-12-05",
+    "slug": "miss-calls-texts-phone-messages-filtering",
+    "original_url": "https://www.atlascarolina.com/blog/miss-calls-texts-phone-messages-filtering",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Backups: Trust but Verify",
+    "date": "2025-12-02",
+    "slug": "backups-trust-but-verify",
+    "original_url": "https://www.atlascarolina.com/blog/backups-trust-but-verify",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iPadOS 26 Brings Mac-Like Multitasking to the iPad",
+    "date": "2025-11-28",
+    "slug": "ipados-26-multitasking-to-the-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/ipados-26-multitasking-to-the-ipad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Charge Your MacBook with the Right Power Adapter",
+    "date": "2025-11-25",
+    "slug": "charge-macbook-right-power-adapter",
+    "original_url": "https://www.atlascarolina.com/blog/charge-macbook-right-power-adapter",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Features in iOS 26.1",
+    "date": "2025-11-21",
+    "slug": "new-features-in-ios-261",
+    "original_url": "https://www.atlascarolina.com/blog/new-features-in-ios-261",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Be Alert for Deepfake Phishing Scams",
+    "date": "2025-11-18",
+    "slug": "deepfake-phishing-scams",
+    "original_url": "https://www.atlascarolina.com/blog/deepfake-phishing-scams",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "A Few of Our Favorite Things: 2025 Tech Edition",
+    "date": "2025-11-14",
+    "slug": "2025-tech-edition",
+    "original_url": "https://www.atlascarolina.com/blog/2025-tech-edition",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Canva’s Free Affinity App Takes on Adobe Creative Cloud",
+    "date": "2025-11-11",
+    "slug": "canvas-affinity-app-adobe-creative-cloud",
+    "original_url": "https://www.atlascarolina.com/blog/canvas-affinity-app-adobe-creative-cloud",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make the Most of Visual Intelligence on the iPhone",
+    "date": "2025-11-07",
+    "slug": "visual-intelligence-on-the-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/visual-intelligence-on-the-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "macOS 26 Tahoe Introduces New Recovery Assistant",
+    "date": "2025-11-05",
+    "slug": "macos-26-tahoe-recovery-assistant",
+    "original_url": "https://www.atlascarolina.com/blog/macos-26-tahoe-recovery-assistant",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Notable User Interface Changes to Expect in macOS 26",
+    "date": "2025-10-24",
+    "slug": "interface-changes-in-macos-26",
+    "original_url": "https://www.atlascarolina.com/blog/interface-changes-in-macos-26",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Updated Passwords App Adds History",
+    "date": "2025-10-21",
+    "slug": "updated-passwords-app",
+    "original_url": "https://www.atlascarolina.com/blog/updated-passwords-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Adds M5 Chip to MacBook Pro, iPad Pro, and Vision Pro",
+    "date": "2025-10-20",
+    "slug": "m5-chip-to-macbook-pro-ipad-pro-and-vision-pro",
+    "original_url": "https://www.atlascarolina.com/blog/m5-chip-to-macbook-pro-ipad-pro-and-vision-pro",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Ten Useful New Features in iOS 26’s Phone App",
+    "date": "2025-10-17",
+    "slug": "new-features-in-ios-26s-phone-app",
+    "original_url": "https://www.atlascarolina.com/blog/new-features-in-ios-26s-phone-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Customize the iPhone and iPad Home Screen with Liquid Glass",
+    "date": "2025-10-14",
+    "slug": "iphone-and-ipad-liquid-glass",
+    "original_url": "https://www.atlascarolina.com/blog/iphone-and-ipad-liquid-glass",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What’s Liquid Glass, and What to Do If You Don’t Like It",
+    "date": "2025-10-10",
+    "slug": "liquid-glass",
+    "original_url": "https://www.atlascarolina.com/blog/liquid-glass",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "App Store Gains Accessibility Nutrition Labels",
+    "date": "2025-10-07",
+    "slug": "app-store-nutrition-labels",
+    "original_url": "https://www.atlascarolina.com/blog/app-store-nutrition-labels",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When to Trust AI Tech Answers (And When to Call Us)",
+    "date": "2025-10-03",
+    "slug": "when-to-trust-ai-tech-answers-and-when-to-call-us",
+    "original_url": "https://www.atlascarolina.com/blog/when-to-trust-ai-tech-answers-and-when-to-call-us",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Display Contacts with Last Names First",
+    "date": "2025-09-30",
+    "slug": "display-contacts-with-last-names-first",
+    "original_url": "https://www.atlascarolina.com/blog/display-contacts-with-last-names-first",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Follow This Advice Before Switching to a New iPhone 17",
+    "date": "2025-09-26",
+    "slug": "switching-to-a-new-iphone-17",
+    "original_url": "https://www.atlascarolina.com/blog/switching-to-a-new-iphone-17",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Sensitive Data Private by Disabling AI Training Options",
+    "date": "2025-09-23",
+    "slug": "sensitive-data-private-disabling-ai-training-options",
+    "original_url": "https://www.atlascarolina.com/blog/sensitive-data-private-disabling-ai-training-options",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Watch What You Say in AI-Recorded Meetings",
+    "date": "2025-09-19",
+    "slug": "ai-recorded-meetings",
+    "original_url": "https://www.atlascarolina.com/blog/ai-recorded-meetings",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Blood Oxygen Monitoring Returns to Recent US Apple Watches with Software Updates",
+    "date": "2025-09-16",
+    "slug": "blood-oxygen-monitoring-apple-watches-updates",
+    "original_url": "https://www.atlascarolina.com/blog/blood-oxygen-monitoring-apple-watches-updates",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Subscribe to AppleCare?",
+    "date": "2025-09-12",
+    "slug": "subscribe-to-applecare",
+    "original_url": "https://www.atlascarolina.com/blog/subscribe-to-applecare",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Unveils New iPhone 17 Lineup, Updated Apple Watches, and AirPods Pro 3",
+    "date": "2025-09-11",
+    "slug": "new-iphone-17-lineup-updated-apple-watches-and-airpods-pro-3",
+    "original_url": "https://www.atlascarolina.com/blog/new-iphone-17-lineup-updated-apple-watches-and-airpods-pro-3",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Pay for Apple TV+ Annually to Avoid the Recent Monthly Price Increase",
+    "date": "2025-09-09",
+    "slug": "pay-for-apple-tv-annually-price",
+    "original_url": "https://www.atlascarolina.com/blog/pay-for-apple-tv-annually-price",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Is Safe Mode, and When Should You Use It?",
+    "date": "2025-08-29",
+    "slug": "what-is-safe-mode-and-when-should-you-use-it",
+    "original_url": "https://www.atlascarolina.com/blog/what-is-safe-mode-and-when-should-you-use-it",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Press Control-Return in Sequoia to Open Contextual Menus",
+    "date": "2025-08-26",
+    "slug": "press-control-return-in-sequoia-to-open-contextual-menus",
+    "original_url": "https://www.atlascarolina.com/blog/press-control-return-in-sequoia-to-open-contextual-menus",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Watch Out for Modern Tech Support Scams",
+    "date": "2025-08-22",
+    "slug": "modern-tech-support-scams",
+    "original_url": "https://www.atlascarolina.com/blog/modern-tech-support-scams",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Recovering from a Failed Update with a Nearby iPhone or iPad",
+    "date": "2025-08-19",
+    "slug": "recovery-from-failed-update-with-a-nearby-iphone-or-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/recovery-from-failed-update-with-a-nearby-iphone-or-ipad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Heat Wave Survival Guide for Your Apple Devices",
+    "date": "2025-08-15",
+    "slug": "heat-wave-survival-guide-for-your-apple-devices",
+    "original_url": "https://www.atlascarolina.com/blog/heat-wave-survival-guide-for-your-apple-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Dropbox Passwords Ending: Switch to 1Password Now",
+    "date": "2025-08-12",
+    "slug": "dropbox-passwords-ending-switch-to-1password-now",
+    "original_url": "https://www.atlascarolina.com/blog/dropbox-passwords-ending-switch-to-1password-now",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Advice for Good Office Ergonomics",
+    "date": "2025-08-08",
+    "slug": "advice-for-good-office-ergonomics",
+    "original_url": "https://www.atlascarolina.com/blog/advice-for-good-office-ergonomics",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Introduces AppleCare One for Multi-Device Coverage",
+    "date": "2025-08-05",
+    "slug": "apple-introduces-applecare-one-for-multi-device-coverage",
+    "original_url": "https://www.atlascarolina.com/blog/apple-introduces-applecare-one-for-multi-device-coverage",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Stay Connected Off the Grid: How to Use Messages via Satellite in iOS 18",
+    "date": "2025-08-01",
+    "slug": "messages-via-satellite-in-ios-18",
+    "original_url": "https://www.atlascarolina.com/blog/messages-via-satellite-in-ios-18",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Never Paste Unknown Text into Terminal!",
+    "date": "2025-07-29",
+    "slug": "never-paste-unknown-text-into-terminal",
+    "original_url": "https://www.atlascarolina.com/blog/never-paste-unknown-text-into-terminal",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Upgrade Soon: Intel-based Macs and Apps Are On Their Way Out",
+    "date": "2025-07-25",
+    "slug": "upgrade-soon-intel-based-macs-and-apps",
+    "original_url": "https://www.atlascarolina.com/blog/upgrade-soon-intel-based-macs-and-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Audit How You Appear in Google Search",
+    "date": "2025-07-22",
+    "slug": "audit-how-you-appear-in-google-search",
+    "original_url": "https://www.atlascarolina.com/blog/audit-how-you-appear-in-google-search",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best AI Chatbot for Your Needs",
+    "date": "2025-07-18",
+    "slug": "best-ai-chatbot",
+    "original_url": "https://www.atlascarolina.com/blog/best-ai-chatbot",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Anker Recalls Millions of Power Banks: Check Yours Today",
+    "date": "2025-07-15",
+    "slug": "anker-recalls-power-banks",
+    "original_url": "https://www.atlascarolina.com/blog/anker-recalls-power-banks",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Combat Smart TV Privacy Abuses with an Apple TV",
+    "date": "2025-07-11",
+    "slug": "smart-tv-privacy-abuses-with-an-apple-tv",
+    "original_url": "https://www.atlascarolina.com/blog/smart-tv-privacy-abuses-with-an-apple-tv",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "16 Billion Passwords Exposed in Recent Data Breach: Turn on 2FA!",
+    "date": "2025-07-08",
+    "slug": "passwords-exposed-data-breach-turn-on-2fa",
+    "original_url": "https://www.atlascarolina.com/blog/passwords-exposed-data-breach-turn-on-2fa",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know You Can Rename Many Bluetooth Devices?",
+    "date": "2025-07-04",
+    "slug": "rename-many-bluetooth-devices",
+    "original_url": "https://www.atlascarolina.com/blog/rename-many-bluetooth-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Ten Tips for Making the Best Use of AI Chatbots",
+    "date": "2025-06-27",
+    "slug": "ten-tips-for-making-the-best-use-of-ai-chatbots",
+    "original_url": "https://www.atlascarolina.com/blog/ten-tips-for-making-the-best-use-of-ai-chatbots",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Switch Between Apps Fluidly on Face ID iPhones",
+    "date": "2025-06-24",
+    "slug": "switch-between-apps-fluidly-on-face-id-iphones",
+    "original_url": "https://www.atlascarolina.com/blog/switch-between-apps-fluidly-on-face-id-iphones",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Consider Personal Cyber Insurance",
+    "date": "2025-06-20",
+    "slug": "consider-personal-cyber-insurance",
+    "original_url": "https://www.atlascarolina.com/blog/consider-personal-cyber-insurance",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Clean Your iPhone’s Camera Lens",
+    "date": "2025-06-17",
+    "slug": "clean-your-iphones-camera-lens",
+    "original_url": "https://www.atlascarolina.com/blog/clean-your-iphones-camera-lens",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "At WWDC 2025, Apple Unveils Liquid Glass and Previews New OS Features",
+    "date": "2025-06-16",
+    "slug": "wwdc-2025-apple-liquid-glass-new-os-features",
+    "original_url": "https://www.atlascarolina.com/blog/wwdc-2025-apple-liquid-glass-new-os-features",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best Mac for a College-Bound Student in 2025",
+    "date": "2025-06-13",
+    "slug": "best-mac-for-a-college-bound-student-in-2025",
+    "original_url": "https://www.atlascarolina.com/blog/best-mac-for-a-college-bound-student-in-2025",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Apple Devices Easier for Family to Access with Secondary Biometrics",
+    "date": "2025-06-10",
+    "slug": "apple-devices-access-with-secondary-biometrics",
+    "original_url": "https://www.atlascarolina.com/blog/apple-devices-access-with-secondary-biometrics",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Beware Domain Name Renewal Phishing Attacks",
+    "date": "2025-05-30",
+    "slug": "domain-name-renewal-phishing-attacks",
+    "original_url": "https://www.atlascarolina.com/blog/domain-name-renewal-phishing-attacks",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Passkeys Are Better than Passwords (And How to Use Them)",
+    "date": "2025-05-27",
+    "slug": "why-passkeys-passwords-and-how-to-use-them",
+    "original_url": "https://www.atlascarolina.com/blog/why-passkeys-passwords-and-how-to-use-them",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Silicon Macs Can't Boot from the DFU Port",
+    "date": "2025-05-23",
+    "slug": "apple-silicon-macs-dfu-port",
+    "original_url": "https://www.atlascarolina.com/blog/apple-silicon-macs-dfu-port",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Every Business Needs an AI Policy",
+    "date": "2025-05-20",
+    "slug": "business-ai-policy",
+    "original_url": "https://www.atlascarolina.com/blog/business-ai-policy",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Sure to Check Settings on Multiple Devices",
+    "date": "2025-05-16",
+    "slug": "check-settings-on-multiple-devices",
+    "original_url": "https://www.atlascarolina.com/blog/check-settings-on-multiple-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Consider Business Cyber Insurance",
+    "date": "2025-05-13",
+    "slug": "business-cyber-insurance",
+    "original_url": "https://www.atlascarolina.com/blog/business-cyber-insurance",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Try Blip for Fast Transfers of Any Size Between Platforms",
+    "date": "2025-05-09",
+    "slug": "blip-for-fast-transfers-between-platforms",
+    "original_url": "https://www.atlascarolina.com/blog/blip-for-fast-transfers-between-platforms",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use AirPlay to Mirror or Extend Your Mac’s Display",
+    "date": "2025-05-06",
+    "slug": "airplay-mirror-or-extend-your-macs-display",
+    "original_url": "https://www.atlascarolina.com/blog/airplay-mirror-or-extend-your-macs-display",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share Wi-Fi Network Passwords Using QR Codes",
+    "date": "2025-05-02",
+    "slug": "share-wi-fi-network-passwords-using-qr-codes",
+    "original_url": "https://www.atlascarolina.com/blog/share-wi-fi-network-passwords-using-qr-codes",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Working with Time Zones in Apple’s Calendar Apps",
+    "date": "2025-04-29",
+    "slug": "time-zones-in-apples-calendar-apps",
+    "original_url": "https://www.atlascarolina.com/blog/time-zones-in-apples-calendar-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Says More Personalized Siri Will Be Delayed",
+    "date": "2025-04-25",
+    "slug": "personalized-siri-delayed",
+    "original_url": "https://www.atlascarolina.com/blog/personalized-siri-delayed",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Security Precautions to Take While Traveling",
+    "date": "2025-04-22",
+    "slug": "security-precautions-to-take-while-traveling",
+    "original_url": "https://www.atlascarolina.com/blog/security-precautions-to-take-while-traveling",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "With iOS 18.2 and Later, You Can Share the Location of Lost Items in Find My",
+    "date": "2025-04-18",
+    "slug": "ios-182-share-location-of-lost-items-in-find-my",
+    "original_url": "https://www.atlascarolina.com/blog/ios-182-share-location-of-lost-items-in-find-my",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Your Browsing Organized with Browser Profiles",
+    "date": "2025-04-15",
+    "slug": "browsing-organized-with-browser-profiles",
+    "original_url": "https://www.atlascarolina.com/blog/browsing-organized-with-browser-profiles",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Assume That Top Google Search Results Are Guaranteed Safe",
+    "date": "2025-04-11",
+    "slug": "google-search-results",
+    "original_url": "https://www.atlascarolina.com/blog/google-search-results",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Run a Business? Sign Up with Apple Business Connect",
+    "date": "2025-04-08",
+    "slug": "apple-business-connect",
+    "original_url": "https://www.atlascarolina.com/blog/apple-business-connect",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Updates Mac Studio with M4 Max and M3 Ultra Chips",
+    "date": "2025-04-04",
+    "slug": "mac-studio-with-m4-max-and-m3-ultra-chips",
+    "original_url": "https://www.atlascarolina.com/blog/mac-studio-with-m4-max-and-m3-ultra-chips",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Migrate Purchases from One Apple Account to Another",
+    "date": "2025-04-01",
+    "slug": "migrate-purchases-from-one-apple-account-to-another",
+    "original_url": "https://www.atlascarolina.com/blog/migrate-purchases-from-one-apple-account-to-another",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Speed Bumps iPad with A16 and iPad Air with M3",
+    "date": "2025-03-28",
+    "slug": "apple-ipad-a16-ipad-air-m3",
+    "original_url": "https://www.atlascarolina.com/blog/apple-ipad-a16-ipad-air-m3",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New M4 MacBook Air Features Faster Performance and Improved Video Calls",
+    "date": "2025-03-25",
+    "slug": "new-m4-macbook-air-performance-video-calls",
+    "original_url": "https://www.atlascarolina.com/blog/new-m4-macbook-air-performance-video-calls",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "HomePods Can Alert You of Smoke and Carbon Monoxide Alarms",
+    "date": "2025-03-21",
+    "slug": "homepods-alert-smoke-and-carbon-monoxide-alarms",
+    "original_url": "https://www.atlascarolina.com/blog/homepods-alert-smoke-and-carbon-monoxide-alarms",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In Times of Uncertainty, Increase Your Digital Privacy and Security",
+    "date": "2025-03-18",
+    "slug": "increase-your-digital-privacy-and-security",
+    "original_url": "https://www.atlascarolina.com/blog/increase-your-digital-privacy-and-security",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Create Links to Selected Text in Long Web Pages",
+    "date": "2025-03-14",
+    "slug": "create-links-to-selected-web-pages",
+    "original_url": "https://www.atlascarolina.com/blog/create-links-to-selected-web-pages",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Never Save Your Work in These Locations",
+    "date": "2025-03-11",
+    "slug": "never-save-your-work-in-these-locations",
+    "original_url": "https://www.atlascarolina.com/blog/never-save-your-work-in-these-locations",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How (and Why) to Use iPhone Mirroring on Your Mac",
+    "date": "2025-03-04",
+    "slug": "iphone-mirroring-on-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/iphone-mirroring-on-your-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "For Moments of Joy, Use watchOS 11’s Photos Watch Face",
+    "date": "2025-02-28",
+    "slug": "watchos-11s-photos-watch-face",
+    "original_url": "https://www.atlascarolina.com/blog/watchos-11s-photos-watch-face",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Purchasing a Fireproof Safe, Pay Attention to the Details",
+    "date": "2025-02-25",
+    "slug": "purchasing-a-fireproof-safe",
+    "original_url": "https://www.atlascarolina.com/blog/purchasing-a-fireproof-safe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New iPhone 16e Redefines Budget iPhone Choices",
+    "date": "2025-02-24",
+    "slug": "new-iphone-16e-redefines-budget-iphone-choices",
+    "original_url": "https://www.atlascarolina.com/blog/new-iphone-16e-redefines-budget-iphone-choices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iOS 18 and iPadOS 18 Offer Better PDF Handling in Mail",
+    "date": "2025-02-21",
+    "slug": "ios-18-and-ipados-18-pdf-handling-in-mail",
+    "original_url": "https://www.atlascarolina.com/blog/ios-18-and-ipados-18-pdf-handling-in-mail",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Businesses, Don’t Overlook Email Backup",
+    "date": "2025-02-18",
+    "slug": "businesses-email-backup",
+    "original_url": "https://www.atlascarolina.com/blog/businesses-email-backup",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Brings Back the Calculator App’s Repeat Feature",
+    "date": "2025-02-14",
+    "slug": "apple-calculator-apps-repeat-feature",
+    "original_url": "https://www.atlascarolina.com/blog/apple-calculator-apps-repeat-feature",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s January 2025 Releases Enhance Apple Intelligence Features",
+    "date": "2025-02-11",
+    "slug": "january-2025-releases-enhance-apple-intelligence-features",
+    "original_url": "https://www.atlascarolina.com/blog/january-2025-releases-enhance-apple-intelligence-features",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Invites Simplifies Social Event Planning",
+    "date": "2025-02-10",
+    "slug": "apple-invites-simplifies-social-event-planning",
+    "original_url": "https://www.atlascarolina.com/blog/apple-invites-simplifies-social-event-planning",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Add Weather to Your Mac’s Menu Bar with This Sequoia Tip",
+    "date": "2025-01-31",
+    "slug": "add-weather-to-your-macs-menu-bar-with-this-sequoia-tip",
+    "original_url": "https://www.atlascarolina.com/blog/add-weather-to-your-macs-menu-bar-with-this-sequoia-tip",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Feel Free to Upgrade to macOS 15 Sequoia When You’re Ready",
+    "date": "2025-01-28",
+    "slug": "upgrade-to-macos-15-sequoia",
+    "original_url": "https://www.atlascarolina.com/blog/upgrade-to-macos-15-sequoia",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Text Replacements Not Working on the Mac? Check This Setting",
+    "date": "2025-01-24",
+    "slug": "text-replacements-not-working-on-the-mac",
+    "original_url": "https://www.atlascarolina.com/blog/text-replacements-not-working-on-the-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Mail on the iPhone Can Categorize Your Messages in iOS 18.2",
+    "date": "2025-01-21",
+    "slug": "iphone-mail-categorize-your-messages-in-ios-182",
+    "original_url": "https://www.atlascarolina.com/blog/iphone-mail-categorize-your-messages-in-ios-182",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Convince Microsoft Office Apps to Save Files on Your Mac",
+    "date": "2025-01-17",
+    "slug": "convince-microsoft-office-apps-to-save-files-on-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/convince-microsoft-office-apps-to-save-files-on-your-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Improve Your Hearing with the AirPods Pro 2 and iOS 18",
+    "date": "2025-01-14",
+    "slug": "improve-your-hearing-with-the-airpods-pro-2-and-ios-18",
+    "original_url": "https://www.atlascarolina.com/blog/improve-your-hearing-with-the-airpods-pro-2-and-ios-18",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Manage Default Apps in One Place in iOS 18.2 and iPadOS 18.2",
+    "date": "2025-01-10",
+    "slug": "manage-default-apps-in-ios-182-and-ipados-182",
+    "original_url": "https://www.atlascarolina.com/blog/manage-default-apps-in-ios-182-and-ipados-182",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What You Can Do with the December Wave of Apple Intelligence Features",
+    "date": "2025-01-07",
+    "slug": "december-wave-of-apple-intelligence-features",
+    "original_url": "https://www.atlascarolina.com/blog/december-wave-of-apple-intelligence-features",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Train Yourself to Use the iPhone 16’s New Camera Control Button",
+    "date": "2024-12-27",
+    "slug": "iphone-16s-new-camera-control-button",
+    "original_url": "https://www.atlascarolina.com/blog/iphone-16s-new-camera-control-button",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Safari 18 Adds Highlights, Distraction Control, Redesigned Reader, and Video Viewer",
+    "date": "2024-12-24",
+    "slug": "safari-18-distraction-control-redesigned-reader-and-video-viewer",
+    "original_url": "https://www.atlascarolina.com/blog/safari-18-distraction-control-redesigned-reader-and-video-viewer",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Listen to Anyone Who Tells You to Drag a Text File into Terminal",
+    "date": "2024-12-20",
+    "slug": "dont-drag-a-text-file-into-terminal",
+    "original_url": "https://www.atlascarolina.com/blog/dont-drag-a-text-file-into-terminal",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Quick Look to Preview Files and Folders in the Finder, Spotlight, and Open Dialogs",
+    "date": "2024-12-17",
+    "slug": "use-quick-look-to-preview-files-and-folders-in-the-finder-spotlight-and-open-dialogs",
+    "original_url": "https://www.atlascarolina.com/blog/use-quick-look-to-preview-files-and-folders-in-the-finder-spotlight-and-open-dialogs",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Control Window Tiling in macOS 15 Sequoia",
+    "date": "2024-12-13",
+    "slug": "control-window-tiling-in-macos-15-sequoia",
+    "original_url": "https://www.atlascarolina.com/blog/control-window-tiling-in-macos-15-sequoia",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Importance of Properly Offboarding Employees",
+    "date": "2024-12-10",
+    "slug": "offboarding-employees",
+    "original_url": "https://www.atlascarolina.com/blog/offboarding-employees",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In iOS 18 and iPadOS 18, Quickly Turn Home Screen App Icons into Widgets",
+    "date": "2024-12-06",
+    "slug": "ios-18-and-ipados-18-home-screen-app-icons-into-widgets",
+    "original_url": "https://www.atlascarolina.com/blog/ios-18-and-ipados-18-home-screen-app-icons-into-widgets",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Website Owners: Identifying Copyright Infringement Link Insertion Scams",
+    "date": "2024-12-03",
+    "slug": "identifying-copyright-infringement-link-insertion-scams",
+    "original_url": "https://www.atlascarolina.com/blog/identifying-copyright-infringement-link-insertion-scams",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s Tips App Provides Extensive User Guides and Helpful How-Tos",
+    "date": "2024-11-29",
+    "slug": "apples-tips-app-user-guides-and-helpful-how-tos",
+    "original_url": "https://www.atlascarolina.com/blog/apples-tips-app-user-guides-and-helpful-how-tos",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "A Few of Our Favorite Things: Tech Edition",
+    "date": "2024-11-26",
+    "slug": "favorite-things-tech-edition",
+    "original_url": "https://www.atlascarolina.com/blog/favorite-things-tech-edition",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Seventh-Generation iPad mini Adds A17 Pro for Apple Intelligence",
+    "date": "2024-11-22",
+    "slug": "seventh-generation-ipad-mini-adds-a17-pro-for-apple-intelligence",
+    "original_url": "https://www.atlascarolina.com/blog/seventh-generation-ipad-mini-adds-a17-pro-for-apple-intelligence",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Perturbed by Location Tracking Revelations? Here’s How to Protect Yourself",
+    "date": "2024-11-19",
+    "slug": "location-tracking-protect-yourself",
+    "original_url": "https://www.atlascarolina.com/blog/location-tracking-protect-yourself",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Watch Out for PayPal Invoice Phishing Scams",
+    "date": "2024-11-15",
+    "slug": "paypal-invoice-phishing-scams",
+    "original_url": "https://www.atlascarolina.com/blog/paypal-invoice-phishing-scams",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Brings the M4 Chip Family to the iMac, Mac mini, and MacBook Pro",
+    "date": "2024-11-12",
+    "slug": "apple-m4-chip-to-the-imac-mac-mini-and-macbook-pro",
+    "original_url": "https://www.atlascarolina.com/blog/apple-m4-chip-to-the-imac-mac-mini-and-macbook-pro",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Guided Access for Securely Allowing Others to Use an App on Your iPhone or iPad",
+    "date": "2024-11-08",
+    "slug": "guided-access-for-securely-allowing-others-to-use-an-app-on-your-iphone-or-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/guided-access-for-securely-allowing-others-to-use-an-app-on-your-iphone-or-ipad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "First Wave of Apple Intelligence Features Appear in macOS 15.1 Sequoia, iOS 18.1, iPadOS 18.1",
+    "date": "2024-11-05",
+    "slug": "apple-intelligence-appear-in-macos-151-sequoia-ios-181-ipados-181",
+    "original_url": "https://www.atlascarolina.com/blog/apple-intelligence-appear-in-macos-151-sequoia-ios-181-ipados-181",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Beware Fake “Sextortion” Scams",
+    "date": "2024-11-01",
+    "slug": "fake-sextortion-scams",
+    "original_url": "https://www.atlascarolina.com/blog/fake-sextortion-scams",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Minimize Downtime and Lost Work from Tech Failures",
+    "date": "2024-10-29",
+    "slug": "minimize-downtime-and-lost-work-from-tech-failures",
+    "original_url": "https://www.atlascarolina.com/blog/minimize-downtime-and-lost-work-from-tech-failures",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Restrict Access to Sensitive Apps in iOS 18 and iPadOS 18",
+    "date": "2024-10-25",
+    "slug": "restrict-access-to-sensitive-apps-in-ios-18-and-ipados-18",
+    "original_url": "https://www.atlascarolina.com/blog/restrict-access-to-sensitive-apps-in-ios-18-and-ipados-18",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In iOS 18 and iPadOS 18, Control Center Is Now Highly Customizable",
+    "date": "2024-10-22",
+    "slug": "ios-18-and-ipados-18-control-center-customizable",
+    "original_url": "https://www.atlascarolina.com/blog/ios-18-and-ipados-18-control-center-customizable",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Reveal Mac Window Proxy Icons Permanently with This Setting",
+    "date": "2024-10-18",
+    "slug": "mac-window-proxy-icons",
+    "original_url": "https://www.atlascarolina.com/blog/mac-window-proxy-icons",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Setting Up and Managing iCloud+ Storage",
+    "date": "2024-10-15",
+    "slug": "setting-up-and-managing-icloud-storage",
+    "original_url": "https://www.atlascarolina.com/blog/setting-up-and-managing-icloud-storage",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple ID Renamed to Apple Account in Latest Operating System Releases",
+    "date": "2024-10-11",
+    "slug": "apple-id-renamed-apple-account",
+    "original_url": "https://www.atlascarolina.com/blog/apple-id-renamed-apple-account",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Passwords Becomes a Real App in macOS 15 Sequoia, iOS 18, and iPadOS 18",
+    "date": "2024-10-08",
+    "slug": "passwords-app-in-macos-15-sequoia-ios-18-and-ipados-18",
+    "original_url": "https://www.atlascarolina.com/blog/passwords-app-in-macos-15-sequoia-ios-18-and-ipados-18",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Set macOS to Require a Password after Screen Saver Start or Display Sleep",
+    "date": "2024-09-27",
+    "slug": "password-reset",
+    "original_url": "https://www.atlascarolina.com/blog/password-reset",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Should Upgrade to macOS 15 Sequoia, iOS 18, iPadOS 18, watchOS 11, tvOS 18, and visionOS 2?",
+    "date": "2024-09-24",
+    "slug": "mac-upgrades-ios18-ipados18-watchos11-tvos18-visionos2",
+    "original_url": "https://www.atlascarolina.com/blog/mac-upgrades-ios18-ipados18-watchos11-tvos18-visionos2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "No More Ransom Website Offers Ransomware Decryption Tools",
+    "date": "2024-09-20",
+    "slug": "ransomware-decryption-tools",
+    "original_url": "https://www.atlascarolina.com/blog/ransomware-decryption-tools",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "NPD Breach Reveals Data on Hundreds of Millions, Here’s How to Respond",
+    "date": "2024-09-17",
+    "slug": "text-socialsecuritynumber-npdbreach",
+    "original_url": "https://www.atlascarolina.com/blog/text-socialsecuritynumber-npdbreach-",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Announces iPhone 16 Lineup, Apple Watch Series 10, and AirPods 4",
+    "date": "2024-09-16",
+    "slug": "iphone16-apple-watch-series16-airpods4",
+    "original_url": "https://www.atlascarolina.com/blog/iphone16-apple-watch-series16-airpods4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Five Quick Tips to Ease iPhone and iPad Text Editing and Amaze Your Friends",
+    "date": "2024-09-13",
+    "slug": "edit-text-iphone-ipad-tips",
+    "original_url": "https://www.atlascarolina.com/blog/edit-text-iphone-ipad-tips",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What You Need to Know Before Switching to a New iPhone",
+    "date": "2024-09-10",
+    "slug": "switch-new-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/switch-new-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Energy Saver Can Shut Down Your UPS-Equipped Mac in a Power Outage",
+    "date": "2024-09-06",
+    "slug": "ups-protection-power-surge",
+    "original_url": "https://www.atlascarolina.com/blog/ups-protection-power-surge",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Protect Domains That Don’t Send Email from Email Spoofing",
+    "date": "2024-08-30",
+    "slug": "protect-domains-from-email-spoofing",
+    "original_url": "https://www.atlascarolina.com/blog/protect-domains-from-email-spoofing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use High-Quality Cables for Optimal Performance and Safety",
+    "date": "2024-08-27",
+    "slug": "use-high-quality-cables-for-optimal-performance-and-safety",
+    "original_url": "https://www.atlascarolina.com/blog/dql5i9dped9myqtwr8bd38kil1ohsj",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Missed an Alert? Check Notification Center",
+    "date": "2024-08-23",
+    "slug": "alerts-notification-center",
+    "original_url": "https://www.atlascarolina.com/blog/alerts-notification-center",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Understanding the Key Differences Between Personal and Managed Apple IDs",
+    "date": "2024-08-20",
+    "slug": "personal-managed-apple-ids",
+    "original_url": "https://www.atlascarolina.com/blog/personal-managed-apple-ids",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Having Trouble with a Public Wi-Fi Network’s Captive Portal Login Page?",
+    "date": "2024-08-16",
+    "slug": "public-wifi-login-troubles",
+    "original_url": "https://www.atlascarolina.com/blog/public-wifi-login-troubles",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make the Most of the Mac’s Videoconferencing Capabilities",
+    "date": "2024-08-13",
+    "slug": "mac-video-conferencing-options",
+    "original_url": "https://www.atlascarolina.com/blog/mac-video-conferencing-options",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Be Careful When Scanning Unknown QR Codes",
+    "date": "2024-08-09",
+    "slug": "careful-when-scanning-unknown-qr-codes",
+    "original_url": "https://www.atlascarolina.com/blog/careful-when-scanning-unknown-qr-codes",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You “Ignore Ownership” on an External Drive?",
+    "date": "2024-08-06",
+    "slug": "ignore-ownership-external-drive-permissions",
+    "original_url": "https://www.atlascarolina.com/blog/ignore-ownership-external-drive-permissions",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Remember the Magnifier App When You Need to Read Tiny Text",
+    "date": "2024-07-26",
+    "slug": "magnifier-app-read-tiny-text",
+    "original_url": "https://www.atlascarolina.com/blog/magnifier-app-read-tiny-text",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Prep Your Tech for Travel",
+    "date": "2024-07-23",
+    "slug": "tech-prep-for-travel",
+    "original_url": "https://www.atlascarolina.com/blog/tech-prep-for-travel",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Insert Emoji More Easily with Text Replacements",
+    "date": "2024-07-19",
+    "slug": "text-replacement-for-emojis",
+    "original_url": "https://www.atlascarolina.com/blog/text-replacement-for-emojis",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "It’s Usually OK to Share Full-Size Images in Email and Messages",
+    "date": "2024-07-16",
+    "slug": "share-full-size-images-in-email-and-messages",
+    "original_url": "https://www.atlascarolina.com/blog/share-full-size-images-in-email-and-messages",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Copy an App Icon on the Mac",
+    "date": "2024-07-12",
+    "slug": "copy-app-icon-on-the-mac",
+    "original_url": "https://www.atlascarolina.com/blog/copy-app-icon-on-the-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two Techniques for Improving Google Chrome Security",
+    "date": "2024-07-09",
+    "slug": "techniques-improving-google-chrome-security",
+    "original_url": "https://www.atlascarolina.com/blog/techniques-improving-google-chrome-security",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Explains Its Approach to Device Longevity",
+    "date": "2024-07-05",
+    "slug": "apple-device-longevity",
+    "original_url": "https://www.atlascarolina.com/blog/apple-device-longevity",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best Mac for a College-Bound Student in 2024",
+    "date": "2024-07-02",
+    "slug": "best-mac-college-bound-student-2024",
+    "original_url": "https://www.atlascarolina.com/blog/best-mac-college-bound-student-2024",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share 2FA Setup for Team Access to a Single Account",
+    "date": "2024-06-28",
+    "slug": "2fa-setup",
+    "original_url": "https://www.atlascarolina.com/blog/2fa-setup",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "At WWDC, Apple Unveils Apple Intelligence and Previews New OS Features",
+    "date": "2024-06-25",
+    "slug": "apple-intelligence-new-os-features",
+    "original_url": "https://www.atlascarolina.com/blog/apple-intelligence-new-os-features",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Find Some Ham Amidst Your Email Spam",
+    "date": "2024-06-21",
+    "slug": "email-spam",
+    "original_url": "https://www.atlascarolina.com/blog/email-spam",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Sorry, Apple Isn’t Going to Update the 27-inch iMac with Apple Silicon",
+    "date": "2024-06-18",
+    "slug": "apple-update-27-inch-imac",
+    "original_url": "https://www.atlascarolina.com/blog/apple-update-27-inch-imac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Working Late on Your Mac? Turn on Night Shift to Help Your Sleep",
+    "date": "2024-06-14",
+    "slug": "turn-on-night-shift-to-help-your-sleep",
+    "original_url": "https://www.atlascarolina.com/blog/turn-on-night-shift-to-help-your-sleep",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Make Productive Use of Generative AI Chatbots and Artbots",
+    "date": "2024-06-11",
+    "slug": "productive-use-generative-ai-chatbots-and-artbots",
+    "original_url": "https://www.atlascarolina.com/blog/productive-use-generative-ai-chatbots-and-artbots",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Quickly Catalog Books or Other Named Items on Shelves",
+    "date": "2024-06-07",
+    "slug": "quickly-catalog-books-or-other-named-items-on-shelves",
+    "original_url": "https://www.atlascarolina.com/blog/oxqykeo08b3b60kpfkgi7n7hpf3y3x",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Tame the Tangle! Quick Cable Management Tips",
+    "date": "2024-06-04",
+    "slug": "tame-the-tangle-quick-cable-management-tips",
+    "original_url": "https://www.atlascarolina.com/blog/sikgi8q1h3j29438lkqswu1z4eidow",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Where Can You Control Automatic Smart Quotes and Dashes in macOS?",
+    "date": "2024-05-28",
+    "slug": "where-can-you-control-automatic-smart-quotes-and-dashes-in-macos",
+    "original_url": "https://www.atlascarolina.com/blog/flqnirz5bi8xapfdulc6v93999fv8z",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know Most Mac Apps Keep Versions of Your Documents as You Work?",
+    "date": "2024-05-24",
+    "slug": "did-you-know-most-mac-apps-keep-versions-of-your-documents-as-you-work",
+    "original_url": "https://www.atlascarolina.com/blog/y2w93h5waafr45e6m54e5hfroaede9",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Display the Battery Percentage in Your Mac’s Menu Bar",
+    "date": "2024-05-21",
+    "slug": "how-to-display-the-battery-percentage-in-your-macs-menu-bar",
+    "original_url": "https://www.atlascarolina.com/blog/ghan0ijybwyelgnnljeip40rgzmww5",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Audit Your Trusted Device Lists for Greater Security",
+    "date": "2024-05-17",
+    "slug": "audit-your-trusted-device-lists-for-greater-security",
+    "original_url": "https://www.atlascarolina.com/blog/kljzzcg21uu9pu3ynfyxlmsfl3ey0g",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Select Non-Contiguous Text in Pages, Keynote, and Numbers 14",
+    "date": "2024-05-14",
+    "slug": "select-non-contiguous-text-in-pages-keynote-and-numbers-14",
+    "original_url": "https://www.atlascarolina.com/blog/1taft17hbtgcg7v7ryhzvh4c2pga28",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Introduces New iPad Air, iPad Pro, Apple Pencil Pro, and Magic Keyboard",
+    "date": "2024-05-10",
+    "slug": "apple-introduces-new-ipad-air-ipad-pro-apple-pencil-pro-and-magic-keyboard",
+    "original_url": "https://www.atlascarolina.com/blog/3l1o6keiy19m947m069rk7pwunwgct",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Display an Album of Photos on Your iPhone or iPad Lock Screen",
+    "date": "2024-05-07",
+    "slug": "display-an-album-of-photos-on-your-iphone-or-ipad-lock-screen",
+    "original_url": "https://www.atlascarolina.com/blog/7ddrori2dufnkm2bqmk5xzbadv8w58",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s iCloud Keychain Password Management Is All Many People Need",
+    "date": "2024-05-03",
+    "slug": "apples-icloud-keychain-password-management-is-all-many-people-need",
+    "original_url": "https://www.atlascarolina.com/blog/r0xstf49tin4ssam5nnd7qmswn48g0",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Tips for Working with Mac Display Resolutions",
+    "date": "2024-04-30",
+    "slug": "tips-for-working-with-mac-display-resolutions",
+    "original_url": "https://www.atlascarolina.com/blog/kagll6h9c9bnm63cuq622j0gcjnh3b",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Sync Your Text Messages across All Your Apple Devices",
+    "date": "2024-04-26",
+    "slug": "how-to-sync-your-text-messages-across-all-your-apple-devices",
+    "original_url": "https://www.atlascarolina.com/blog/5ixd2qsr0etj2qv17t996dbvfpo7pb",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Podcasts Adds Transcripts",
+    "date": "2024-04-23",
+    "slug": "apple-podcasts-adds-transcripts",
+    "original_url": "https://www.atlascarolina.com/blog/e8ln42au4qrey2bpsgvs7bjq88yaad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "SPF, DKIM, and DMARC: What They Are and Why You Need Them",
+    "date": "2024-04-19",
+    "slug": "spf-dkim-and-dmarc-what-they-are-and-why-you-need-them",
+    "original_url": "https://www.atlascarolina.com/blog/uupe0wkjeogz12xg5muvsvidora59m",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want an Event List in Apple’s Calendar App? Try This Trick",
+    "date": "2024-04-16",
+    "slug": "want-an-event-list-in-apples-calendar-app-try-this-trick",
+    "original_url": "https://www.atlascarolina.com/blog/m2aoi2buppedwzezmu1pkfi6xyxp1g",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Six Reasons Why You Should Restart Your Mac Periodically",
+    "date": "2024-04-12",
+    "slug": "six-reasons-why-you-should-restart-your-mac-periodically",
+    "original_url": "https://www.atlascarolina.com/blog/c7v1crszzkx77iny2yde3ehpzprpqe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Looking for Apple Manuals? Check the New Documentation Site",
+    "date": "2024-04-09",
+    "slug": "looking-for-apple-manuals-check-the-new-documentation-site",
+    "original_url": "https://www.atlascarolina.com/blog/71nn6pc6f9ipuatdz70ksskznpl7w3",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Take Advantage of the Reference Library in Your Mac",
+    "date": "2024-04-05",
+    "slug": "take-advantage-of-the-reference-library-in-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/7dqnosqcfyojev8z1tdd78dv3npvwh",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Changing Passwords Periodically Doesn’t Increase Security",
+    "date": "2024-03-29",
+    "slug": "changing-passwords-periodically-doesnt-increase-security",
+    "original_url": "https://www.atlascarolina.com/blog/je0a2w1zlj9eox5j2cud51m9c3iqih",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Send Photos in Messages Faster with This Hidden Shortcut",
+    "date": "2024-03-26",
+    "slug": "send-photos-in-messages-faster-with-this-hidden-shortcut",
+    "original_url": "https://www.atlascarolina.com/blog/69f9b0po2b8lv6gofvznhnp0dkvf1w",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "For the Best Mac Webcam, Use Your iPhone",
+    "date": "2024-03-22",
+    "slug": "for-the-best-mac-webcam-use-your-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/ruly7m2e80pcg0od2rephzh19ehvlj",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use the Command Key to Rearrange and Remove Menu Bar Icons",
+    "date": "2024-03-19",
+    "slug": "use-the-command-key-to-rearrange-and-remove-menu-bar-icons",
+    "original_url": "https://www.atlascarolina.com/blog/8dvex239q78nn17cprrahr2vw391q4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Importance of Staying Updated",
+    "date": "2024-03-15",
+    "slug": "the-importance-of-staying-updated",
+    "original_url": "https://www.atlascarolina.com/blog/s5t6spsfi6yb4nbys39na6ndp0tyyi",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know Text Entry Boxes in Web Browsers Are Easy to Expand?",
+    "date": "2024-03-12",
+    "slug": "did-you-know-text-entry-boxes-in-web-browsers-are-easy-to-expand",
+    "original_url": "https://www.atlascarolina.com/blog/sdh1wh94n38hbm4eekuk9vyxafdnvv",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Loose Lips Sink Chips: Beware What You Say to AI Chatbots",
+    "date": "2024-03-08",
+    "slug": "loose-lips-sink-chips-beware-what-you-say-to-ai-chatbots",
+    "original_url": "https://www.atlascarolina.com/blog/zm8v386yu30ydgc2crwsy6b3vjodxx",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Announces New MacBook Air Lineup with M3 Chip",
+    "date": "2024-03-06",
+    "slug": "apple-announces-new-macbook-air-lineup-with-m3-chip",
+    "original_url": "https://www.atlascarolina.com/blog/jwe8bx88pcrj00mqzyn9gsb2xgwfwm",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use 1Password to Enter Your Mac Login Password",
+    "date": "2024-03-05",
+    "slug": "use-1password-to-enter-your-mac-login-password",
+    "original_url": "https://www.atlascarolina.com/blog/n2jvl94hynjznt1bo7ze135gxavdy2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Have Zoom Meetings on an Apple TV",
+    "date": "2024-03-01",
+    "slug": "you-can-now-have-zoom-meetings-on-an-apple-tv",
+    "original_url": "https://www.atlascarolina.com/blog/57pv29v6a7sj7w1y77ielilrbum75v",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Annoyed by Inline Predictive Text Suggestions? Here’s How to Turn Them Off",
+    "date": "2024-02-27",
+    "slug": "annoyed-by-inline-predictive-text-suggestions-heres-how-to-turn-them-off",
+    "original_url": "https://www.atlascarolina.com/blog/jrxjvcdmegaju3muvle4s2plyp0qci",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use iOS 17.3’s Stolen Device Protection to Reduce Harm from iPhone Passcode Thefts",
+    "date": "2024-02-23",
+    "slug": "use-ios-17-3s-stolen-device-protection-to-reduce-harm-from-iphone-passcode-thefts",
+    "original_url": "https://www.atlascarolina.com/blog/9ns1xbk6wwxij3ntzoy9v1lu2gvmg2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "After “Mother of All Breaches,” Update Passwords on Compromised Sites",
+    "date": "2024-02-20",
+    "slug": "after-mother-of-all-breaches-update-passwords-on-compromised-sites",
+    "original_url": "https://www.atlascarolina.com/blog/jky857rbbhmt0x4xjghbc6nu1dc0fc",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Search Directly in Your Favorite Websites from Safari’s Search Bar",
+    "date": "2024-02-16",
+    "slug": "how-to-search-directly-in-your-favorite-websites-from-safaris-search-bar",
+    "original_url": "https://www.atlascarolina.com/blog/vfriehskdqnfcb65tuycq9w0s5dsqv",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Avoid Head-Tracked Spatial Audio for FaceTime Audio Calls",
+    "date": "2024-02-13",
+    "slug": "how-to-avoid-head-tracked-spatial-audio-for-facetime-audio-calls",
+    "original_url": "https://www.atlascarolina.com/blog/f0cw0chsxhovztvg4gxf030uro31ob",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Help! My Account Has Been Hacked—What Should I Do?",
+    "date": "2024-02-09",
+    "slug": "help-my-account-has-been-hacked-what-should-i-do",
+    "original_url": "https://www.atlascarolina.com/blog/7wbgj01ezcxy42q27vkzm6adia10yk",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Too Many Windows Open? Close Them All Quickly with These Tricks",
+    "date": "2024-02-06",
+    "slug": "too-many-windows-open-close-them-all-quickly-with-these-tricks",
+    "original_url": "https://www.atlascarolina.com/blog/rjca3yyo7ofyeq1dyvy0bpwgx34g8e",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use StandBy to Make Your iPhone into a Clock, Photo Frame, and More",
+    "date": "2024-01-30",
+    "slug": "use-standby-to-make-your-iphone-into-a-clock-photo-frame-and-more",
+    "original_url": "https://www.atlascarolina.com/blog/1lhz29q91q8vhvihxux1t0jn7y7dia",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Turn Your Most-Used Sites into Safari Web Apps in macOS 14 Sonoma",
+    "date": "2024-01-26",
+    "slug": "turn-your-most-used-sites-into-safari-web-apps-in-macos-14-sonoma",
+    "original_url": "https://www.atlascarolina.com/blog/j5u2ndnpik2fhtxm3h6qmi6vip5vam",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Your Contacts Current by Adding Siri-Suggested Content",
+    "date": "2024-01-23",
+    "slug": "keep-your-contacts-current-by-adding-siri-suggested-content",
+    "original_url": "https://www.atlascarolina.com/blog/nsy7z180b4nzlhhoq3snxo9d85na70",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Improve Your Digital Security in 2024 with These New Year’s Resolutions",
+    "date": "2024-01-19",
+    "slug": "improve-your-digital-security-in-2024-with-these-new-years-resolutions",
+    "original_url": "https://www.atlascarolina.com/blog/i67wflxm6ukegtbv5pz4tario9mo66",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Merge Two Similar Folders in the Mac’s Finder",
+    "date": "2024-01-16",
+    "slug": "how-to-merge-two-similar-folders-in-the-macs-finder",
+    "original_url": "https://www.atlascarolina.com/blog/lygo83cgwewspb7at5reayozeyso7x",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Concerned by the Privacy or Results of Google Search? Try These Other Search Engines",
+    "date": "2024-01-12",
+    "slug": "concerned-by-the-privacy-or-results-of-google-search-try-these-other-search-engines",
+    "original_url": "https://www.atlascarolina.com/blog/20jlu0rad1zms2b49efmw1tdbminvq",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Time Machine Now Offers Daily and Weekly Frequencies",
+    "date": "2024-01-09",
+    "slug": "time-machine-now-offers-daily-and-weekly-frequencies",
+    "original_url": "https://www.atlascarolina.com/blog/vt2oogq3k3xwhzul7h71xpoonn0p26",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Everything You Need to Know about Taking Screenshots on the Mac",
+    "date": "2024-01-05",
+    "slug": "everything-you-need-to-know-about-taking-screenshots-on-the-mac",
+    "original_url": "https://www.atlascarolina.com/blog/zz1yo2006brojvmne26rrla01yc6d2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Feel Free to Upgrade to macOS 14 Sonoma When You’re Ready",
+    "date": "2023-12-29",
+    "slug": "feel-free-to-upgrade-to-macos-14-sonoma-when-youre-ready",
+    "original_url": "https://www.atlascarolina.com/blog/9oe0xhy540bwvpmh93cxxpgl6ic1n4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use This Hidden Setting to Stop Triggering Caps Lock Accidentally",
+    "date": "2023-12-26",
+    "slug": "use-this-hidden-setting-to-stop-triggering-caps-lock-accidentally",
+    "original_url": "https://www.atlascarolina.com/blog/9o1dh3zeabvj06zf9ndwyoba4jzzlq",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Nine Ways of Moving Data from One Mac to Another",
+    "date": "2023-12-22",
+    "slug": "nine-ways-of-moving-data-from-one-mac-to-another",
+    "original_url": "https://www.atlascarolina.com/blog/ulef2k43gs8nmt4sz94skvx3qbinji",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "If Mail Fails to Send, Try, Try Again (Instead of Changing Servers)",
+    "date": "2023-12-19",
+    "slug": "if-mail-fails-to-send-try-try-again-instead-of-changing-servers",
+    "original_url": "https://www.atlascarolina.com/blog/cjkk99f83iwf2agexooekngvl8ztm6",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "No, NameDrop in iOS 17 Isn’t a Privacy Concern. Here’s How to Use It",
+    "date": "2023-12-15",
+    "slug": "no-namedrop-in-ios-17-isnt-a-privacy-concern-heres-how-to-use-it",
+    "original_url": "https://www.atlascarolina.com/blog/ag900408rnhgb3xm5wli5uonc35px1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Locate a Featured Lock Screen Image in Photos",
+    "date": "2023-12-12",
+    "slug": "locate-a-featured-lock-screen-image-in-photos",
+    "original_url": "https://www.atlascarolina.com/blog/ogp7rvzr34ai6w1r5nj652x2bf3enh",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Best Apple Gifts for 2023",
+    "date": "2023-12-08",
+    "slug": "the-best-apple-gifts-for-2023",
+    "original_url": "https://www.atlascarolina.com/blog/1wkjmbvdbps2ss65y8q68e82jcertb",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Lift Objects from Photos on the iPhone",
+    "date": "2023-12-05",
+    "slug": "lift-objects-from-photos-on-the-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/xbi7zag1uhga22j2gseew6n3f1alnt",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Nine Tips for Switching from an iPhone with Touch ID to One with Face ID",
+    "date": "2023-12-01",
+    "slug": "nine-tips-for-switching-from-an-iphone-with-touch-id-to-one-with-face-id",
+    "original_url": "https://www.atlascarolina.com/blog/38438lff7c3lhhwvf95zv7mxvd6m8n",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The “Hey” Part of “Hey Siri” Is Now Optional",
+    "date": "2023-11-28",
+    "slug": "the-hey-part-of-hey-siri-is-now-optional",
+    "original_url": "https://www.atlascarolina.com/blog/6nyos5unsxxmll1wjbr6pssarzkr8l",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Four Solutions to Gotchas in macOS 14 Sonoma",
+    "date": "2023-11-24",
+    "slug": "four-solutions-to-gotchas-in-macos-14-sonoma",
+    "original_url": "https://www.atlascarolina.com/blog/dsr1hhyluqe2dkm4cmn37ocm69sp6g",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In Your Face App Guarantees That You Notice Appointment Alerts",
+    "date": "2023-11-21",
+    "slug": "in-your-face-app-guarantees-that-you-notice-appointment-alerts",
+    "original_url": "https://www.atlascarolina.com/blog/in-your-face-app-guarantees-that-you-notice-appointment-alerts",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New M3 Chip Family Powers Updated MacBook Pros and 24-inch iMac",
+    "date": "2023-11-17",
+    "slug": "new-m3-chip-family-powers-updated-macbook-pros-and-24-inch-imac",
+    "original_url": "https://www.atlascarolina.com/blog/w2o881fo75og615y5ms5r1zq6fkzpt",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "watchOS 10.1 Brings Double Tap to the Apple Watch Series 9 and Apple Watch Ultra 2",
+    "date": "2023-11-14",
+    "slug": "watchos-10-1-brings-double-tap-to-the-apple-watch-series-9-and-apple-watch-ultra-2",
+    "original_url": "https://www.atlascarolina.com/blog/wzch51andw5wrg4mq7xxu593sd9krn",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use iOS 17’s Check In Feature to Reduce Worry",
+    "date": "2023-11-10",
+    "slug": "use-ios-17s-check-in-feature-to-reduce-worry",
+    "original_url": "https://www.atlascarolina.com/blog/ghdzmmutaoaesl2qdvw4l47sbtwvo1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Open the Mac’s Control Center with This Obscure Keyboard Shortcut",
+    "date": "2023-11-07",
+    "slug": "open-the-macs-control-center-with-this-obscure-keyboard-shortcut",
+    "original_url": "https://www.atlascarolina.com/blog/8z75xjbnc7rxak9zhumpam6wrf3n34",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want to Password-Protect a PDF? Follow These Best Practices",
+    "date": "2023-10-27",
+    "slug": "want-to-password-protect-a-pdf-follow-these-best-practices",
+    "original_url": "https://www.atlascarolina.com/blog/lyn2du7ks7p9csss18zg4demd48jqu",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Stay Alert! Voice Phishing Used in Recent Ransomware Attacks",
+    "date": "2023-10-24",
+    "slug": "stay-alert-voice-phishing-used-in-recent-ransomware-attacks",
+    "original_url": "https://www.atlascarolina.com/blog/niglekc036h2hh8i48dz0955df3ml1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Networking Gear Does Wear Out—Suspect It in Internet Slowdowns and Dropouts",
+    "date": "2023-10-20",
+    "slug": "networking-gear-does-wear-out-suspect-it-in-internet-slowdowns-and-dropouts",
+    "original_url": "https://www.atlascarolina.com/blog/kxz7p1ecq3ii775z76w23s7ouqnjet",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep a USB Keyboard and Mouse for Troubleshooting",
+    "date": "2023-10-17",
+    "slug": "keep-a-usb-keyboard-and-mouse-for-troubleshooting",
+    "original_url": "https://www.atlascarolina.com/blog/99v7j9bwtgwh6bxp64f5d89a8s86j4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Tired of Nonstop Cookie Popups? Dismiss Them Automatically with These Extensions",
+    "date": "2023-10-13",
+    "slug": "tired-of-nonstop-cookie-popups-dismiss-them-automatically-with-these-extensions",
+    "original_url": "https://www.atlascarolina.com/blog/zek43zgc7f1htrhy2ov425yj6i5v2p",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Forget Your Just-Changed Passcode? iOS 17’s Passcode Reset Has Your Back",
+    "date": "2023-10-10",
+    "slug": "forget-your-just-changed-passcode-ios-17s-passcode-reset-has-your-back",
+    "original_url": "https://www.atlascarolina.com/blog/ettmz1d315qca1ex1wvnli935xu7is",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Is Your Mac Running Low on Disk Space? Here’s How to Delete Unnecessary Files",
+    "date": "2023-10-06",
+    "slug": "is-your-mac-running-low-on-disk-space-heres-how-to-delete-unnecessary-files",
+    "original_url": "https://www.atlascarolina.com/blog/pwyf360u7od55i4otma9h9btkn6buh",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Faster Copying of Two-Factor Authentication Codes from Messages",
+    "date": "2023-10-03",
+    "slug": "faster-copying-of-two-factor-authentication-codes-from-messages",
+    "original_url": "https://www.atlascarolina.com/blog/ugt2b4r888rhrgjhxsgc5srnu7psb3",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "With Storms Increasing, Protect Your Tech Gear from Damaging Power Fluctuations",
+    "date": "2023-09-29",
+    "slug": "with-storms-increasing-protect-your-tech-gear-from-damaging-power-fluctuations",
+    "original_url": "https://www.atlascarolina.com/blog/wthrohlq37wv3iinqp8vmsplc80iim",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Frustrated by System Settings? Use the View Menu or Search",
+    "date": "2023-09-26",
+    "slug": "frustrated-by-system-settings-use-the-view-menu-or-search",
+    "original_url": "https://www.atlascarolina.com/blog/4miwio4h3517b91pdkzdzld3o4slrf",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Upgrade to macOS 14 Sonoma, iOS 17, iPadOS 17, watchOS 10, and tvOS 17?",
+    "date": "2023-09-22",
+    "slug": "when-should-you-upgrade-to-macos-14-sonoma-ios-17-ipados-17-watchos-10-and-tvos-17",
+    "original_url": "https://www.atlascarolina.com/blog/rryb4tfggosqhgzandhj6617yiuicb",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Mac Keyboard Shortcuts Performing Unexpected Actions? Check These Settings",
+    "date": "2023-09-19",
+    "slug": "mac-keyboard-shortcuts-performing-unexpected-actions-check-these-settings",
+    "original_url": "https://www.atlascarolina.com/blog/1wbpp7wgzr6xdcqgt3vugx8i931rvk",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Things You Need to Know Before Moving to a New iPhone",
+    "date": "2023-09-15",
+    "slug": "things-you-need-to-know-before-moving-to-a-new-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/j0ie2942k8cbtekgfz5e10qch2dx7d",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Announces iPhone 15 Lineup, Apple Watch Series 9, and Apple Watch Ultra 2",
+    "date": "2023-09-14",
+    "slug": "apple-announces-iphone-15-lineup-apple-watch-series-9-and-apple-watch-ultra-2",
+    "original_url": "https://www.atlascarolina.com/blog/mk8kwmdsklyw8uri1lzmmx045nupqt",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Erase Image Content in Preview with Copied Color Blocks",
+    "date": "2023-09-12",
+    "slug": "erase-image-content-in-preview-with-copied-color-blocks",
+    "original_url": "https://www.atlascarolina.com/blog/kxvggqpvhtsggk2us9hsp9s78zbfac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Should You Do about an Authentication Code You DIDN’T Request?",
+    "date": "2023-09-08",
+    "slug": "what-should-you-do-about-an-authentication-code-you-didnt-request",
+    "original_url": "https://www.atlascarolina.com/blog/vjg36cnl3egsrxwrvub4qrz3mtz8gn",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Beware Executive Imposter Scams Aimed at New Employees",
+    "date": "2023-09-05",
+    "slug": "beware-executive-imposter-scams-aimed-at-new-employees",
+    "original_url": "https://www.atlascarolina.com/blog/52o811s7hqkrbmdwuw5xjxkot0oxne",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Legitimately Worried That You’re Being Targeted Online? Try Lockdown Mode",
+    "date": "2023-08-29",
+    "slug": "legitimately-worried-that-youre-being-targeted-online-try-lockdown-mode",
+    "original_url": "https://www.atlascarolina.com/blog/xfukv473jnhuniv6d6lzpaqhuf92g8",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Protect Your Child’s Hearing from Too-Loud Headphone Audio",
+    "date": "2023-08-25",
+    "slug": "how-to-protect-your-childs-hearing-from-too-loud-headphone-audio",
+    "original_url": "https://www.atlascarolina.com/blog/tfhjq4wgvl1uhvg7l11pxh75n4a66o",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use the Hidden Album in Photos to Hide Private Images",
+    "date": "2023-08-22",
+    "slug": "use-the-hidden-album-in-photos-to-hide-private-images",
+    "original_url": "https://www.atlascarolina.com/blog/fwkgxea4wlhyrgdh9vvewamvtwgrwf",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Look Up Apple Device Details in Mactracker",
+    "date": "2023-08-18",
+    "slug": "look-up-apple-device-details-in-mactracker",
+    "original_url": "https://www.atlascarolina.com/blog/bk618w96243h8nziorwp0fm1hz8e9c",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Web Workers of the World, Give Arc a Try",
+    "date": "2023-08-15",
+    "slug": "web-workers-of-the-world-give-arc-a-try",
+    "original_url": "https://www.atlascarolina.com/blog/i67rhoe06dqfzk1flguw4fbu0k0pr9",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Your Apple Devices Cool in the Summer Heat",
+    "date": "2023-08-11",
+    "slug": "keep-your-apple-devices-cool-in-the-summer-heat",
+    "original_url": "https://www.atlascarolina.com/blog/76q4b6tx5p9x0nsjh3s3mh3mfbcyxm",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Tips for Getting Back to Work Faster After Restarting Your Mac",
+    "date": "2023-08-08",
+    "slug": "tips-for-getting-back-to-work-faster-after-restarting-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/zoj6e2fjbu6sod6n45ftfu01lbxg4x",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Clean Up Your Mac’s Desktop with Sort Options",
+    "date": "2023-08-04",
+    "slug": "clean-up-your-macs-desktop-with-sort-options",
+    "original_url": "https://www.atlascarolina.com/blog/n1099cacw8rvo8u27tgd9yc259l2z0",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Consider Moving Your Mac’s Dock to the Side of the Screen",
+    "date": "2023-08-01",
+    "slug": "consider-moving-your-macs-dock-to-the-side-of-the-screen",
+    "original_url": "https://www.atlascarolina.com/blog/wpnco89ufatnwr3enfodtfwm11gerl",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Improve Privacy by Removing Metadata from Office Documents and PDFs",
+    "date": "2023-07-28",
+    "slug": "improve-privacy-by-removing-metadata-from-office-documents-and-pdfs",
+    "original_url": "https://www.atlascarolina.com/blog/3k8g6conpddwq613yk9vxtceusdwgs",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Convert Image Formats Directly in the Finder",
+    "date": "2023-07-25",
+    "slug": "convert-image-formats-directly-in-the-finder",
+    "original_url": "https://www.atlascarolina.com/blog/on30zvzm0l3bd97g8lvdejyhvkwbvb",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Hardware You’ll Need to Run Apple’s 2023 Operating Systems",
+    "date": "2023-07-21",
+    "slug": "the-hardware-youll-need-to-run-apples-2023-operating-systems",
+    "original_url": "https://www.atlascarolina.com/blog/1gqu1xdbr6o0s5zck2twhbexkc1ut2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Adjust AirPods Options in the Settings App",
+    "date": "2023-07-18",
+    "slug": "adjust-airpods-options-in-the-settings-app",
+    "original_url": "https://www.atlascarolina.com/blog/warr2m7z2rrlydboo4p30czlcq0o2q",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Learn to Identify and Eliminate Phishing Notifications",
+    "date": "2023-07-14",
+    "slug": "learn-to-identify-and-eliminate-phishing-notifications",
+    "original_url": "https://www.atlascarolina.com/blog/rtn67stn8c9slvyw2wec2rm445lk1w",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "AirNow and Paku: Two Helpful Apps for Monitoring Air Quality",
+    "date": "2023-07-11",
+    "slug": "airnow-and-paku-two-helpful-apps-for-monitoring-air-quality",
+    "original_url": "https://www.atlascarolina.com/blog/jplgxby743vwme781u7v9l90ca4gal",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best Mac for a College-Bound Student in 2023",
+    "date": "2023-07-07",
+    "slug": "choosing-the-best-mac-for-a-college-bound-student-in-2023",
+    "original_url": "https://www.atlascarolina.com/blog/kb25ivw405quvy3hs0uzyd3hct7sbt",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Avoid Confusion by Setting iPhone Password Autofill to Only One App",
+    "date": "2023-06-30",
+    "slug": "avoid-confusion-by-setting-iphone-password-autofill-to-only-one-app",
+    "original_url": "https://www.atlascarolina.com/blog/4p62dq6hl9lbb5ubbg6kncfogm7mbk",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What to Do If You’re a Mac User Who Needs Some Windows Software",
+    "date": "2023-06-27",
+    "slug": "what-to-do-if-youre-a-mac-user-who-needs-some-windows-software",
+    "original_url": "https://www.atlascarolina.com/blog/zf6xj022pwtnyxuowwp6qmlyqkvkvs",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Is Shutting Down My Photo Stream—Switch to iCloud Photos",
+    "date": "2023-06-23",
+    "slug": "apple-is-shutting-down-my-photo-stream-switch-to-icloud-photos",
+    "original_url": "https://www.atlascarolina.com/blog/xg3hyi55ei9zhh4ka3hp2s37uiqf4k",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Starts Releasing Rapid Security Responses for the iPhone, iPad, and Mac",
+    "date": "2023-06-20",
+    "slug": "apple-starts-releasing-rapid-security-responses-for-the-iphone-ipad-and-mac",
+    "original_url": "https://www.atlascarolina.com/blog/x4gymf3zqb4ol8akkqts6l4pcwuoz4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Pay Attention to Unsolicited Facebook Password Reset Messages",
+    "date": "2023-06-16",
+    "slug": "pay-attention-to-unsolicited-facebook-password-reset-messages",
+    "original_url": "https://www.atlascarolina.com/blog/aa9zzv63wx5dfgn2p8jw3kkz8bd06x",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Which Should You Use—a Mac, iPhone or iPad, or Web App?",
+    "date": "2023-06-13",
+    "slug": "which-should-you-use-a-mac-iphone-or-ipad-or-web-app",
+    "original_url": "https://www.atlascarolina.com/blog/1hco1x797gij4z2739g32fymfen16l",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "At WWDC23, Apple Releases New Macs, Previews New OS Features, and Unveils Vision Pro",
+    "date": "2023-06-12",
+    "slug": "at-wwdc23-apple-releases-new-macs-previews-new-os-features-and-unveils-vision-pro",
+    "original_url": "https://www.atlascarolina.com/blog/x5h6pkpiku7wivkqvbaw7r0u9ncunx",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Mask Nearby Noise? Try Ventura’s Background Sounds",
+    "date": "2023-06-09",
+    "slug": "need-to-mask-nearby-noise-try-venturas-background-sounds",
+    "original_url": "https://www.atlascarolina.com/blog/qj5aeflqwvv5014dei1l31pcu1ixph",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "“Juice Jacking” Returns to the News but Still Hasn’t Happened",
+    "date": "2023-05-30",
+    "slug": "juice-jacking-returns-to-the-news-but-still-hasnt-happened",
+    "original_url": "https://www.atlascarolina.com/blog/ezfpuu8tk6o66vswte0dn4v0crea02",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iOS 16.4 Adds Voice Isolation Feature to Improve Cellular Calls",
+    "date": "2023-05-26",
+    "slug": "ios-16-4-adds-voice-isolation-feature-to-improve-cellular-calls",
+    "original_url": "https://www.atlascarolina.com/blog/ksqxqtj1n390pu63nq8edevam7jiwp",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Sidestep MacBook Optimized Battery Charging When Necessary",
+    "date": "2023-05-23",
+    "slug": "sidestep-macbook-optimized-battery-charging-when-necessary",
+    "original_url": "https://www.atlascarolina.com/blog/c5rh5bd6uq3rgn62pgg13dke8hmx9c",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Prevent Quick Screenshots from Cluttering Your Photos Library on the iPhone and iPad",
+    "date": "2023-05-19",
+    "slug": "prevent-quick-screenshots-from-cluttering-your-photos-library-on-the-iphone-and-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/mhuhpiqu90k1tl8pu27rdqglccngh1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Sure to Back Up iPhone Photos on Your Mac",
+    "date": "2023-05-16",
+    "slug": "make-sure-to-back-up-iphone-photos-on-your-mac",
+    "original_url": "https://www.atlascarolina.com/blog/ud6zvufetssbu0bgkej96fe8avdmsi",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Apple Watch Apps Easier to Find with List View",
+    "date": "2023-05-12",
+    "slug": "make-apple-watch-apps-easier-to-find-with-list-view",
+    "original_url": "https://www.atlascarolina.com/blog/4sz5li7rwqei98ngw18ccso1efenv4",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Add Important Metadata to Scanned Photos",
+    "date": "2023-05-09",
+    "slug": "how-to-add-important-metadata-to-scanned-photos",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-add-important-metadata-to-scanned-photos",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Apple Card Savings Accounts Offers 4.15% Interest",
+    "date": "2023-05-02",
+    "slug": "new-apple-card-savings-accounts-offers-4-15-interest",
+    "original_url": "https://www.atlascarolina.com/blog/yjo4mh1wc5fwbj5ti6bvphblco1uxa",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How Often Should Macs Be Replaced?",
+    "date": "2023-04-28",
+    "slug": "how-often-should-macs-be-replaced",
+    "original_url": "https://www.atlascarolina.com/blog/0suhiaq8zjd16geu4pqym00vo1uhkq",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Set Your Apple Watch Clock Ahead a Few Minutes to Avoid Being Late",
+    "date": "2023-04-25",
+    "slug": "set-your-apple-watch-clock-ahead-a-few-minutes-to-avoid-being-late",
+    "original_url": "https://www.atlascarolina.com/blog/ub3vqv6yvmqe4hz3mz443ynunnefxn",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What to Do If Your iPhone Takes a Plunge",
+    "date": "2023-04-21",
+    "slug": "what-to-do-if-your-iphone-takes-a-plunge",
+    "original_url": "https://www.atlascarolina.com/blog/a18o80eo3qspt1h8vgmv5d2m5es63a",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Reveal Your Desktop Quickly with a Keyboard Shortcut",
+    "date": "2023-04-18",
+    "slug": "reveal-your-desktop-quickly-with-a-keyboard-shortcut",
+    "original_url": "https://www.atlascarolina.com/blog/3l24jbys3sffmqhnlf1go0cl8uqr8m",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Integrate Your Cloud Storage Service into the Finder",
+    "date": "2023-04-14",
+    "slug": "integrate-your-cloud-storage-service-into-the-finder",
+    "original_url": "https://www.atlascarolina.com/blog/lp9e08pqpp4v8wvyzejns7fc1ponh0",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Turn Mail’s Rich Website Previews into Plain Links",
+    "date": "2023-04-11",
+    "slug": "how-to-turn-mails-rich-website-previews-into-plain-links",
+    "original_url": "https://www.atlascarolina.com/blog/pee1imro3w0s7urr93uost7tqmjafi",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "ChatGPT and Generative AI Will Be an Increasingly Large Part of Our Future",
+    "date": "2023-04-07",
+    "slug": "chatgpt-and-generative-ai-will-be-an-increasingly-large-part-of-our-future",
+    "original_url": "https://www.atlascarolina.com/blog/dfhut9ydlvbqoey94ui5icpaj73koj",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Classical Music Fans Take Note: Apple Music Classical Is Now Available",
+    "date": "2023-04-04",
+    "slug": "classical-music-fans-take-note-apple-music-classical-is-now-available",
+    "original_url": "https://www.atlascarolina.com/blog/sqrho46682r6rl3hlqajvfwvxd4p9v",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Is Your Wi-Fi Network a Security Risk?",
+    "date": "2023-03-28",
+    "slug": "is-your-wi-fi-network-a-security-risk",
+    "original_url": "https://www.atlascarolina.com/blog/kl6lcdsf4o3no72nd5ounvt4ak2i57",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What’s the Difference between Removing and Deleting an App?",
+    "date": "2023-03-24",
+    "slug": "whats-the-difference-between-removing-and-deleting-an-app",
+    "original_url": "https://www.atlascarolina.com/blog/ve971ibnam2lzq18lq884sopiic6e2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Protect Your iPhone Passcode by Using Face ID or Touch ID",
+    "date": "2023-03-21",
+    "slug": "protect-your-iphone-passcode-by-using-face-id-or-touch-id",
+    "original_url": "https://www.atlascarolina.com/blog/rvcqt6ndglcccyofmnhks87ijokmj2",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Quickly Put Lots of Files in a Folder with One Command",
+    "date": "2023-03-17",
+    "slug": "quickly-put-lots-of-files-in-a-folder-with-one-command",
+    "original_url": "https://www.atlascarolina.com/blog/rkp3gwxvcilfaaxg6jgi3r96uucbge",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "FAQs about Apple’s Messages App and What Can Go Wrong When Using It",
+    "date": "2023-03-14",
+    "slug": "faqs-about-apples-messages-app-and-what-can-go-wrong-when-using-it",
+    "original_url": "https://www.atlascarolina.com/blog/0p3jc7dkwww7hzd1fkljl31dfvl0u9",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Find Devices and People from Your HomePod",
+    "date": "2023-03-10",
+    "slug": "find-devices-and-people-from-your-homepod",
+    "original_url": "https://www.atlascarolina.com/blog/axpihgn5im0dfkie4kuadztenrjett",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "A Practical Guide to Identifying Phishing Emails",
+    "date": "2023-03-07",
+    "slug": "a-practical-guide-to-identifying-phishing-emails",
+    "original_url": "https://www.atlascarolina.com/blog/jnubqxfdo1weajqukadz305auz4pbz",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Back Up or Export a Messages Conversation? Try PDF or iMazing",
+    "date": "2023-03-03",
+    "slug": "need-to-back-up-or-export-a-messages-conversation-try-pdf-or-imazing",
+    "original_url": "https://www.atlascarolina.com/blog/obkml0plibag958lu13r26ce6dl3dh",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Amazingly Convenient Way to Scan Documents Using Your iPhone or iPad",
+    "date": "2023-02-28",
+    "slug": "the-amazingly-convenient-way-to-scan-documents-using-your-iphone-or-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/uctuh6jlplsm1t771fjinf9pu6cklj",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Quick Look to Preview Spotlight Results in Ventura",
+    "date": "2023-02-27",
+    "slug": "use-quick-look-to-preview-spotlight-results-in-ventura",
+    "original_url": "https://www.atlascarolina.com/blog/syyyrcr7dk6bcyu4z7q3y13u5sa2vp",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Upgrade to macOS 13 Ventura When You’re Ready",
+    "date": "2023-02-26",
+    "slug": "you-can-now-upgrade-to-macos-13-ventura-when-youre-ready",
+    "original_url": "https://www.atlascarolina.com/blog/8iob2qemewwmwjmt9ntkv74hg1l5z1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Use Face ID in iOS 16 on Newer iPhones When You’re Lying on Your Side",
+    "date": "2023-02-23",
+    "slug": "you-can-use-face-id-in-ios-16-on-newer-iphones-when-youre-lying-on-your-side",
+    "original_url": "https://www.atlascarolina.com/blog/tx3nimhd4ple4qr8k3snbnk46i7ajm",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Is Google Web &amp; App Activity, and Should You Leave It Enabled?",
+    "date": "2023-02-21",
+    "slug": "what-is-google-web-amp-app-activity-and-should-you-leave-it-enabled",
+    "original_url": "https://www.atlascarolina.com/blog/o1eg2hhvldgus24coahp8v5lxz42g3",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "It’s Time to Try Dictation in iOS 16 and iPadOS 16",
+    "date": "2023-02-16",
+    "slug": "its-time-to-try-dictation-in-ios-16-and-ipados-16",
+    "original_url": "https://www.atlascarolina.com/blog/k4j95xcfsiiomjb8sxfltjrbeuj6sc",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Six Ways of Making It Easier to Browse&nbsp;Your Favorite Websites",
+    "date": "2023-02-14",
+    "slug": "six-ways-of-making-it-easier-to-browse-nbsp-your-favorite-websites",
+    "original_url": "https://www.atlascarolina.com/blog/3etrnllnghu9m16ti11auvji9zo7pc",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Share a Contact Card without Sharing Everything in iOS 16",
+    "date": "2023-02-09",
+    "slug": "how-to-share-a-contact-card-without-sharing-everything-in-ios-16",
+    "original_url": "https://www.atlascarolina.com/blog/62ld8r6sk8823novpr3ff7vb5fao8i",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "LastPass Security Breach: Here’s What to Do",
+    "date": "2023-01-11",
+    "slug": "lastpass-security-breach-heres-what-to-do",
+    "original_url": "https://www.atlascarolina.com/blog/lastpass-security-breach-heres-what-to-do",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Here’s How to Stop Getting Paste Permission Requests",
+    "date": "2022-12-29",
+    "slug": "heres-how-to-stop-getting-paste-permission-requests",
+    "original_url": "https://www.atlascarolina.com/blog/heres-how-to-stop-getting-paste-permission-requests",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "These New Year’s Resolutions Will Improve Your Digital Security in 2023",
+    "date": "2022-12-27",
+    "slug": "these-new-years-resolutions-will-improve-your-digital-security-in-2023",
+    "original_url": "https://www.atlascarolina.com/blog/these-new-years-resolutions-will-improve-your-digital-security-in-2023",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Amuse Small Children During the Holidays? Try Slow Motion Video",
+    "date": "2022-12-22",
+    "slug": "need-to-amuse-small-children-during-the-holidays-try-slow-motion-video",
+    "original_url": "https://www.atlascarolina.com/blog/need-to-amuse-small-children-during-the-holidays-try-slow-motion-video",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two Ways to Manage Your Email So You Can Find It Later",
+    "date": "2022-12-21",
+    "slug": "two-ways-to-manage-your-email-so-you-can-find-it-later",
+    "original_url": "https://www.atlascarolina.com/blog/two-ways-to-manage-your-email-so-you-can-find-it-later",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Use Siri to Reboot Your iPhone or iPad",
+    "date": "2022-12-15",
+    "slug": "you-can-now-use-siri-to-reboot-your-iphone-or-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/you-can-now-use-siri-to-reboot-your-iphone-or-ipad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Merge Duplicate Photos and Videos in iOS 16, iPadOS 16, and Ventura",
+    "date": "2022-12-13",
+    "slug": "merge-duplicate-photos-and-videos-in-ios-16-ipados-16-and-ventura",
+    "original_url": "https://www.atlascarolina.com/blog/merge-duplicate-photos-and-videos-in-ios-16-ipados-16-and-ventura",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Delete Contacts More Easily in iOS 16 and iPadOS 16",
+    "date": "2022-12-08",
+    "slug": "delete-contacts-more-easily-in-ios-16-and-ipados-16",
+    "original_url": "https://www.atlascarolina.com/blog/delete-contacts-more-easily-in-ios-16-and-ipados-16",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Practice with the Emergency SOS via Satellite Demo, Just in Case",
+    "date": "2022-12-07",
+    "slug": "practice-with-the-emergency-sos-via-satellite-demo-just-in-case",
+    "original_url": "https://www.atlascarolina.com/blog/practice-with-the-emergency-sos-via-satellite-demo-just-in-case",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Is Driving the iPhone to eSIM: Here’s What You Need to Know",
+    "date": "2022-11-29",
+    "slug": "apple-is-driving-the-iphone-to-esim-heres-what-you-need-to-know",
+    "original_url": "https://www.atlascarolina.com/blog/apple-is-driving-the-iphone-to-esim-heres-what-you-need-to-know",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Best Apple Gifts for 2022",
+    "date": "2022-11-22",
+    "slug": "the-best-apple-gifts-for-2022",
+    "original_url": "https://www.atlascarolina.com/blog/the-best-apple-gifts-for-2022",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Text Flight Numbers to People You’re Visiting So They Can Track Your Flight",
+    "date": "2022-11-21",
+    "slug": "text-flight-numbers-to-people-youre-visiting-so-they-can-track-your-flight",
+    "original_url": "https://www.atlascarolina.com/blog/text-flight-numbers-to-people-youre-visiting-so-they-can-track-your-flight",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share Airline Boarding Passes Using Wallet and AirDrop",
+    "date": "2022-11-17",
+    "slug": "share-airline-boarding-passes-using-wallet-and-airdrop",
+    "original_url": "https://www.atlascarolina.com/blog/share-airline-boarding-passes-using-wallet-and-airdrop",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Mail Gains Welcome Features in iOS 16, iPadOS 16, and macOS 13 Ventura",
+    "date": "2022-11-15",
+    "slug": "mail-gains-welcome-features-in-ios-16-ipados-16-and-macos-13-ventura",
+    "original_url": "https://www.atlascarolina.com/blog/mail-gains-welcome-features-in-ios-16-ipados-16-and-macos-13-ventura",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "watchOS 9’s New Low Power Mode Could Help Older Apple Watches",
+    "date": "2022-11-10",
+    "slug": "watchos-9s-new-low-power-mode-could-help-older-apple-watches",
+    "original_url": "https://www.atlascarolina.com/blog/watchos-9s-new-low-power-mode-could-help-older-apple-watches",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Bring Back the Battery Percentage Indicator in iOS 16",
+    "date": "2022-11-08",
+    "slug": "bring-back-the-battery-percentage-indicator-in-ios-16",
+    "original_url": "https://www.atlascarolina.com/blog/bring-back-the-battery-percentage-indicator-in-ios-16",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Five Best Practices for Organizing and Naming Computer Files",
+    "date": "2022-11-01",
+    "slug": "five-best-practices-for-organizing-and-naming-computer-files",
+    "original_url": "https://www.atlascarolina.com/blog/five-best-practices-for-organizing-and-naming-computer-files",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Security Questions Your Organization Should Be Asking Itself",
+    "date": "2022-10-26",
+    "slug": "security-questions-your-organization-should-be-asking-itself",
+    "original_url": "https://www.atlascarolina.com/blog/security-questions-your-organization-should-be-asking-itself",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Releases New iPad, iPad Pro, and Apple TV",
+    "date": "2022-10-20",
+    "slug": "apple-releases-new-ipad-ipad-pro-and-apple-tv",
+    "original_url": "https://www.atlascarolina.com/blog/apple-releases-new-ipad-ipad-pro-and-apple-tv",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Add Haptic Feedback to the iPhone Keyboard in iOS 16",
+    "date": "2022-10-20",
+    "slug": "add-haptic-feedback-to-the-iphone-keyboard-in-ios-16",
+    "original_url": "https://www.atlascarolina.com/blog/add-haptic-feedback-to-the-iphone-keyboard-in-ios-16",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Messages Features in iOS 16: Mark as Unread, Edit Messages, Undo Send, Report Junk, and More",
+    "date": "2022-10-19",
+    "slug": "new-messages-features-in-ios-16-mark-as-unread-edit-messages-undo-send-report-junk-and-more",
+    "original_url": "https://www.atlascarolina.com/blog/new-messages-features-in-ios-16-mark-as-unread-edit-messages-undo-send-report-junk-and-more",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Many New Lock Screen Customizations in iOS 16",
+    "date": "2022-10-11",
+    "slug": "the-many-new-lock-screen-customizations-in-ios-16",
+    "original_url": "https://www.atlascarolina.com/blog/the-many-new-lock-screen-customizations-in-ios-16",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Your iPhone to Identify Plants, Wildlife, and Birds with Seek and Merlin",
+    "date": "2022-09-27",
+    "slug": "use-your-iphone-to-identify-plants-wildlife-and-birds-with-seek-and-merlin",
+    "original_url": "https://www.atlascarolina.com/blog/use-your-iphone-to-identify-plants-wildlife-and-birds-with-seek-and-merlin",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Read This Article Before Transferring Your Data to a New iPhone",
+    "date": "2022-09-21",
+    "slug": "read-this-article-before-transferring-your-data-to-a-new-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/read-this-article-before-transferring-your-data-to-a-new-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Upgrade to macOS 13 Ventura, iOS 16, iPadOS 16, watchOS 9, and tvOS 16?",
+    "date": "2022-09-14",
+    "slug": "when-should-you-upgrade-to-macos-13-ventura-ios-16-ipados-16-watchos-9-and-tvos-16",
+    "original_url": "https://www.atlascarolina.com/blog/when-should-you-upgrade-to-macos-13-ventura-ios-16-ipados-16-watchos-9-and-tvos-16",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s 2022 Harvest: Four iPhones, Three Apple Watches, and New AirPods Pro",
+    "date": "2022-09-12",
+    "slug": "apples-2022-harvest-four-iphones-three-apple-watches-and-new-airpods-pro",
+    "original_url": "https://www.atlascarolina.com/blog/apples-2022-harvest-four-iphones-three-apple-watches-and-new-airpods-pro",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Wi-Fi Calling and Wi-Fi Assist: What Are They and How Are They Different?",
+    "date": "2022-09-06",
+    "slug": "wi-fi-calling-and-wi-fi-assist-what-are-they-and-how-are-they-different",
+    "original_url": "https://www.atlascarolina.com/blog/wi-fi-calling-and-wi-fi-assist-what-are-they-and-how-are-they-different",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Follow These Steps before Bringing Your Mac in for Repair",
+    "date": "2022-08-17",
+    "slug": "follow-these-steps-before-bringing-your-mac-in-for-repair",
+    "original_url": "https://www.atlascarolina.com/blog/follow-these-steps-before-bringing-your-mac-in-for-repair",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Restore Missing SMS Two-Factor Authentication Codes",
+    "date": "2022-08-11",
+    "slug": "how-to-restore-missing-sms-two-factor-authentication-codes",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-restore-missing-sms-two-factor-authentication-codes",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choosing the Best Mac for a College-Bound Student in 2022",
+    "date": "2022-08-09",
+    "slug": "choosing-the-best-mac-for-a-college-bound-student-in-2022",
+    "original_url": "https://www.atlascarolina.com/blog/choosing-the-best-mac-for-a-college-bound-student-in-2022",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Find Apple Watch Apps Faster in List View",
+    "date": "2022-07-28",
+    "slug": "find-apple-watch-apps-faster-in-list-view",
+    "original_url": "https://www.atlascarolina.com/blog/find-apple-watch-apps-faster-in-list-view",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Hardware You’ll Need to Run Apple’s 2022 Operating Systems",
+    "date": "2022-07-26",
+    "slug": "the-hardware-youll-need-to-run-apples-2022-operating-systems",
+    "original_url": "https://www.atlascarolina.com/blog/the-hardware-youll-need-to-run-apples-2022-operating-systems",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Not Getting Full 5G When You Should? Try a New SIM Card",
+    "date": "2022-07-14",
+    "slug": "not-getting-full-5g-when-you-should-try-a-new-sim-card",
+    "original_url": "https://www.atlascarolina.com/blog/not-getting-full-5g-when-you-should-try-a-new-sim-card",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Picking Group Meeting Times Is Easy with Crab Fit",
+    "date": "2022-07-12",
+    "slug": "picking-group-meeting-times-is-easy-with-crab-fit",
+    "original_url": "https://www.atlascarolina.com/blog/picking-group-meeting-times-is-easy-with-crab-fit",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Ease Vacation Navigation with Favorite Addresses in Maps",
+    "date": "2022-07-07",
+    "slug": "ease-vacation-navigation-with-favorite-addresses-in-maps",
+    "original_url": "https://www.atlascarolina.com/blog/ease-vacation-navigation-with-favorite-addresses-in-maps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Get Some Color (On Your Mac) This Summer with the Color Picker",
+    "date": "2022-07-05",
+    "slug": "get-some-color-on-your-mac-this-summer-with-the-color-picker",
+    "original_url": "https://www.atlascarolina.com/blog/get-some-color-on-your-mac-this-summer-with-the-color-picker",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Take Advantage of CarPlay in Rental Cars While Traveling",
+    "date": "2022-06-21",
+    "slug": "take-advantage-of-carplay-in-rental-cars-while-traveling",
+    "original_url": "https://www.atlascarolina.com/blog/take-advantage-of-carplay-in-rental-cars-while-traveling",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Business Uses of the Apple TV—Really!",
+    "date": "2022-06-15",
+    "slug": "business-uses-of-the-apple-tvreally",
+    "original_url": "https://www.atlascarolina.com/blog/business-uses-of-the-apple-tvreally",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Previews M2-Based MacBook Air and Updated 13-Inch MacBook Pro",
+    "date": "2022-06-10",
+    "slug": "apple-previews-m2-based-macbook-air-and-updated-13-inch-macbook-pro",
+    "original_url": "https://www.atlascarolina.com/blog/apple-previews-m2-based-macbook-air-and-updated-13-inch-macbook-pro",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "11 Features to Look Forward to in Apple’s 2022 Operating Systems",
+    "date": "2022-06-08",
+    "slug": "11-features-to-look-forward-to-in-apples-2022-operating-systems",
+    "original_url": "https://www.atlascarolina.com/blog/11-features-to-look-forward-to-in-apples-2022-operating-systems",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Discontinues macOS Server—Start Your Migration Plans",
+    "date": "2022-05-19",
+    "slug": "apple-discontinues-macos-serverstart-your-migration-plans",
+    "original_url": "https://www.atlascarolina.com/blog/apple-discontinues-macos-serverstart-your-migration-plans",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Understanding What “Vintage” and “Obsolete” Mean for Apple Products",
+    "date": "2022-05-17",
+    "slug": "understanding-what-vintage-and-obsolete-mean-for-apple-products",
+    "original_url": "https://www.atlascarolina.com/blog/understanding-what-vintage-and-obsolete-mean-for-apple-products",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Three Tricks for Dealing with Duplicated Contacts",
+    "date": "2022-04-27",
+    "slug": "three-tricks-for-dealing-with-duplicated-contacts",
+    "original_url": "https://www.atlascarolina.com/blog/three-tricks-for-dealing-with-duplicated-contacts",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Hidden Tricks for Navigating the Mac’s App Switcher More Quickly",
+    "date": "2022-04-22",
+    "slug": "hidden-tricks-for-navigating-the-macs-app-switcher-more-quickly",
+    "original_url": "https://www.atlascarolina.com/blog/hidden-tricks-for-navigating-the-macs-app-switcher-more-quickly",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Increase Business Cybersecurity Awareness in Light of Russian Invasion of Ukraine",
+    "date": "2022-04-21",
+    "slug": "increase-business-cybersecurity-awareness-in-light-of-russian-invasion-of-ukraine",
+    "original_url": "https://www.atlascarolina.com/blog/increase-business-cybersecurity-awareness-in-light-of-russian-invasion-of-ukraine",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Export Passwords from Safari to Ease the Move to a Password Manager",
+    "date": "2022-04-20",
+    "slug": "export-passwords-from-safari-to-ease-the-move-to-a-password-manager",
+    "original_url": "https://www.atlascarolina.com/blog/export-passwords-from-safari-to-ease-the-move-to-a-password-manager",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How Much Memory Do You Need in an M1-Based Mac?",
+    "date": "2022-04-19",
+    "slug": "how-much-memory-do-you-need-in-an-m1-based-mac",
+    "original_url": "https://www.atlascarolina.com/blog/how-much-memory-do-you-need-in-an-m1-based-mac",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Face ID While Wearing a Mask in iOS 15.4",
+    "date": "2022-04-07",
+    "slug": "use-face-id-while-wearing-a-mask-in-ios-154",
+    "original_url": "https://www.atlascarolina.com/blog/use-face-id-while-wearing-a-mask-in-ios-154",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Universal Control Arrives in macOS 12.3 and iPadOS 15.4",
+    "date": "2022-04-05",
+    "slug": "universal-control-arrives-in-macos-123-and-ipados-154",
+    "original_url": "https://www.atlascarolina.com/blog/universal-control-arrives-in-macos-123-and-ipados-154",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Reduce Transparency for a Consistently Colored macOS Interface",
+    "date": "2022-03-30",
+    "slug": "use-reduce-transparency-for-a-consistently-colored-macos-interface",
+    "original_url": "https://www.atlascarolina.com/blog/use-reduce-transparency-for-a-consistently-colored-macos-interface",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Joining Your Wi-Fi Network as Easy as Scanning a QR Code",
+    "date": "2022-03-28",
+    "slug": "make-joining-your-wi-fi-network-as-easy-as-scanning-a-qr-code",
+    "original_url": "https://www.atlascarolina.com/blog/make-joining-your-wi-fi-network-as-easy-as-scanning-a-qr-code",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Delete or Position iOS Apps from Search",
+    "date": "2022-03-23",
+    "slug": "delete-or-position-ios-apps-from-search",
+    "original_url": "https://www.atlascarolina.com/blog/delete-or-position-ios-apps-from-search",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Please Dispose of Old Electronics Responsibly—Not in the Trash or Standard Recycling!",
+    "date": "2022-03-21",
+    "slug": "please-dispose-of-old-electronics-responsiblynot-in-the-trash-or-standard-recycling",
+    "original_url": "https://www.atlascarolina.com/blog/please-dispose-of-old-electronics-responsiblynot-in-the-trash-or-standard-recycling",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Extend Your Battery Life in macOS 12 Monterey with Low Power Mode",
+    "date": "2022-03-16",
+    "slug": "extend-your-battery-life-in-macos-12-monterey-with-low-power-mode",
+    "original_url": "https://www.atlascarolina.com/blog/extend-your-battery-life-in-macos-12-monterey-with-low-power-mode",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Use Change Tracking Effectively When Collaborating on Documents",
+    "date": "2022-03-14",
+    "slug": "how-to-use-change-tracking-effectively-when-collaborating-on-documents",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-use-change-tracking-effectively-when-collaborating-on-documents",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Can’t Rotate the Screen on an iPad or iPhone? Fix the Problem in Control Center",
+    "date": "2022-03-11",
+    "slug": "cant-rotate-the-screen-on-an-ipad-or-iphone-fix-the-problem-in-control-center",
+    "original_url": "https://www.atlascarolina.com/blog/cant-rotate-the-screen-on-an-ipad-or-iphone-fix-the-problem-in-control-center",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Wows with Mac Studio and Studio Display, Updates iPhone SE and iPad Air",
+    "date": "2022-03-10",
+    "slug": "new-mac-studio-and-studio-display",
+    "original_url": "https://www.atlascarolina.com/blog/new-mac-studio-and-studio-display",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Works to Improve Safety in the Wake of AirTag Stalking Reports",
+    "date": "2022-03-07",
+    "slug": "apple-works-to-improve-safety-in-the-wake-of-airtag-stalking-reports",
+    "original_url": "https://www.atlascarolina.com/blog/apple-works-to-improve-safety-in-the-wake-of-airtag-stalking-reports",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In iOS 15, You Can Now Open an App from the Lock Screen",
+    "date": "2022-03-01",
+    "slug": "in-ios-15-you-can-now-open-an-app-from-the-lock-screen",
+    "original_url": "https://www.atlascarolina.com/blog/in-ios-15-you-can-now-open-an-app-from-the-lock-screen",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "If Your Internet Connection Is Slow, Research These Three Numbers",
+    "date": "2022-02-28",
+    "slug": "if-your-internet-connection-is-slow-research-these-three-numbers",
+    "original_url": "https://www.atlascarolina.com/blog/if-your-internet-connection-is-slow-research-these-three-numbers",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Looking for a New Email Provider? Try These Services",
+    "date": "2022-02-21",
+    "slug": "looking-for-a-new-email-provider-try-these-services",
+    "original_url": "https://www.atlascarolina.com/blog/looking-for-a-new-email-provider-try-these-services",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iOS 15 Allows Rearranging and Deletion of Home Screen Pages",
+    "date": "2022-02-21",
+    "slug": "ios-15-allows-rearranging-and-deletion-of-home-screen-pages",
+    "original_url": "https://www.atlascarolina.com/blog/ios-15-allows-rearranging-and-deletion-of-home-screen-pages",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Where to Check macOS, iOS/iPadOS, and iCloud Storage Status",
+    "date": "2022-02-15",
+    "slug": "where-to-check-macos-iosipados-and-icloud-storage-status",
+    "original_url": "https://www.atlascarolina.com/blog/where-to-check-macos-iosipados-and-icloud-storage-status",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Hidden Controls in the iPhone’s Camera App",
+    "date": "2022-02-14",
+    "slug": "the-hidden-controls-in-the-iphones-camera-app",
+    "original_url": "https://www.atlascarolina.com/blog/the-hidden-controls-in-the-iphones-camera-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Does Your Magic Mouse Need More Juice? Here’s How to Check",
+    "date": "2022-02-08",
+    "slug": "does-your-magic-mouse-need-more-juice-heres-how-to-check",
+    "original_url": "https://www.atlascarolina.com/blog/does-your-magic-mouse-need-more-juice-heres-how-to-check",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Upgrade to macOS 12 Monterey When You’re Ready",
+    "date": "2022-02-07",
+    "slug": "you-can-now-upgrade-to-macos-12-monterey-when-youre-ready",
+    "original_url": "https://www.atlascarolina.com/blog/you-can-now-upgrade-to-macos-12-monterey-when-youre-ready",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Set Custom Text Sizes on a Per-App Basis in iOS 15",
+    "date": "2022-02-01",
+    "slug": "set-custom-text-sizes-on-a-per-app-basis-in-ios-15",
+    "original_url": "https://www.atlascarolina.com/blog/set-custom-text-sizes-on-a-per-app-basis-in-ios-15",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Perturbed by the Price of Adobe Creative Cloud? Consider the Affinity Suite",
+    "date": "2022-01-31",
+    "slug": "perturbed-by-the-price-of-adobe-creative-cloud-consider-the-affinity-suite",
+    "original_url": "https://www.atlascarolina.com/blog/perturbed-by-the-price-of-adobe-creative-cloud-consider-the-affinity-suite",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Change Your Pointer Color in macOS 12 Monterey",
+    "date": "2022-01-27",
+    "slug": "change-your-pointer-color-in-macos-12-monterey",
+    "original_url": "https://www.atlascarolina.com/blog/change-your-pointer-color-in-macos-12-monterey",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Plan for the Future by Establishing a Legacy Contact",
+    "date": "2022-01-25",
+    "slug": "plan-for-the-future-by-establishing-a-legacy-contact",
+    "original_url": "https://www.atlascarolina.com/blog/plan-for-the-future-by-establishing-a-legacy-contact",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Giving Away a Mac Running macOS 12 Monterey? Try Erase All Content and Settings",
+    "date": "2022-01-13",
+    "slug": "giving-away-a-mac-running-macos-12-monterey-try-erase-all-content-and-settings",
+    "original_url": "https://www.atlascarolina.com/blog/giving-away-a-mac-running-macos-12-monterey-try-erase-all-content-and-settings",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Badges? We Don’t Need No Stinkin’ Red Badges (On Our iPhone Apps)",
+    "date": "2022-01-11",
+    "slug": "badges-we-dont-need-no-stinkin-red-badges-on-our-iphone-apps",
+    "original_url": "https://www.atlascarolina.com/blog/badges-we-dont-need-no-stinkin-red-badges-on-our-iphone-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know That Siri on a HomePod Can Control Alarms on Other Devices?",
+    "date": "2022-01-05",
+    "slug": "did-you-know-that-siri-on-a-homepod-can-control-alarms-on-other-devices",
+    "original_url": "https://www.atlascarolina.com/blog/did-you-know-that-siri-on-a-homepod-can-control-alarms-on-other-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Stop Forgetting Your Apple Gear with “Notify When Left Behind”",
+    "date": "2022-01-04",
+    "slug": "how-to-stop-forgetting-your-apple-gear-with-notify-when-left-behind",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-stop-forgetting-your-apple-gear-with-notify-when-left-behind",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Shrink Apps to Prevent the MacBook Pro Notch from Obscuring App Controls",
+    "date": "2021-12-21",
+    "slug": "shrink-apps-to-prevent-the-macbook-pro-notch-from-obscuring-app-controls",
+    "original_url": "https://www.atlascarolina.com/blog/shrink-apps-to-prevent-the-macbook-pro-notch-from-obscuring-app-controls",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Should You Use Apple’s New Password Manager in iOS 15, iPadOS 15, and macOS 12 Monterey?",
+    "date": "2021-12-20",
+    "slug": "should-you-use-apples-new-password-manager-in-ios-15-ipados-15-and-macos-12-monterey",
+    "original_url": "https://www.atlascarolina.com/blog/should-you-use-apples-new-password-manager-in-ios-15-ipados-15-and-macos-12-monterey",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Avoid Inclement Weather by Enabling Notifications in iOS 15’s Weather App",
+    "date": "2021-12-14",
+    "slug": "avoid-inclement-weather-by-enabling-notifications-in-ios-15s-weather-app",
+    "original_url": "https://www.atlascarolina.com/blog/avoid-inclement-weather-by-enabling-notifications-in-ios-15s-weather-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "FaceTime Gains Cool New Features in Apple’s Latest Operating Systems",
+    "date": "2021-12-13",
+    "slug": "facetime-gains-cool-new-features-in-apples-latest-operating-systems",
+    "original_url": "https://www.atlascarolina.com/blog/facetime-gains-cool-new-features-in-apples-latest-operating-systems",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Pay Attention to the iPhone’s Emergency SOS Auto Call Feature",
+    "date": "2021-12-07",
+    "slug": "pay-attention-to-the-iphones-emergency-sos-auto-call-feature",
+    "original_url": "https://www.atlascarolina.com/blog/pay-attention-to-the-iphones-emergency-sos-auto-call-feature",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Print Mailing Labels for Your Holiday Cards with Apple’s Contacts App",
+    "date": "2021-12-06",
+    "slug": "print-mailing-labels-for-your-holiday-cards-with-apples-contacts-app",
+    "original_url": "https://www.atlascarolina.com/blog/print-mailing-labels-for-your-holiday-cards-with-apples-contacts-app",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Visual Look Up in Photos in iOS 15 to Identify Plants, Pets, and More",
+    "date": "2021-12-02",
+    "slug": "use-visual-look-up-in-photos-in-ios-15-to-identify-plants-pets-and-more",
+    "original_url": "https://www.atlascarolina.com/blog/use-visual-look-up-in-photos-in-ios-15-to-identify-plants-pets-and-more",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Live Text Digitizes Text in Photos in iOS 15, iPadOS 15, and macOS 12 Monterey",
+    "date": "2021-11-30",
+    "slug": "live-text-digitizes-text-in-photos-in-ios-15-ipados-15-and-macos-12-monterey",
+    "original_url": "https://www.atlascarolina.com/blog/live-text-digitizes-text-in-photos-in-ios-15-ipados-15-and-macos-12-monterey",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Provides Temporary iCloud Backup Space for New Device Transfers",
+    "date": "2021-11-24",
+    "slug": "apple-provides-temporary-icloud-backup-space-for-new-device-transfers",
+    "original_url": "https://www.atlascarolina.com/blog/apple-provides-temporary-icloud-backup-space-for-new-device-transfers",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Resize Images in Various Ways? Give Preview a Try",
+    "date": "2021-11-22",
+    "slug": "need-to-resize-images-in-various-ways-give-preview-a-try",
+    "original_url": "https://www.atlascarolina.com/blog/need-to-resize-images-in-various-ways-give-preview-a-try",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Safari 15.1 Reverses Course, Reverts to Old Tab Interface",
+    "date": "2021-11-17",
+    "slug": "changes-in-safari-15",
+    "original_url": "https://www.atlascarolina.com/blog/changes-in-safari-15",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Best Apple-Related Gifts for 2021",
+    "date": "2021-11-15",
+    "slug": "apple-gift-guide-for-2021",
+    "original_url": "https://www.atlascarolina.com/blog/apple-gift-guide-for-2021",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "With Apple Watch Faces, Too Much Choice Can Be Confusing",
+    "date": "2021-11-09",
+    "slug": "with-apple-watch-faces-too-much-choice-can-be-confusing",
+    "original_url": "https://www.atlascarolina.com/blog/with-apple-watch-faces-too-much-choice-can-be-confusing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Avoid Unusual Top-Level Domains in Custom Domain Names",
+    "date": "2021-11-08",
+    "slug": "avoid-unusual-top-level-domains-in-custom-domain-names",
+    "original_url": "https://www.atlascarolina.com/blog/avoid-unusual-top-level-domains-in-custom-domain-names",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New M1 Pro and M1 Max Chips Power the 14-inch and 16-inch MacBook Pros",
+    "date": "2021-10-19",
+    "slug": "new-m1-pro-and-m1-max-chips-power-the-14-inch-and-16-inch-macbook-pros",
+    "original_url": "https://www.atlascarolina.com/blog/osurz7hrht1hplhbmpm7v73v81qgwr",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When It Comes to Wi-Fi Networks, Sometimes It’s Better to Forget",
+    "date": "2021-10-05",
+    "slug": "when-it-comes-to-wi-fi-networks-sometimes-its-better-to-forget",
+    "original_url": "https://www.atlascarolina.com/blog/when-it-comes-to-wi-fi-networks-sometimes-its-better-to-forget",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Beware the Bulging Battery! (And What to Do If Yours Expands)",
+    "date": "2021-10-04",
+    "slug": "beware-the-bulging-battery-and-what-to-do-if-yours-expands",
+    "original_url": "https://www.atlascarolina.com/blog/beware-the-bulging-battery-and-what-to-do-if-yours-expands",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Plug Is Mightier Than the Puck: Wireless Charging Is Wildly Inefficient",
+    "date": "2021-09-28",
+    "slug": "the-plug-is-mightier-than-the-puck-wireless-charging-is-wildly-inefficient",
+    "original_url": "https://www.atlascarolina.com/blog/the-plug-is-mightier-than-the-puck-wireless-charging-is-wildly-inefficient",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Should You Upgrade to macOS 12 Monterey, iOS 15, iPadOS 15, watchOS 8, and tvOS 15?",
+    "date": "2021-09-27",
+    "slug": "when-should-you-upgrade-to-macos-12-monterey-ios-15-ipados-15-watchos-8-and-tvos-15",
+    "original_url": "https://www.atlascarolina.com/blog/when-should-you-upgrade-to-macos-12-monterey-ios-15-ipados-15-watchos-8-and-tvos-15",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Sort Your Lists Differently in Reminders in iOS 14 and Big Sur",
+    "date": "2021-09-21",
+    "slug": "sort-your-lists-differently-in-reminders-in-ios-14-and-big-sur",
+    "original_url": "https://www.atlascarolina.com/blog/sort-your-lists-differently-in-reminders-in-ios-14-and-big-sur",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Share Files Securely? Try Password-Protected ZIP Archives",
+    "date": "2021-09-20",
+    "slug": "need-to-share-files-securely-try-password-protected-zip-archives",
+    "original_url": "https://www.atlascarolina.com/blog/need-to-share-files-securely-try-password-protected-zip-archives",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple’s 2021 Crop: Four iPhones, Two iPads, and an Apple Watch",
+    "date": "2021-09-16",
+    "slug": "apples-2021-crop-four-iphones-two-ipads-and-an-apple-watch",
+    "original_url": "https://www.atlascarolina.com/blog/apples-2021-crop-four-iphones-two-ipads-and-an-apple-watch",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Losing the Occasional Important Message? Set up a Ham Filter",
+    "date": "2021-09-14",
+    "slug": "losing-the-occasional-important-message-set-up-a-ham-filter",
+    "original_url": "https://www.atlascarolina.com/blog/losing-the-occasional-important-message-set-up-a-ham-filter",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Solve Networking Puzzles with Powerline Networking and MoCA",
+    "date": "2021-09-13",
+    "slug": "solve-networking-puzzles-with-powerline-networking-and-moca",
+    "original_url": "https://www.atlascarolina.com/blog/solve-networking-puzzles-with-powerline-networking-and-moca",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "About That Worrying Message Saying Your Password Has Been Breached…",
+    "date": "2021-09-07",
+    "slug": "about-that-worrying-message-saying-your-password-has-been-breached",
+    "original_url": "https://www.atlascarolina.com/blog/about-that-worrying-message-saying-your-password-has-been-breached",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Frequently Asked Questions Surrounding Apple’s Expanded Protections for Children",
+    "date": "2021-09-06",
+    "slug": "frequently-asked-questions-surrounding-apples-expanded-protections-for-children",
+    "original_url": "https://www.atlascarolina.com/blog/frequently-asked-questions-surrounding-apples-expanded-protections-for-children",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Ransomware Is on the Rise: Learn How to Protect Your Macs",
+    "date": "2021-08-23",
+    "slug": "ransomware-is-on-the-rise-learn-how-to-protect-your-macs",
+    "original_url": "https://www.atlascarolina.com/blog/ransomware-is-on-the-rise-learn-how-to-protect-your-macs",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Ever Have Trouble Printing? Try a Different Printer Driver",
+    "date": "2021-08-23",
+    "slug": "ever-have-trouble-printing-try-a-different-printer-driver",
+    "original_url": "https://www.atlascarolina.com/blog/ever-have-trouble-printing-try-a-different-printer-driver",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Filter What’s Showing in Photos to Focus on Specific Types",
+    "date": "2021-08-17",
+    "slug": "filter-whats-showing-in-photos-to-focus-on-specific-types",
+    "original_url": "https://www.atlascarolina.com/blog/filter-whats-showing-in-photos-to-focus-on-specific-types",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share Files, Photos, and other Data between Apple Devices with AirDrop",
+    "date": "2021-08-16",
+    "slug": "share-files-photos-and-other-data-between-apple-devices-with-airdrop",
+    "original_url": "https://www.atlascarolina.com/blog/share-files-photos-and-other-data-between-apple-devices-with-airdrop",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Mac’s Magic Shortcut to Trashing Files and Photos Quickly",
+    "date": "2021-08-10",
+    "slug": "the-macs-magic-shortcut-to-trashing-files-and-photos-quickly",
+    "original_url": "https://www.atlascarolina.com/blog/the-macs-magic-shortcut-to-trashing-files-and-photos-quickly",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Take the Annoyance Out of Your Key Passwords and Passcodes",
+    "date": "2021-08-09",
+    "slug": "how-to-take-the-annoyance-out-of-your-key-passwords-and-passcodes",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-take-the-annoyance-out-of-your-key-passwords-and-passcodes",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Picking the Best Mac for a College-Bound Student",
+    "date": "2021-08-03",
+    "slug": "picking-the-best-mac-for-a-college-bound-student",
+    "original_url": "https://www.atlascarolina.com/blog/picking-the-best-mac-for-a-college-bound-student",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Nightstand Mode Makes Your Apple Watch a Helpful Bedroom Companion",
+    "date": "2021-08-03",
+    "slug": "nightstand-mode-makes-your-apple-watch-a-helpful-bedroom-companion",
+    "original_url": "https://www.atlascarolina.com/blog/nightstand-mode-makes-your-apple-watch-a-helpful-bedroom-companion",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Disable Unused Sharing Options on Your Mac If You’re Not Using Them",
+    "date": "2021-07-27",
+    "slug": "disable-unused-sharing-options-on-your-mac-if-youre-not-using-them",
+    "original_url": "https://www.atlascarolina.com/blog/disable-unused-sharing-options-on-your-mac-if-youre-not-using-them",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "​Reduce Your Email Load with Three Features in Apple’s Mail: Mute, Block, and Unsubscribe",
+    "date": "2021-07-26",
+    "slug": "reduce-your-email-load-with-three-features-in-apples-mail-mute-block-and-unsubscribe",
+    "original_url": "https://www.atlascarolina.com/blog/reduce-your-email-load-with-three-features-in-apples-mail-mute-block-and-unsubscribe",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two Important Tips for External Storage Devices",
+    "date": "2021-07-20",
+    "slug": "two-important-tips-for-external-storage-devices",
+    "original_url": "https://www.atlascarolina.com/blog/two-important-tips-for-external-storage-devices",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Reopening Your Office- Now’s a Great Time to Evaluate Your IT Infrastructure",
+    "date": "2021-07-19",
+    "slug": "reopening-your-office-nows-a-great-time-to-evaluate-your-it-infrastructure",
+    "original_url": "https://www.atlascarolina.com/blog/reopening-your-office-nows-a-great-time-to-evaluate-your-it-infrastructure",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "5 Things You Need To Know About The Apple AirTag",
+    "date": "2021-07-13",
+    "slug": "5-things-you-need-to-know-about-the-apple-airtag",
+    "original_url": "https://www.atlascarolina.com/blog/5-things-you-need-to-know-about-the-apple-airtag",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Going on Vacation? Learn How to Write an Effective Out-of-Office Message",
+    "date": "2021-07-12",
+    "slug": "going-on-vacation-learn-how-to-write-an-effective-out-of-office-message",
+    "original_url": "https://www.atlascarolina.com/blog/going-on-vacation-learn-how-to-write-an-effective-out-of-office-message",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Cook Your Digital Devices in the Summer Heat",
+    "date": "2021-07-05",
+    "slug": "dont-cook-your-digital-devices-in-the-summer-heat",
+    "original_url": "https://www.atlascarolina.com/blog/dont-cook-your-digital-devices-in-the-summer-heat",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Live in the Future by Using Apple Pay on Your Apple Watch",
+    "date": "2021-07-02",
+    "slug": "live-in-the-future-by-using-apple-pay-on-your-apple-watch",
+    "original_url": "https://www.atlascarolina.com/blog/live-in-the-future-by-using-apple-pay-on-your-apple-watch",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Apple Business Manager Is a Win for Apple-Using Firms",
+    "date": "2021-06-29",
+    "slug": "why-apple-business-manager-is-a-win-for-apple-using-firms-1",
+    "original_url": "https://www.atlascarolina.com/blog/why-apple-business-manager-is-a-win-for-apple-using-firms-1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Create Your Own Chat Group Via Slack",
+    "date": "2021-06-29",
+    "slug": "create-your-own-chat-group-via-slack",
+    "original_url": "https://www.atlascarolina.com/blog/create-your-own-chat-group-via-slack",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Pin Your Chats in Messages for Faster Access",
+    "date": "2021-06-22",
+    "slug": "pin-your-chats-in-messages-for-faster-access",
+    "original_url": "https://www.atlascarolina.com/blog/pin-your-chats-in-messages-for-faster-access",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Is the Cloud?",
+    "date": "2021-06-21",
+    "slug": "what-is-the-cloud",
+    "original_url": "https://www.atlascarolina.com/blog/what-is-the-cloud",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Looking for More iOS 14 Widgets? Be Sure to Launch Seldom-Used Apps",
+    "date": "2021-06-15",
+    "slug": "looking-for-more-ios-14-widgets-be-sure-to-launch-seldom-used-apps",
+    "original_url": "https://www.atlascarolina.com/blog/looking-for-more-ios-14-widgets-be-sure-to-launch-seldom-used-apps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Digitize Your Signature So You’re Ready for Online Document Signing",
+    "date": "2021-06-14",
+    "slug": "how-to-digitize-your-signature-so-youre-ready-for-online-document-signing",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-digitize-your-signature-so-youre-ready-for-online-document-signing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two Tricks for Fixing a Mac That’s Restarting Unexpectedly",
+    "date": "2021-06-10",
+    "slug": "two-tricks-for-fixing-a-mac-thats-restarting-unexpectedly",
+    "original_url": "https://www.atlascarolina.com/blog/two-tricks-for-fixing-a-mac-thats-restarting-unexpectedly",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Is This “App Tracking Transparency” Apple Added to iOS 14.5?",
+    "date": "2021-06-09",
+    "slug": "what-is-this-app-tracking-transparency-apple-added-to-ios-145",
+    "original_url": "https://www.atlascarolina.com/blog/what-is-this-app-tracking-transparency-apple-added-to-ios-145",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Ten Upcoming Mac/iPhone/iPad Features We Think You’ll Most Like",
+    "date": "2021-06-09",
+    "slug": "the-ten-upcoming-maciphoneipad-features-we-think-youll-most-like",
+    "original_url": "https://www.atlascarolina.com/blog/the-ten-upcoming-maciphoneipad-features-we-think-youll-most-like",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Share Your Apple Card with People in Your Family Sharing Group",
+    "date": "2021-06-08",
+    "slug": "share-your-apple-card-with-people-in-your-family-sharing-group",
+    "original_url": "https://www.atlascarolina.com/blog/share-your-apple-card-with-people-in-your-family-sharing-group",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "AirTag Basics and How to Protect Yourself from Stalking",
+    "date": "2021-06-07",
+    "slug": "airtag-basics-and-how-to-protect-yourself-from-stalking",
+    "original_url": "https://www.atlascarolina.com/blog/airtag-basics-and-how-to-protect-yourself-from-stalking",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want to Make Your iPhone and Apple Watch Easier to Read?",
+    "date": "2021-06-02",
+    "slug": "want-to-make-your-iphone-and-apple-watch-easier-to-read",
+    "original_url": "https://www.atlascarolina.com/blog/want-to-make-your-iphone-and-apple-watch-easier-to-read",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Rename Bluetooth Devices for Easy Management",
+    "date": "2021-06-01",
+    "slug": "rename-bluetooth-devices-for-easy-management",
+    "original_url": "https://www.atlascarolina.com/blog/rename-bluetooth-devices-for-easy-management",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Learn How to Paste Text So Its Style Matches the Surrounding Text",
+    "date": "2021-05-25",
+    "slug": "learn-how-to-paste-text-so-its-style-matches-the-surrounding-text",
+    "original_url": "https://www.atlascarolina.com/blog/learn-how-to-paste-text-so-its-style-matches-the-surrounding-text",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Nine Reasons to Put Your Mac’s Pointer in a Corner",
+    "date": "2021-05-24",
+    "slug": "nine-reasons-to-put-your-macs-pointer-in-a-corner",
+    "original_url": "https://www.atlascarolina.com/blog/nine-reasons-to-put-your-macs-pointer-in-a-corner",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Intuit Has Stopped Updating the QuickBooks Online Mac App; Switch to a Web Browser",
+    "date": "2021-05-18",
+    "slug": "intuit-has-stopped-updating-the-quickbooks-online-mac-app-switch-to-a-web-browser",
+    "original_url": "https://www.atlascarolina.com/blog/intuit-has-stopped-updating-the-quickbooks-online-mac-app-switch-to-a-web-browser",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Are You Incurring Technical Debt? Avoid It by Staying Current",
+    "date": "2021-05-17",
+    "slug": "are-you-incurring-technical-debt-avoid-it-by-staying-current",
+    "original_url": "https://www.atlascarolina.com/blog/are-you-incurring-technical-debt-avoid-it-by-staying-current",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use Messages to Share Your Current Location Quickly",
+    "date": "2021-05-11",
+    "slug": "use-messages-to-share-your-current-location-quickly",
+    "original_url": "https://www.atlascarolina.com/blog/use-messages-to-share-your-current-location-quickly",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Four Ways to Reduce Zoom Fatigue",
+    "date": "2021-05-10",
+    "slug": "four-ways-to-reduce-zoom-fatigue",
+    "original_url": "https://www.atlascarolina.com/blog/four-ways-to-reduce-zoom-fatigue",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Privacy Tip: Don’t Post Vaccination Record Cards on Social Media",
+    "date": "2021-05-06",
+    "slug": "privacy-tip-dont-post-vaccination-record-cards-on-social-media",
+    "original_url": "https://www.atlascarolina.com/blog/privacy-tip-dont-post-vaccination-record-cards-on-social-media",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Upgrade to iOS 14.5 and watchOS 7.4 to Unlock Face ID iPhones with Your Watch",
+    "date": "2021-05-05",
+    "slug": "upgrade-to-ios-145-and-watchos-74-to-unlock-face-id-iphones-with-your-watch",
+    "original_url": "https://www.atlascarolina.com/blog/upgrade-to-ios-145-and-watchos-74-to-unlock-face-id-iphones-with-your-watch",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know You Can Save and Share Voicemail Files from Your iPhone?",
+    "date": "2021-05-04",
+    "slug": "did-you-know-you-can-save-and-share-voicemail-files-from-your-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/did-you-know-you-can-save-and-share-voicemail-files-from-your-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What to Put at the End of Your Email Messages",
+    "date": "2021-05-03",
+    "slug": "what-to-put-at-the-end-of-your-email-messages",
+    "original_url": "https://www.atlascarolina.com/blog/what-to-put-at-the-end-of-your-email-messages",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Work with iOS App Updates in Your Account in the App Store",
+    "date": "2021-04-27",
+    "slug": "work-with-ios-app-updates-in-your-account-in-the-app-store",
+    "original_url": "https://www.atlascarolina.com/blog/work-with-ios-app-updates-in-your-account-in-the-app-store",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Archive Email to Avoid Mail Quotas, Improve Performance, and Reduce Clutter",
+    "date": "2021-04-26",
+    "slug": "archive-email-to-avoid-mail-quotas-improve-performance-and-reduce-clutter",
+    "original_url": "https://www.atlascarolina.com/blog/26s4v6msawfd56fxc121pjkjv0n7ga",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Announces New M1-Based 24-inch iMac, iPad Pro, AirTag, Apple TV 4K, and More",
+    "date": "2021-04-22",
+    "slug": "apple-announces-new-m1-based-24-inch-imac-ipad-pro-airtag-apple-tv-4k-and-more",
+    "original_url": "https://www.atlascarolina.com/blog/apple-announces-new-m1-based-24-inch-imac-ipad-pro-airtag-apple-tv-4k-and-more",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Store Confidential Files in Online File Sharing Services",
+    "date": "2021-04-20",
+    "slug": "dont-store-confidential-files-in-online-file-sharing-services",
+    "original_url": "https://www.atlascarolina.com/blog/dont-store-confidential-files-in-online-file-sharing-services",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Avoid Embarrassment During Online Presentations or Screen Sharing",
+    "date": "2021-04-19",
+    "slug": "how-to-avoid-embarrassment-during-online-presentations-or-screen-sharing",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-avoid-embarrassment-during-online-presentations-or-screen-sharing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Not a Fan of Big Sur’s Translucent Menu Bar? Here’s How to Disable It",
+    "date": "2021-04-13",
+    "slug": "not-a-fan-of-big-surs-translucent-menu-bar-heres-how-to-disable-it",
+    "original_url": "https://www.atlascarolina.com/blog/not-a-fan-of-big-surs-translucent-menu-bar-heres-how-to-disable-it",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Try iCloud Drive Folder Sharing Instead of Paying More for a File Sharing Service",
+    "date": "2021-04-12",
+    "slug": "try-icloud-drive-folder-sharing-instead-of-paying-more-for-a-file-sharing-service",
+    "original_url": "https://www.atlascarolina.com/blog/try-icloud-drive-folder-sharing-instead-of-paying-more-for-a-file-sharing-service",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Hid the Proxy Icon in Big Sur’s Finder. Here’s How to Reveal It",
+    "date": "2021-04-06",
+    "slug": "apple-hid-the-proxy-icon-in-big-surs-finder-heres-how-to-reveal-it",
+    "original_url": "https://www.atlascarolina.com/blog/apple-hid-the-proxy-icon-in-big-surs-finder-heres-how-to-reveal-it",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Better Documents and Edit More Easily with Show Invisibles",
+    "date": "2021-04-05",
+    "slug": "make-better-documents-and-edit-more-easily-with-show-invisibles",
+    "original_url": "https://www.atlascarolina.com/blog/make-better-documents-and-edit-more-easily-with-show-invisibles",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Disable or Remap the Caps Lock Key to Avoid Accidental ALL CAPS",
+    "date": "2021-03-30",
+    "slug": "disable-or-remap-the-caps-lock-key-to-avoid-accidental-all-caps",
+    "original_url": "https://www.atlascarolina.com/blog/disable-or-remap-the-caps-lock-key-to-avoid-accidental-all-caps",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Choose Between iCloud Photos and My Photo Stream",
+    "date": "2021-03-29",
+    "slug": "how-to-choose-between-icloud-photos-and-my-photo-stream-1",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-choose-between-icloud-photos-and-my-photo-stream-1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Having Trouble Finding Files on Your Mac? Here’s How to Reset Spotlight",
+    "date": "2021-03-23",
+    "slug": "having-trouble-finding-files-on-your-mac-heres-how-to-reset-spotlight",
+    "original_url": "https://www.atlascarolina.com/blog/having-trouble-finding-files-on-your-mac-heres-how-to-reset-spotlight",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Web Ads: Making the Best of a Lose-Lose Scenario",
+    "date": "2021-03-22",
+    "slug": "web-ads-making-the-best-of-a-lose-lose-scenario",
+    "original_url": "https://www.atlascarolina.com/blog/web-ads-making-the-best-of-a-lose-lose-scenario",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "When Asking about Phishing Email, Make Sure to Write Separately Too",
+    "date": "2021-03-16",
+    "slug": "when-asking-about-phishing-email-make-sure-to-write-separately-too",
+    "original_url": "https://www.atlascarolina.com/blog/when-asking-about-phishing-email-make-sure-to-write-separately-too",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Manage Your Apple Purchases and Subscriptions on the Mac and iPhone",
+    "date": "2021-03-15",
+    "slug": "manage-your-apple-purchases-and-subscriptions-on-the-mac-and-iphone",
+    "original_url": "https://www.atlascarolina.com/blog/manage-your-apple-purchases-and-subscriptions-on-the-mac-and-iphone",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Choose Your Preferred Default Web Browser and Email App in iOS and iPadOS 14",
+    "date": "2021-03-09",
+    "slug": "choose-your-preferred-default-web-browser-and-email-app-in-ios-and-ipados-14",
+    "original_url": "https://www.atlascarolina.com/blog/r9e7a3yzgxc00ivfsu2bun59hedwrw",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "PostScript Type 1 Fonts Losing Support This Year—Here’s What to Do",
+    "date": "2021-03-08",
+    "slug": "postscript-type-1-fonts-losing-support-this-year-heres-what-to-do",
+    "original_url": "https://www.atlascarolina.com/blog/it40yl114dpbyrm5wmbikns0jgfbs8",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Stop Apple Watch Timer Alerts with a Press of the Digital Crown",
+    "date": "2021-03-02",
+    "slug": "stop-apple-watch-timer-alerts-with-a-press-of-the-digital-crown",
+    "original_url": "https://www.atlascarolina.com/blog/f1bn0f271dwnr0ewcm60hnvb6yrv6a",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "It’s Time to Consider Upgrading to macOS 11 Big Sur",
+    "date": "2021-03-01",
+    "slug": "its-time-to-consider-upgrading-to-macos-11-big-sur",
+    "original_url": "https://www.atlascarolina.com/blog/2185cme3964y8sxe9ge8za1nchoahp",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep iPhone 12 and MagSafe Accessories Away from Pacemakers",
+    "date": "2021-02-23",
+    "slug": "keep-iphone-12-and-magsafe-accessories-away-from-pacemakers",
+    "original_url": "https://www.atlascarolina.com/blog/qqk2ijkq8r5j7b0toybgqrw1igpyx6",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Forget Adobe Acrobat: Preview May Be All You Need to Work with PDFs",
+    "date": "2021-02-22",
+    "slug": "forget-adobe-acrobat-preview-may-be-all-you-need-to-work-with-pdfs",
+    "original_url": "https://www.atlascarolina.com/blog/yz9n54kv0v26d0eioryfrl33i8fd7z",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What Are Those Orange and Green Dots in Your iPhone’s Status Bar?",
+    "date": "2021-02-16",
+    "slug": "what-are-those-orange-and-green-dots-in-your-iphones-status-bar",
+    "original_url": "https://www.atlascarolina.com/blog/zzzrd3rusgmd2r8cf9exyhegc3y250",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Home Sharing Lets You Access Media on Your Mac from Other Local Apple Devices",
+    "date": "2021-02-16",
+    "slug": "home-sharing",
+    "original_url": "https://www.atlascarolina.com/blog/home-sharing",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Keep Your Mac Quiet at Night and During Presentations with Do Not Disturb",
+    "date": "2021-02-09",
+    "slug": "keep-your-mac-quiet-at-night-and-during-presentations-with-do-not-disturb",
+    "original_url": "https://www.atlascarolina.com/blog/eoz9ff87m3a5lyhchbvxfmkp0fbxdk",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Getting Started with 1Password",
+    "date": "2021-02-08",
+    "slug": "getting-started-with-1password",
+    "original_url": "https://www.atlascarolina.com/blog/qd6crncs3w1uzoscju8u15d8u76mzw",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want an Early Warning System for COVID-19 Infections? Install NOVID!",
+    "date": "2021-02-04",
+    "slug": "want-an-early-warning-system-for-covid-19-infections-install-novid",
+    "original_url": "https://www.atlascarolina.com/blog/pdb8ox3x1qhgp2ajln9sqx7yxfo4y9",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Not Enough Space to Install iOS 14 or iPadOS 14? Try This Approach",
+    "date": "2021-01-26",
+    "slug": "not-enough-space-to-install-ios-14-or-ipados-14-try-this-approach",
+    "original_url": "https://www.atlascarolina.com/blog/tswk12b8xu8fewax98nicyl9q4bm3a",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "5 New Year’s Resolutions That Will Improve Your Digital Security",
+    "date": "2021-01-25",
+    "slug": "5-new-years-resolutions-that-will-improve-your-digital-security",
+    "original_url": "https://www.atlascarolina.com/blog/76tfncyct1t92vwa4q6vzyop6pgot7",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Provides Sensible Device and Data Access Safety Advice",
+    "date": "2021-01-19",
+    "slug": "apple-provides-sensible-device-and-data-access-safety-advice",
+    "original_url": "https://www.atlascarolina.com/blog/w80py5tpa55gbupm6rezk1q76l46pw",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Features You May Have Missed in the iOS 14.1, 14.2, and 14.3 Updates",
+    "date": "2021-01-18",
+    "slug": "8-ways-apple-improved-the-camera-app-in-ios-14",
+    "original_url": "https://www.atlascarolina.com/blog/8-ways-apple-improved-the-camera-app-in-ios-14",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Stop Group FaceTime Video Tiles from Bouncing with Recent Apple OS Updates",
+    "date": "2021-01-12",
+    "slug": "stop-group-facetime-video-tiles-from-bouncing-with-recent-apple-os-updates",
+    "original_url": "https://www.atlascarolina.com/blog/16hqv8n5lrergrhf84gu3hpxoleyrm",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "M1-Based Macs Have New Startup Modes: Here’s What You Need to Know",
+    "date": "2021-01-11",
+    "slug": "m1-based-macs-have-new-startup-modes-heres-what-you-need-to-know",
+    "original_url": "https://www.atlascarolina.com/blog/m1-based-macs-have-new-startup-modes-heres-what-you-need-to-know",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Make Sure Your iPhone Doesn’t Make Noise in the Night",
+    "date": "2021-01-07",
+    "slug": "how-to-make-sure-your-iphone-doesnt-make-noise-in-the-night",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-make-sure-your-iphone-doesnt-make-noise-in-the-night",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Save Bandwidth on Your iPhone? Try Low Data Mode",
+    "date": "2021-01-05",
+    "slug": "need-to-save-bandwidth-on-your-iphone-try-low-data-mode",
+    "original_url": "https://www.atlascarolina.com/blog/h4zslglpawyt9y7cfa8btetf9z1obp",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "iOS 14 Camera Improvements",
+    "date": "2021-01-04",
+    "slug": "ios-14-camera-improvements",
+    "original_url": "https://www.atlascarolina.com/blog/ios-14-camera-improvements",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "New Back Tap Feature in iOS 14 Provides Two Customizable Shortcuts",
+    "date": "2020-12-28",
+    "slug": "new-back-tap-feature-in-ios-14-provides-two-customizable-shortcuts",
+    "original_url": "https://www.atlascarolina.com/blog/new-back-tap-feature-in-ios-14-provides-two-customizable-shortcuts",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Flash Is Dead—Uninstall Flash Player to Keep Your Mac Secure",
+    "date": "2020-12-24",
+    "slug": "flash-is-dead-uninstall-flash-player-to-keep-your-mac-secure",
+    "original_url": "https://www.atlascarolina.com/blog/7v5s125ou9xdpww489a7uktpwahp5x",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "So, Are Apple’s New M1-Based Macs Any Good?",
+    "date": "2020-12-23",
+    "slug": "so-are-apples-new-m1-based-macs-any-good",
+    "original_url": "https://www.atlascarolina.com/blog/qnrao4d2ub41u3pqtmbuzts4t5dbf1",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Did You Know That Your iPhone Can “Name That Tune”?",
+    "date": "2020-12-22",
+    "slug": "did-you-know-that-your-iphone-can-name-that-tune",
+    "original_url": "https://www.atlascarolina.com/blog/809wii7rhtmfc06zwrt70700uwvf65",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Take a Few Minutes to Lock Down Your Facebook Privacy Settings",
+    "date": "2020-12-21",
+    "slug": "take-a-few-minutes-to-lock-down-your-facebook-privacy-settings",
+    "original_url": "https://www.atlascarolina.com/blog/76volcxp9yjqp3pkb8f2iojpjuzsjr",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Beware Scammers when Selling Your Old Tech Hardware Online",
+    "date": "2020-12-18",
+    "slug": "beware-scammers-when-selling-your-old-tech-hardware-online",
+    "original_url": "https://www.atlascarolina.com/blog/beware-scammers-when-selling-your-old-tech-hardware-online",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Pinch to Zoom in All Photos View in iOS 14",
+    "date": "2020-12-17",
+    "slug": "pinch-to-zoom-in-all-photos-view-in-ios-14",
+    "original_url": "https://www.atlascarolina.com/blog/e74njnvaqrflurqd83breknjyh0hvw",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Overwhelmed by Apps? Use iOS 14’s App Library to Manage Your Home Screens",
+    "date": "2020-12-16",
+    "slug": "overwhelmed-by-apps-use-ios-14s-app-library-to-manage-your-home-screens",
+    "original_url": "https://www.atlascarolina.com/blog/gd4gp2y1hw3v1ugx8388qzdlagkmhn",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "A Quick Shortcut to Create an Instant Slideshow from a Folder of Images",
+    "date": "2020-12-15",
+    "slug": "a-quick-shortcut-to-create-an-instant-slideshow-from-a-folder-of-images",
+    "original_url": "https://www.atlascarolina.com/blog/r1uxt7hnevzdebf9pt8er6tul24g35",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Holiday Cards with Motif",
+    "date": "2020-12-14",
+    "slug": "holiday-cards-with-motif",
+    "original_url": "https://www.atlascarolina.com/blog/k2veu15rd9hrsfmcy621g97szcosir",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Don’t Worry about an Occasional “Not Charging” Message on Your MacBook",
+    "date": "2020-12-10",
+    "slug": "dont-worry-about-an-occasional-not-charging-message-on-your-macbook",
+    "original_url": "https://www.atlascarolina.com/blog/jyh2vivmoicemcdt4z3pe35lpj4w2c",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "What’s MDM, and Why Is It Useful for Organizations?",
+    "date": "2020-12-08",
+    "slug": "whats-mdm-and-why-is-it-useful-for-organizations",
+    "original_url": "https://www.atlascarolina.com/blog/whats-mdm-and-why-is-it-useful-for-organizations",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "The Best Apple-Related Gifts for 2020",
+    "date": "2020-12-07",
+    "slug": "the-best-apple-related-gifts-for-2020",
+    "original_url": "https://www.atlascarolina.com/blog/the-best-apple-related-gifts-for-2020",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Amazing New Tips for Rearranging Apps on Your iPhone or iPad",
+    "date": "2020-12-04",
+    "slug": "amazing-new-tips-for-rearranging-apps-on-your-iphone-or-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/pz9ktj8a1txe7es8tum2kva6nbf5pk",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Apple Unveils New M1-Powered MacBook Air, MacBook Pro, and Mac mini",
+    "date": "2020-11-16",
+    "slug": "apple-unveils-new-m1-powered-macbook-air-macbook-pro-and-mac-mini",
+    "original_url": "https://www.atlascarolina.com/blog/apple-unveils-new-m1-powered-macbook-air-macbook-pro-and-mac-mini",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want Better Goals? Customize Your Move, Exercise, and Stand Rings in watchOS 7",
+    "date": "2020-10-29",
+    "slug": "want-better-goals-customize-your-move-exercise-and-stand-rings-in-watchos-7",
+    "original_url": "https://www.atlascarolina.com/blog/want-better-goals-customize-your-move-exercise-and-stand-rings-in-watchos-7",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Remember to Enable Text Message Forwarding When You Get a New Mac or iPad",
+    "date": "2020-10-29",
+    "slug": "send-green-text-to-mac-and-ipad",
+    "original_url": "https://www.atlascarolina.com/blog/send-green-text-to-mac-and-ipad",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Are You Making the Most of the Touch Bar on Your MacBook Pro?",
+    "date": "2020-09-14",
+    "slug": "are-you-making-the-most-of-the-touch-bar-on-your-macbook-pro",
+    "original_url": "https://www.atlascarolina.com/blog/are-you-making-the-most-of-the-touch-bar-on-your-macbook-pro",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Use This New Setting to Prevent iOS Updates from Consuming Precious Space",
+    "date": "2020-08-19",
+    "slug": "use-this-new-setting-to-prevent-ios-updates-from-consuming-precious-space",
+    "original_url": "https://www.atlascarolina.com/blog/use-this-new-setting-to-prevent-ios-updates-from-consuming-precious-space",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Here’s How the Exposure Notification System from Apple and Google Protects Your Privacy",
+    "date": "2020-06-22",
+    "slug": "heres-how-the-exposure-notification-system-from-apple-and-google-protects-your-privacy",
+    "original_url": "https://www.atlascarolina.com/blog/heres-how-the-exposure-notification-system-from-apple-and-google-protects-your-privacy",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Do You Know Who Can Track Your Location? It’s Worth Checking Periodically",
+    "date": "2020-05-19",
+    "slug": "do-you-know-who-can-track-your-location-its-worth-checking-periodically",
+    "original_url": "https://www.atlascarolina.com/blog/do-you-know-who-can-track-your-location-its-worth-checking-periodically",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Make Sure to Test Your Backup System with Occasional Restores",
+    "date": "2020-05-11",
+    "slug": "strongmake-sure-to-test-your-backup-system-with-occasional-restoresstrong",
+    "original_url": "https://www.atlascarolina.com/blog/strongmake-sure-to-test-your-backup-system-with-occasional-restoresstrong",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want to Push Some Buttons? Make the Most of Control Center in iOS",
+    "date": "2020-05-08",
+    "slug": "want-to-push-some-buttons-make-the-most-of-control-center-in-ios",
+    "original_url": "https://www.atlascarolina.com/blog/want-to-push-some-buttons-make-the-most-of-control-center-in-ios",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Audiovisual Tips for Better Videoconferencing",
+    "date": "2020-05-06",
+    "slug": "strongaudiovisual-tips-for-better-videoconferencingstrong",
+    "original_url": "https://www.atlascarolina.com/blog/strongaudiovisual-tips-for-better-videoconferencingstrong",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Set Your Preferred Name and Photo for Messages in iOS 13",
+    "date": "2020-04-01",
+    "slug": "set-your-preferred-name-and-photo-for-messages-in-ios-13",
+    "original_url": "https://www.atlascarolina.com/blog/set-your-preferred-name-and-photo-for-messages-in-ios-13",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "In Case of Emergency, Create an iPhone Medical ID",
+    "date": "2020-02-20",
+    "slug": "in-case-of-emergency-create-an-iphone-medical-id",
+    "original_url": "https://www.atlascarolina.com/blog/in-case-of-emergency-create-an-iphone-medical-id",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Need to Move Lots of Data Between Macs? Try Target Disk Mode",
+    "date": "2020-01-31",
+    "slug": "need-to-move-lots-of-data-between-macs-try-target-disk-mode",
+    "original_url": "https://www.atlascarolina.com/blog/need-to-move-lots-of-data-between-macs-try-target-disk-mode",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "You Can Now Access Flash Drives on an iPhone or iPad—Here’s How",
+    "date": "2020-01-20",
+    "slug": "you-can-now-access-flash-drives-on-an-iphone-or-ipadheres-how",
+    "original_url": "https://www.atlascarolina.com/blog/you-can-now-access-flash-drives-on-an-iphone-or-ipadheres-how",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Data Backup Strategies Go Only So Far—What’s Your Plan If Your Mac Dies?",
+    "date": "2020-01-19",
+    "slug": "data-backup-strategies-go-only-so-farwhats-your-plan-if-your-mac-dies",
+    "original_url": "https://www.atlascarolina.com/blog/data-backup-strategies-go-only-so-farwhats-your-plan-if-your-mac-dies",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Why Apple Business Manager Is a Win for Apple-Using Firms",
+    "date": "2020-01-12",
+    "slug": "why-apple-business-manager-is-a-win-for-apple-using-firms",
+    "original_url": "https://www.atlascarolina.com/blog/why-apple-business-manager-is-a-win-for-apple-using-firms",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Which Precise Mac Model Do You Have? Here’s How to Find Out",
+    "date": "2020-01-12",
+    "slug": "which-precise-mac-model-do-you-have-heres-how-to-find-out",
+    "original_url": "https://www.atlascarolina.com/blog/which-precise-mac-model-do-you-have-heres-how-to-find-out",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Everything You Need to Know about Multitasking in iPadOS 13",
+    "date": "2020-01-12",
+    "slug": "everything-you-need-to-know-about-multitasking-in-ipados-13",
+    "original_url": "https://www.atlascarolina.com/blog/everything-you-need-to-know-about-multitasking-in-ipados-13",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Do You Put Dates in Filenames? Use This Format for Best Sorting",
+    "date": "2020-01-12",
+    "slug": "do-you-put-dates-in-filenames-use-this-format-for-best-sorting",
+    "original_url": "https://www.atlascarolina.com/blog/do-you-put-dates-in-filenames-use-this-format-for-best-sorting",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Want to Use Your Friends’ Nicknames in iOS? Here’s How",
+    "date": "2020-01-04",
+    "slug": "want-to-use-your-friends-nicknames-in-ios-heres-how",
+    "original_url": "https://www.atlascarolina.com/blog/want-to-use-your-friends-nicknames-in-ios-heres-how",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Two Secret Key Combos for Forward Delete on the Magic and MacBook Keyboards",
+    "date": "2020-01-04",
+    "slug": "two-secret-key-combos-for-forward-delete-on-the-magic-and-macbook-keyboards",
+    "original_url": "https://www.atlascarolina.com/blog/two-secret-key-combos-for-forward-delete-on-the-magic-and-macbook-keyboards",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "Personalize Your Mac with Custom Document Icons",
+    "date": "2020-01-04",
+    "slug": "personalize-your-mac-with-custom-document-icons",
+    "original_url": "https://www.atlascarolina.com/blog/personalize-your-mac-with-custom-document-icons",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  },
+  {
+    "title": "How to Get Custom Alerts for Email from Your VIPs",
+    "date": "2020-01-04",
+    "slug": "how-to-get-custom-alerts-for-email-from-your-vips",
+    "original_url": "https://www.atlascarolina.com/blog/how-to-get-custom-alerts-for-email-from-your-vips",
+    "author": "Chad Keith",
+    "source": "atlascarolina"
+  }
+]

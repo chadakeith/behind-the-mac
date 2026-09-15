@@ -1,0 +1,54 @@
+---
+title: "You Can Now Have Zoom Meetings on an Apple TV"
+date: 2024-03-01
+slug: "you-can-now-have-zoom-meetings-on-an-apple-tv"
+original_url: "https://www.atlascarolina.com/blog/57pv29v6a7sj7w1y77ielilrbum75v"
+author: "Chad Keith"
+source: atlascarolina
+---
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/fc900e91-9c7d-4083-a39e-3e32a0e9ea8c/video-conference-call-in-office-photo.jpg)
+
+When Apple introduced tvOS 17 last September, an eagerly awaited feature was its support for FaceTime calls, using Continuity Camera on an iPhone or iPad to equip an Apple TV with the necessary camera and microphone. [FaceTime on the Apple TV](<https://support.apple.com/guide/tv/use-facetime-atvb3cced7cd/tvos>) requires a second-generation Apple TV 4K or later and an iPhone running iOS 17 or an iPad running iPadOS 17.
+
+The feature works pretty well. Setting up Continuity Camera is simple—you launch the FaceTime app on the Apple TV, select your user profile, confirm on the iPhone or iPad, and then position the iPhone or iPad in landscape orientation so the rear camera faces you. You can start FaceTime calls from the Apple TV or move a call in progress from an iPhone or iPad to the Apple TV. The video quality is excellent, the audio is surprisingly good even across the room, and Center Stage zooms and pans to keep you in the picture. You can also add reactions like hearts and fireworks with hand gestures. Or not.
+
+But that’s not what we’re here to talk about today. Apple also said that other videoconferencing apps like Zoom and Webex would be coming to the Apple TV, which could make the Apple TV a compelling addition to offices and conference rooms everywhere. It’s also perfect for joining Zoom-based exercise classes or community meetings from the comfort of your living room. In December 2023, Zoom was the first out of the gate, shipping its [Zoom for Home TV](<https://apps.apple.com/us/app/zoom-for-home-tv/id1446475568>) app for tvOS 17.
+
+With Zoom available, the Apple TV becomes an interesting option for businesses and organizations that want to display video meetings on a large screen. In the past, it was possible to use AirPlay to share an iPhone or iPad screen to an Apple TV, but it was difficult to position the iPhone or iPad effectively, and there was no way to use the higher-quality rear-facing camera.
+
+To get started, launch the Zoom app on the Apple TV. It first prompts you to connect your iPhone via Continuity Camera. Select the Apple ID account that matches the one logged in on the iPhone, bring the iPhone close, tap the notification that appears, and tap Accept. Then, turn the iPhone around and set it down on the base of the TV with the rear camera facing you.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/eb82feb8-7cbb-4173-bc87-8b92b0a5d5d0/Zoom-Apple-TV-connect.jpg)
+
+Next, you’ll be prompted to pair it with your account, which you can do most easily by navigating to [https://zoom.us/pair](<https://zoom.us/pair>) on another device and entering a code.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/e3598c95-fc97-42d8-85b4-723891c3c222/Zoom-Apple-TV-pair.jpg)
+
+Once you’re connected to your account, you can create a new meeting or join an existing meeting.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/2bdf9694-28f4-439c-a025-f3207c64de27/Zoom-Apple-TV-main.jpg)
+
+Here’s where things get tricky. It’s easy to start a meeting—select New Meeting on the main screen—but inviting people is more arduous. Starting from the Contacts screen or choosing Invite from the More pop-up menu requires that you laboriously enter an email address to invite someone via email. Instead, we recommend that you first add people on the [Personal Contacts](<https://us02web.zoom.us/user/personalContact#/>) screen in your account on the Zoom website. After that, you can select several people and invite them to the meeting. Unfortunately, in our testing, the email invitations didn’t always arrive.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/b2f24dfc-3e0e-44ae-8496-9682a1192603/Zoom-Apple-TV-invite.jpg)
+
+The remaining option is to swipe up on the clickpad during a meeting to select the green shield button in the upper-left corner. That displays the meeting details, and a Join by Laptop button (the second screenshot below) shows the necessary URL, meeting ID, and passcode to share in another channel, like Messages or the phone. There’s no other way to share a link to a meeting that we could find.
+
+Joining someone else’s meeting is difficult. Most Zoom meetings are shared via a link, and once you click or tap it in email, Messages, a calendar event, or on a website, the meeting starts. The Apple TV breaks that model—there’s no apparent way to load a Zoom link. FaceTime sidesteps this limitation by making it easy to move a call from the iPhone to the Apple TV—just put the iPhone close to the Apple TV, and a notification will suggest the move. Zoom offers no such option.
+
+Instead, to join a Zoom call, you must manually enter the meeting ID and passcode. If you’ve been sent only the link, you’ll have to request the passcode separately (the numeric meeting ID can be extracted from the URL). Entering characters with the Siri Remote is slow and awkward, so we recommend using Siri, which recognizes spoken numbers well (hold down the Siri button on the side of the remote). You could also use an iPhone or iPad as a remote control for the Apple TV since you can type more effectively or use copy and paste on those devices. But if you’re already using your iPhone for Continuity Camera, for instance, you’ll need _another_ device. Zoom does provide a Meeting History, which is helpful for recurring meetings, but you must still enter the passcode each time.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/1fea5e76-5802-4702-888e-44527bfbc4f2/Zoom-Apple-TV-join.jpg)
+
+Once you start a call, touch the clickpad on the Siri Remote to display the Zoom menu at the bottom of the screen. You can then navigate using the clickpad (press the center to activate the selected command) and the Back button. Available options let you mute yourself, turn your video off and on, switch between the usual Zoom views, display Zoom reactions, manage participants, invite more people, turn on captions, and control the Continuity Camera video effects (Center Stage, Portrait Mode, and Apple’s gestural Reactions). Center Stage does an excellent job of following you around as you move. Portrait Mode just makes the background a little fuzzy; it’s not a strong effect. If you press the Back button to leave the Zoom app, your video pauses for others on the call.
+
+![](https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/73cb30f3-6a7f-44f3-97cb-c8f17dd6490c/Zoom-Apple-TV-in-progress.jpg)
+
+Two common Zoom actions don’t translate fully to the Apple TV: chat and screen sharing. Incoming chat messages appear on the Apple TV in the corner, but only for 6 seconds, and longer messages are truncated after a handful of lines. There’s no way to keep them onscreen longer or get back to them. There’s no way to reply to chat messages. Zoom on the Apple TV does provide an option to share the screen, but that’s the screen of _another_ device—there’s no app or desktop to share on the Apple TV, and no, you can’t share video.
+
+Overall, the Zoom app for Apple TV feels like a 1.0. Most of the features that make sense are present, but fully adapting to a platform that lacks a keyboard or any way to follow links will take Zoom some time. If the company could add the capability to move an in-progress call from an iPhone or iPad to an Apple TV as FaceTime can, that would help a lot. Another possible concern is the need to have the Apple ID on the Apple TV match the one on the iPhone—all the possible logins could get confusing in a larger office.
+
+Regardless, Zoom on the Apple TV works well enough to try out. Just make sure to run through the initial setup well before your meeting is due to start.
+
+(Featured image based on an original by iStock.com/gorodenkoff)

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>View Suspicious Documents Safely with Dangerzone | Behind the Mac</title>
+  <meta name="description" content="A standard piece of advice for staying safe online is to avoid opening attachments from people you don’t know or attachments that seem suspicious. It’s good advice, since PDFs and ">
+  <link rel="canonical" href="https://behindthemac.com/blog/suspicious-documents-safely-dangerzone/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="View Suspicious Documents Safely with Dangerzone | Behind the Mac">
+  <meta property="og:description" content="A standard piece of advice for staying safe online is to avoid opening attachments from people you don’t know or attachments that seem suspicious. It’s good advice, since PDFs and ">
+  <meta property="og:url" content="https://behindthemac.com/blog/suspicious-documents-safely-dangerzone/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="View Suspicious Documents Safely with Dangerzone | Behind the Mac">
+  <meta name="twitter:description" content="A standard piece of advice for staying safe online is to avoid opening attachments from people you don’t know or attachments that seem suspicious. It’s good advice, since PDFs and ">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2026-04-10">Apr 10, 2026</time></p>
+        <h1>View Suspicious Documents Safely with Dangerzone</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/0dd1064a-3b7c-4fef-9b81-9b45cf46cef6/hazmat-suited-workers-photo.jpg" /></p>
+<p>A standard piece of advice for staying safe online is to avoid opening attachments from people you don’t know or attachments that seem suspicious. It’s good advice, since PDFs and office documents can contain JavaScript and macros that present a security risk, or they could be maliciously crafted to take advantage of vulnerabilities in common apps to execute code on your computer.</p>
+<p>But in the real world, unless the document is attached to a message that is obviously spam, it’s difficult to know whether you should be worried. If you could just look at the document, you might be able to tell, but how can you do that without opening it?</p>
+<p>Enter<a href="https://dangerzone.rocks/"> Dangerzone</a>, an open source app created by the nonprofit Freedom of the Press Foundation. The impetus for creating it came from journalists who need to review attachments from possibly untrustworthy sources while protecting themselves from hacking and retaliation from powerful corporate and government interests.</p>
+<p>Dangerzone won’t tell you whether or not a document is safe. Instead, when you drop a document on its window, it creates a PDF image of the document that contains nothing of the original other than the visual representation of its pixels. Think of Dangerzone as a virtual photocopier—it makes a visual copy.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/9c5be9bf-ba20-4b23-84f3-b478321d977e/Dangerzone.png" /></p>
+<p>But Dangerzone is a highly sophisticated virtual photocopier, since it has to work with malicious documents without allowing them to cause harm. Behind the scenes, Dangerzone first creates a Linux container to keep the document away from your Mac. Within the container, it then creates a sandbox to protect the Linux kernel. Then it uses open source tools—LibreOffice and PyMuPDF—to convert the original document to a PDF, split that PDF into individual pages, and convert each page to RGB pixels—just colored dots. Then it quits the sandbox since the file has been sanitized, and if possible, it converts the RGB pixel data into a compressed, searchable PDF. Finally, it saves the PDF to the specified folder and archives the original file. You can process only one file or batch of files at a time to ensure that the entire secure conversion environment starts fresh each time.</p>
+<p>Here are the document types that Dangerzone can convert into safe PDFs:</p>
+<p>● PDF (.pdf)</p>
+<p>● Microsoft Word (.docx, .doc)</p>
+<p>● Microsoft Excel (.xlsx, .xls)</p>
+<p>● Microsoft PowerPoint (.pptx, .ppt)</p>
+<p>● ODF Text (.odt)</p>
+<p>● ODF Spreadsheet (.ods)</p>
+<p>● ODF Presentation (.odp)</p>
+<p>● ODF Graphics (.odg)</p>
+<p>● EPUB (.epub)</p>
+<p>● JPEG (.jpg, .jpeg)</p>
+<p>● GIF (.gif)</p>
+<p>● PNG (.png)</p>
+<p>● SVG (.svg)</p>
+<p>● TIFF (.tif, .tiff)</p>
+<p>● Other image formats (.bmp, .pnm, .pbm, .ppm)</p>
+<p>You won’t want to use Dangerzone on every document you receive in email. There’s no reason to fuss with it for attachments that come from people you know, in contexts where it makes sense that they’re sending you something. But if you get an attachment out of the blue that makes you think, “Why is this person sending me a document?” run the document through Dangerzone to make sure it’s safe.</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/suspicious-documents-safely-dangerzone">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

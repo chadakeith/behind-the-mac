@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Be Very Careful with AI Agents! | Behind the Mac</title>
+  <meta name="description" content="AI agents—software that can take actions on your behalf using artificial intelligence—are having a moment. The appeal is obvious: imagine a robot butler that triages your inbox, ma">
+  <link rel="canonical" href="https://behindthemac.com/blog/ai-agents/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="Be Very Careful with AI Agents! | Behind the Mac">
+  <meta property="og:description" content="AI agents—software that can take actions on your behalf using artificial intelligence—are having a moment. The appeal is obvious: imagine a robot butler that triages your inbox, ma">
+  <meta property="og:url" content="https://behindthemac.com/blog/ai-agents/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Be Very Careful with AI Agents! | Behind the Mac">
+  <meta name="twitter:description" content="AI agents—software that can take actions on your behalf using artificial intelligence—are having a moment. The appeal is obvious: imagine a robot butler that triages your inbox, ma">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2026-02-20">Feb 20, 2026</time></p>
+        <h1>Be Very Careful with AI Agents!</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/61e340d2-d718-48e9-8696-3fce50fc1e35/AI-agent-security-photo.jpg" /></p>
+<p>AI agents—software that can take actions on your behalf using artificial intelligence—are having a moment. The appeal is obvious: imagine a robot butler that triages your inbox, manages your calendar, and handles tedious tasks while you focus on more important work.</p>
+<p>That’s the promise driving the recent surge in popularity of<a href="https://openclaws.io/"> OpenClaw</a> (formerly known as Clawdbot and Moltbot), which is now all the rage in tech circles.<a href="https://www.token.security/blog/the-clawdbot-enterprise-ai-risk-one-in-five-have-it-installed"> Token Security</a> found that at least one person is using it at nearly a quarter of its enterprise customers, mostly running from personal accounts. That’s a shadow IT nightmare—employees connecting work email and Slack to an unsanctioned tool that IT doesn’t know about and can’t monitor. Whether you’re an individual tempted by OpenClaw’s promise or a manager wondering what your users are up to, you need to understand the risks these AI agents pose.</p>
+<p>OpenClaw is an AI agent built around “skills”—installable plugins that let it integrate with your messaging apps, email, calendar, and more. You communicate with OpenClaw via Messages, Slack, WhatsApp, and similar apps. Because it’s open source, you’ll need to provide your own API keys for AI services like OpenAI or Anthropic, which means ongoing costs that can add up quickly—people have reported<a href="https://shellypalmer.com/2026/02/clawdbot-the-gap-between-ai-assistant-hype-and-reality/"> spending $10–$25 per day</a>.</p>
+<p>The more serious problem? Security researchers have discovered serious vulnerabilities, including<a href="https://www.linkedin.com/pulse/hacking-clawdbot-eating-lobster-souls-jamieson-o-reilly-whhlc/"> misconfigured instances exposed to the internet</a> that leak credentials, API keys, and private messages, and a supply chain vulnerability where <a href="https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare">malicious skills</a> uploaded to the<a href="https://www.clawhub.ai/skills"> ClawdHub</a> library can execute arbitrary commands on users’ systems. Even beyond specific bugs, OpenClaw’s fundamental design encourages users to grant broad access to sensitive accounts.</p>
+<h3>Why AI Agents Are Risky</h3>
+<p>Security concerns aren’t unique to OpenClaw—they apply to any AI agent that acts on a user’s behalf. Here’s what’s at stake:</p>
+<p>● <strong>Credential exposure:</strong> For an AI agent to send emails, manage your calendar, or post to Slack, it needs your authentication tokens or login credentials. If the agent software stores these credentials insecurely, or an attacker gains control, they could be exposed.</p>
+<p>● <strong>Prompt injection:</strong> AI agents work by following instructions, but they can’t easily distinguish between prompts and data in the content they use. A class of attacks called “prompt injections” trick AI systems by hiding malicious content in emails, websites, or documents that will be processed. An attacker could embed instructions in an email that would cause your agent to search for and forward email messages containing passwords or financial data, follow links to malware sites, or take other harmful actions. There is currently no foolproof defense against this class of attack.</p>
+<p>● <strong>Data exfiltration:</strong> An AI agent with access to your email and your computer’s filesystem could be manipulated to extract information from elsewhere on your computer—financial data, customer lists, or personal details—and send it to an attacker.</p>
+<p>● <strong>Unvetted extensions:</strong> OpenClaw and similar AI agents let users install “skills” or plugins to extend functionality. Libraries that allow users to share custom skills often have minimal or no security vetting, making it easy for attackers to submit<a href="https://www.tomshardware.com/tech-industry/cyber-security/malicious-moltbot-skill-targets-crypto-users-on-clawhub"> poisoned skills</a>. Installing such a skill could grant malicious code access to everything your agent can touch.</p>
+<p>● <strong>Exposed control interfaces:</strong> Security researchers found OpenClaw control servers exposed on the Internet, potentially leaking API keys, VPN credentials, and conversation histories. This risk is unique to OpenClaw at the moment, but future AI agents may suffer from similar vulnerabilities, particularly as they’re adopted by less technically savvy users.</p>
+<h3>How to Reduce Your Risk</h3>
+<p>We’ll come right out and say it: we strongly recommend against installing OpenClaw or other AI agents on your Mac. In a year or so, Apple may have updated Siri to provide many of these capabilities with significantly stronger privacy and security. But for now, just say no.</p>
+<p>If you decide to use AI agents despite these risks, here are practical steps to protect yourself:</p>
+<p>● <strong>Use dedicated accounts:</strong> When possible, create separate accounts specifically for agent use rather than linking your primary personal or work accounts.</p>
+<p>● <strong>Limit permissions:</strong> Grant the agent access only to accounts it absolutely needs. If you only want help with your calendar, don’t also connect your email and messaging services.</p>
+<p>● <strong>Avoid connecting sensitive services:</strong> Never connect anything involving money, healthcare, or confidential business information. The liability is too high if something goes wrong.</p>
+<p>● <strong>Review agent actions:</strong> If the platform offers logs or activity feeds, check them regularly. Look for unexpected messages sent, files accessed, or connections made.</p>
+<p>● <strong>Vet extensions carefully:</strong> Don’t install skills or plugins from unknown sources, and even with known libraries, look for evidence of others using and reviewing the skills. Treat skills like any other software you’d install on your computer.</p>
+<p>● <strong>Keep software updated:</strong> Security patches for OpenClaw and similar tools address known vulnerabilities. If you’re running an agent, keep it up to date.</p>
+<p>● <strong>Run agents in isolated environments:</strong> Technical users should consider running agents in sandboxed environments or virtual machines to limit potential damage.</p>
+<p>If you run a business, you should assume that some employees have already installed OpenClaw or will soon, and may have connected their work email and Slack accounts without realizing the associated risks. Here’s what you can do:</p>
+<p>● <strong>Educate before it’s a problem:</strong> Proactively explain the risks to employees. People are more receptive before they’ve already invested time setting something up.</p>
+<p>● <strong>Update acceptable use policies:</strong> Make clear that connecting work accounts to unsanctioned AI agents is prohibited, and explain why.</p>
+<p>● <strong>Offer sanctioned alternatives:</strong> If employees want AI assistance, point them toward safer options that don’t require handing over credentials to sensitive accounts.</p>
+<h3>What About Claude Cowork and OpenAI Codex?</h3>
+<p>Not all AI agent platforms carry the same level of risk. Anthropic’s<a href="https://claude.com/product/cowork"> Claude Cowork</a> and OpenAI’s<a href="https://chatgpt.com/codex"> Codex</a> take a different architectural approach from OpenClaw. Rather than requesting authentication tokens for your email, messaging, and other personal services, they operate within their own controlled, sandboxed environments. These systems work primarily with files, code, and data you explicitly place into their workspace, which substantially limits the fallout from an attacker gaining some level of control.</p>
+<p>This containment approach reduces risk, but does not eliminate it. Prompt injection remains a concern whenever an AI system processes untrusted content, even inside a sandbox. An AI agent analyzing a malicious document could still be manipulated into taking unintended actions within its allowed environment. Similarly, any code generated by these systems—particularly code that touches the network or executes system commands—should be reviewed carefully to make sure it hasn’t been compromised by prompt injection.</p>
+<p>The key distinction is scope. Claude Cowork and Codex are designed to operate within a defined workspace, whereas tools like OpenClaw require standing access to your most sensitive accounts. From a security perspective, a compromised sandbox is a recoverable incident; a compromised email or messaging account may not be.</p>
+<h3>The Bottom Line</h3>
+<p>AI agents promise a lot and may provide genuine convenience, but at a cost beyond just paying for API tokens. Before you or anyone in your organization connects an AI agent to sensitive accounts, consider: What’s the worst that could happen if this system were compromised by an attacker? If the answer involves passwords being stolen, private email being exposed, or photos being posted to social media without your knowledge, proceed with extreme caution. If you can imagine a way financial accounts could be accessed or business data stolen, don’t proceed at all.</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/ai-agents">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

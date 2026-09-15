@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Did You Know Most Mac Apps Keep Versions of Your Documents as You Work? | Behind the Mac</title>
+  <meta name="description" content="We all make mistakes, which is why Undo exists. Immediately choose Edit  Undo or press Command-Z to undo your last change. Most Mac apps support multiple levels of Undo, so you can">
+  <link rel="canonical" href="https://behindthemac.com/blog/did-you-know-most-mac-apps-keep-versions-of-your-documents-as-you-work/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="Did You Know Most Mac Apps Keep Versions of Your Documents as You Work? | Behind the Mac">
+  <meta property="og:description" content="We all make mistakes, which is why Undo exists. Immediately choose Edit  Undo or press Command-Z to undo your last change. Most Mac apps support multiple levels of Undo, so you can">
+  <meta property="og:url" content="https://behindthemac.com/blog/did-you-know-most-mac-apps-keep-versions-of-your-documents-as-you-work/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Did You Know Most Mac Apps Keep Versions of Your Documents as You Work? | Behind the Mac">
+  <meta name="twitter:description" content="We all make mistakes, which is why Undo exists. Immediately choose Edit  Undo or press Command-Z to undo your last change. Most Mac apps support multiple levels of Undo, so you can">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2024-05-24">May 24, 2024</time></p>
+        <h1>Did You Know Most Mac Apps Keep Versions of Your Documents as You Work?</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/3f2600d6-ce14-400e-9b31-9a263f5a57c8/Versioning-photo.jpg" /></p>
+<p>We all make mistakes, which is why Undo exists. Immediately choose Edit &gt; Undo or press Command-Z to undo your last change. Most Mac apps support multiple levels of Undo, so you can keep pressing Command-Z to revert change after change. However, suppose you delete a table in your Pages document, but 30 minutes and many changes later, you decide you want it back. Undo won’t help because you want to keep all the other interim changes, and Time Machine backups may not help because a backup may not have occurred at the right time.</p>
+<p>Since OS X 10.7 Lion, Mac apps have been able to take advantage of a built-in Apple technology called versioning to save users from such situations. Apps that support ver-sioning create a separate version of each document every time you save manually or the app auto-saves, at least once per hour. You can browse through all those versions in a Time Machine-like interface and copy data from a previous version or revert the current document to a previous state.</p>
+<p>Some cross-platform apps, and those with a long history and legacy architecture, such as Microsoft Word, Excel, and PowerPoint, don’t support versioning, but most modern document-centric apps do. You can identify version-capable apps by the presence of a Revert To command in the File menu.</p>
+<p><em>How Versioning Works</em></p>
+<p>As you work, whenever a document is saved, either automatically by its app or be-cause you chose File &gt; Save or reflexively pressed Command-S, the previous version is added to a database of versions stored in a hidden folder on the same volume. When a file is deleted, all its versions are removed, too, so there’s no worry about wasting stor-age space on long-deleted files.</p>
+<p>When you discover you need to recover some data from an older version of a file, you choose File &gt; Revert To &gt; Browse All Versions, which opens a Time Machine-like browser for exploring all the previous versions. On the right, you can click the arrows to scroll through previous versions, comparing them visually against the current one on the left. A few apps provide additional ways of comparing versions.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/d4402205-2541-44e0-a608-8a7ccf24c8a9/Versions-browser.jpg" /></p>
+<p>Once you’ve found the version you want, you can try copying the desired content and pasting it into the current version of your document on the left—depending on the app and type of document, you may not even have to leave the version browser.</p>
+<p>If copying and pasting doesn’t work, you can instead click Restore to revert the docu-ment to that previous version. Unlike Time Machine, the version browser doesn’t ask if you want to overwrite the current version, so if you aren’t sure you want a wholesale reversion, press Option to change the button to Restore a Copy. That opens a separate copy of the document in the app so you can pick and choose what you want to move from the old version back into the current version.</p>
+<p><strong>More Versioning Details</strong></p>
+<p>Although versioning is easy to use, there’s quite a bit going on behind the scenes, which can generate some questions:</p>
+<ul>
+<li>
+<p><strong>What about copies of a document</strong>? Copies of a document, such as you would make using File &gt; Duplicate, File &gt; Save As, or in the Finder, are different files from the versioning perspective and lose access to the original file’s versions.</p>
+</li>
+<li>
+<p><strong>Is iCloud Drive supported</strong>? iCloud Drive maintains its own version database, so although you may have to click a Load Version link to see a particular version when browsing past versions, they should all be accessible.</p>
+</li>
+<li>
+<p><strong>Are files shared between my Macs versioned?</strong> Versions are stored at the top level of the document’s volume, so while it works with files stored on an exter-nal drive that moves between Macs, files shared between Macs over a network or using a file-sharing service like Dropbox will have different versions on each Mac, based on where the file was open when it was saved.</p>
+</li>
+<li>
+<p><strong>Are there any privacy or security risks to versioning?</strong> The version database is completely locked down and better protected than regular documents on your Mac. Also, if you open a confidential file but close it without making any changes or saving, it won’t be added to the version database.</p>
+</li>
+</ul>
+<p>No one expects to make mistakes, but if you do, macOS’s versioning may save you from having to re-create work. Look for that File &gt; Revert To menu in your favorite apps to see if they support versioning, and if they do, give it a try so you’ll know how to use it if you ever need it.</p>
+<p>(Featured image by Adam Engst)</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/y2w93h5waafr45e6m54e5hfroaede9">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to Share Sensitive Information Securely over the Internet | Behind the Mac</title>
+  <meta name="description" content="At some point, most of our communications shifted from analog to digital: letters and phone calls became emails, texts, and video calls. With analog methods, we could generally ass">
+  <link rel="canonical" href="https://behindthemac.com/blog/share-sensitive-information-securely-over-the-internet/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Behind the Mac">
+  <meta property="og:title" content="How to Share Sensitive Information Securely over the Internet | Behind the Mac">
+  <meta property="og:description" content="At some point, most of our communications shifted from analog to digital: letters and phone calls became emails, texts, and video calls. With analog methods, we could generally ass">
+  <meta property="og:url" content="https://behindthemac.com/blog/share-sensitive-information-securely-over-the-internet/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="How to Share Sensitive Information Securely over the Internet | Behind the Mac">
+  <meta name="twitter:description" content="At some point, most of our communications shifted from analog to digital: letters and phone calls became emails, texts, and video calls. With analog methods, we could generally ass">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-inner" aria-label="Primary">
+      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <ul class="nav-links">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../">Blog</a></li>
+        <li><a href="../../about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content">
+    <article class="post">
+      <header class="page">
+        <p class="post-meta"><time datetime="2026-07-24">Jul 24, 2026</time></p>
+        <h1>How to Share Sensitive Information Securely over the Internet</h1>
+      </header>
+      <div class="post-body">
+        <p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/1ab01507-63e9-4912-920c-cb8a81eeda0f/secure-communication-concept-photo.jpg" /></p>
+<p>At some point, most of our communications shifted from analog to digital: letters and phone calls became emails, texts, and video calls. With analog methods, we could generally assume that our private communications would remain private. Few people were going to steam open a letter or wiretap a phone line. The Internet changed that—digital communications, if not properly protected, can be intercepted in bulk far more easily.</p>
+<p>Not all everyday communications require strict privacy. Most of us prefer privacy, of course—few people want their dinner plans published for the world to see—but there are typically no consequences of exposure greater than mild embarrassment (McDonald’s again?). But even ordinary people regularly need to share information that could damage their relationships, finances, or careers if it fell into the wrong hands.</p>
+<p>Passwords are the most obvious example because their entire point is secrecy. But other sensitive data includes credit card details, bank account numbers, tax documents, retirement planning materials, and health-related information. When you need to share such data, how do you do it securely?</p>
+<h3>Data at Rest and in Transit</h3>
+<p>Before exploring specific solutions, you need to think about how information is protected when it’s in transit between systems and when it’s stored somewhere:</p>
+<p><strong>In transit:</strong> To prevent eavesdropping, focus on communication channels that are encrypted between you and the destination:</p>
+<p>● <strong>Between your app and a server:</strong> Nearly all Internet-enabled apps, including all Web browsers, use SSL/TLS to protect their connections to servers. A lock icon in a Web browser’s address bar indicates HTTPS encryption, or you can look for https at the start of a website’s URL.</p>
+<p>● <strong>End-to-end encryption:</strong> Even better is end-to-end encryption, which ensures that not even the service provider can decrypt your traffic. iMessage (blue-bubble conversations),<a href="https://www.whatsapp.com/"> WhatsApp</a>, and<a href="https://signal.org/"> Signal</a> provide end-to-end encryption protection (though WhatsApp archives are<a href="https://gbhackers.com/whatsapp-chat-histories-exposed/"> readable by other Meta apps</a>). SMS messages are not encrypted at all, and RCS conversations only support encryption with the latest Apple and Google updates, plus carrier support. Both SMS and RCS appear as green-bubble conversations.</p>
+<p><strong>At rest:</strong> Stored data—whether on your computer, at remote email servers, or in the cloud—needs protection too. Two approaches help:</p>
+<p>● <strong>Per-file encryption:</strong> Encrypt data before sending so even if an attacker figures out how to access the file, it can’t be decrypted without a password. Send the password through a completely different communication channel (called “out-of-band”)—for example, share an encrypted file via email but send the password via Messages.</p>
+<p>● <strong>Time- or access-expiring links:</strong> Send a link to the information that expires after a short period or after a limited number of views, thereby shrinking the window during which a breach could occur.</p>
+<h3>Choosing the Right Solution</h3>
+<p>The best approach for any given communication depends on four factors:</p>
+<p>● <strong>Audience:</strong> What are your recipients’ technical capabilities? Messages is easy and secure, but only Apple users can access it. Email reaches everyone but offers less protection. A password-protected PDF is probably easier for less-technical users than an encrypted disk image.</p>
+<p>● <strong>Content type:</strong> Sharing a password differs from sharing a document, which in turn is different from sharing a collection of files.</p>
+<p>● <strong>Importance:</strong> How problematic would it be if the sensitive information you’re sharing fell into the wrong hands? There’s a world of difference between the password for a club discussion forum and the credentials to your retirement account.</p>
+<p>● <strong>Persistence:</strong> Does your recipient need to glance at something only once, or do they need to retain a copy permanently?</p>
+<h3>Eight Secure Sharing Methods</h3>
+<p>With all that in mind, here are eight secure methods of sharing information that you can employ in different situations:</p>
+<ol>
+<li>
+<p><strong>Use a secure portal when available:</strong> Doctors, lawyers, accountants, and other professionals who regularly receive sensitive information often use secure customer portals or services like<a href="https://www.docusign.com/"> DocuSign</a> for sending messages, documents, and files. Use whatever system they provide unless you have good reason to doubt their IT competence.</p>
+</li>
+<li>
+<p><strong>iMessage, Signal, or WhatsApp:</strong> For quick sharing of sensitive information, these end-to-end encrypted messaging services work well. They’re particularly useful for sending information that isn’t useful on its own—for instance, send a login URL and username via email but the password separately via Messages.</p>
+</li>
+</ol>
+<p><strong>Self-destructing links:</strong> Services like<a href="https://1ty.me/"> 1ty.me</a> and<a href="https://onetimesecret.com/"> One-Time Secret</a> generate encrypted links that contain text. Once the recipient views the link, the server deletes the data, and the link self-destructs. If the recipient reports the link was already used, you know it was compromised. Be aware that some email systems automatically scan links, which could trigger premature self-destruction.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/226673dd-06bb-46d9-a84f-1b4e0f97ec63/1ty.m.png" /></p>
+<p><strong>Password manager</strong><a href="https://bitwarden.com/"><strong>s</strong></a><strong>haring:</strong><a href="https://1password.com/"> 1Password</a>,<a href="https://1password.com/"> Bitwarde</a><a href="https://bitwarden.com/">n</a>,<a href="https://bitwarden.com/"> and some</a> other password managers (but not Apple’s Passwords) offer secure sharing features that make it easy to share credentials with someone who needs to access a particular account. You can create links with expiration dates, limit access to specific email addresses, and cause links to self-destruct after being viewed once.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/a392c948-7dce-4465-afe8-00f766a01b59/1Password-sharing.png" /></p>
+<p><strong>Password-protected PDF:</strong> For documents that could be printed, create a password-protected PDF. From nearly any app, choose <strong>File &gt; Print</strong>, click the PDF menu at the bottom, and choose Save As PDF. In the Save dialog that appears, click Security Options, select “Require password to open document,” and enter a strong password (online services can remove weak passwords). Share the file however you like, but send the password through a different channel, preferably via an expiring link.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/b53b4786-9f6e-46ca-8d56-6f43a99ee01f/PDF-password.png" /></p>
+<p><strong>Password-protected disk image:</strong> For Mac users sharing files that can’t easily become PDFs, or for sharing collections of files, create a password-protected disk image. In Disk Utility, create a new compressed disk image (<strong>File &gt; New Image &gt; Image from Folder</strong>), choose an encryption option (256-bit for more sensitive information), and enter a strong password. Again, share the password separately, ideally via an expiring link.</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/ac74cd4b-47cf-4416-a290-0e4511460a42/encrypted-disk-image.png" /></p>
+<p><strong>Password-protected Zip archive:</strong> A password-protected Zip archive serves the same purpose and may be easier for Windows users to extract. Apps like<a href="https://www.keka.io/en/"> Keka</a> and<a href="https://macitbetter.com/"> BetterZip</a> can create these. For the fastest approach, open Terminal, type zip -er ~/Desktop/filename.zip (with a space at the end), drag in the files you want to compress, press Return, and enter your desired password when prompted.</p>
+<p><strong>Time-expiring cloud storage links:</strong> Some cloud storage services offer links that expire after a specified time.<a href="https://help.dropbox.com/share/link-expiration"> Dropbox Professional</a> supports this feature, enabling you to share files while ensuring that links become useless in the event of a breach</p>
+<p><img alt="" src="https://images.squarespace-cdn.com/content/v1/5d67c9fb19efcd000177ca21/195e11bc-ee3f-4a64-b0d4-fd7217fb392e/Dropbox-timed-links.png" /></p>
+<p>There’s no one-size-fits-all solution for securely sharing sensitive information. Match your approach to the sensitivity of the data, your recipient’s capabilities, and how long they need access.</p>
+      </div>
+      <p class="post-source"><a href="https://www.atlascarolina.com/blog/share-sensitive-information-securely-over-the-internet">First published on the Atlas blog</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Mac and Apple notes by Chad Keith.</p>
+      <p>
+        <a href="https://chadwickkeith.com">chadwickkeith.com</a>
+        · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
+        · <a class="quiet-link" href="https://atlascarolina.com">Atlas</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
