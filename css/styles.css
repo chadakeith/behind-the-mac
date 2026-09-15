@@ -289,6 +289,44 @@ main {
   margin-bottom: 0.2rem;
 }
 
+.year-nav,
+.page-nav,
+.more-posts {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin: 0 0 1.4rem;
+}
+
+.year-nav a,
+.page-nav a,
+.more-posts a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.year-nav a:hover,
+.page-nav a:hover,
+.more-posts a:hover {
+  color: var(--ink);
+}
+
+.year-group {
+  margin-bottom: 2rem;
+}
+
+.year-group h3 {
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.85rem;
+}
+
+.page-nav {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;

@@ -16,6 +16,7 @@
   <meta name="twitter:description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
   <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../css/styles.css">
+  <script src="../js/posts.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -35,7 +36,13 @@
       <h1>Blog</h1>
       <p class="lede">Mac and Apple notes from Chad Keith.</p>
     </header>
-    <section class="post-index" aria-labelledby="posts-heading">
+    <section
+      class="post-index"
+      aria-labelledby="posts-heading"
+      data-posts-src="../posts/index.json"
+      data-posts-base=""
+      data-posts-group="year"
+    >
       <h2 id="posts-heading" class="visually-hidden">Posts</h2>
       <div class="empty-posts">
         <p>No posts yet. New ones will show up here.</p>
