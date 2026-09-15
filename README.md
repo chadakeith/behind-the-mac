@@ -1,5 +1,7 @@
 # Behind the Mac
 
-Personal Mac notes by Chad Keith — the Man Behind the Mac voice. Not the Atlas business site.
+Mac and Apple notes from Chad Keith.
 
 Live at [behindthemac.com](https://behindthemac.com/) and [chadakeith.github.io/behind-the-mac](https://chadakeith.github.io/behind-the-mac/).
+
+Markdown posts go in [`posts/`](posts/). See that folder for the front-matter convention used when migrating older Atlas Apple write-ups.

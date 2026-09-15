@@ -230,16 +230,79 @@ main {
   border: 1px solid var(--line);
 }
 
-.coming-soon {
+.coming-soon,
+.post-index {
   max-width: var(--measure);
   margin: 0 auto 4rem;
   padding: 0 1.5rem;
 }
 
-.coming-soon .panel {
+.coming-soon .panel,
+.empty-posts {
   background: var(--paper-2);
   border-radius: var(--radius);
   padding: 1.6rem 1.5rem;
+}
+
+.post-index h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.empty-posts p,
+.coming-soon p {
+  color: var(--muted);
+  font-size: 1.05rem;
+  margin-bottom: 0;
+}
+
+.post-list {
+  list-style: none;
+}
+
+.post-list li + li {
+  margin-top: 0.85rem;
+}
+
+.post-list a {
+  display: block;
+  background: var(--paper-2);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.2rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.post-list a:hover {
+  box-shadow: var(--shadow);
+  color: inherit;
+}
+
+.post-list time {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 0.2rem;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.quiet-link {
+  opacity: 0.72;
 }
 
 .site-footer {
@@ -281,6 +344,7 @@ main {
   .notes,
   .more,
   .coming-soon,
+  .post-index,
   .site-footer {
     padding-left: 1rem;
     padding-right: 1rem;
