@@ -680,6 +680,26 @@ main {
     aspect-ratio: 16 / 9;
   }
 
+  .post-feature-copy {
+    position: relative;
+    background: none;
+    padding: 1.15rem 0 1.7rem;
+  }
+
+  .post-feature-title {
+    font-size: 1.7rem;
+    max-width: none;
+  }
+
+  .post-feature-excerpt {
+    color: var(--muted);
+  }
+
+  .post-feature-meta,
+  .post-feature-copy .eyebrow {
+    color: var(--muted);
+  }
+
   .about-hero {
     grid-template-columns: 1fr;
     align-items: start;
