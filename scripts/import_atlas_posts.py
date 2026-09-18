@@ -59,7 +59,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <a class="skip" href="#content">Skip to content</a>
   <header class="site-header">
     <nav class="nav-inner" aria-label="Primary">
-      <a class="logo" href="../../index.html">Behind the Mac</a>
+      <a class="logo" href="../../index.html" aria-label="Behind the Mac"><img src="../../assets/brand/logo-white.png" alt=""></a>
       <ul class="nav-links">
         <li><a href="../../index.html">Home</a></li>
         <li><a href="../">Blog</a></li>
@@ -84,7 +84,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <footer class="site-footer">
     <div class="footer-inner">
       <div>
-        <a class="footer-brand" href="../../index.html">Behind the Mac</a>
+        <a class="footer-brand" href="../../index.html" aria-label="Behind the Mac"><img src="../../assets/brand/logo-white.png" alt=""></a>
         <p>Mac and Apple notes by Chad Keith.</p>
       </div>
       <p>
