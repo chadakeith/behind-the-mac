@@ -21,27 +21,36 @@
     return base + encodeURIComponent(slug) + "/";
   }
 
-  function cardImageSrc(url) {
+  function cardImageSrc(url, wide) {
     if (!url) return "";
     if (url.indexOf("squarespace-cdn.com") === -1) return url;
-    return url + (url.indexOf("?") === -1 ? "?" : "&") + "format=1000w";
+    var size = wide ? "2500w" : "1500w";
+    return url + (url.indexOf("?") === -1 ? "?" : "&") + "format=" + size;
   }
 
   function emptyHTML() {
     return '<div class="empty-posts"><p>No posts yet. New ones will show up here.</p></div>';
   }
 
-  function renderCard(post, base, eager) {
+  function renderCard(post, base, eager, featured) {
     var href = postHref(base, post.slug);
     var title = escapeHtml(post.title);
     var excerpt = post.excerpt ? escapeHtml(post.excerpt) : "";
-    var image = post.image ? cardImageSrc(post.image) : "";
+    var image = post.image ? cardImageSrc(post.image, featured) : "";
     var alt = escapeHtml(post.image_alt || post.title || "");
+    var mediaClass = featured ? "post-feature-media" : "post-tile-media";
+    var copyClass = featured ? "post-feature-copy" : "post-tile-copy";
+    var titleClass = featured ? "post-feature-title" : "post-tile-title";
+    var titleTag = featured ? "h3" : "h3";
+    var linkClass = featured ? "post-feature-link" : "post-tile-link";
+    var articleClass = featured ? "post-feature" : "post-tile";
     var media = "";
 
     if (image) {
       media =
-        '<div class="post-card-media">' +
+        '<div class="' +
+        mediaClass +
+        '">' +
         '<img src="' +
         escapeHtml(image) +
         '" alt="' +
@@ -53,19 +62,33 @@
     }
 
     return (
-      '<article class="post-card' +
+      '<article class="' +
+      articleClass +
       (image ? "" : " post-card--text") +
       '">' +
-      '<a class="post-card-link" href="' +
+      '<a class="' +
+      linkClass +
+      '" href="' +
       href +
       '">' +
       media +
-      '<div class="post-card-copy">' +
-      '<h3 class="post-card-title">' +
+      '<div class="' +
+      copyClass +
+      '">' +
+      (featured ? '<p class="eyebrow">Latest</p>' : "") +
+      "<" +
+      titleTag +
+      ' class="' +
+      titleClass +
+      '">' +
       title +
-      "</h3>" +
-      (excerpt ? '<p class="post-card-excerpt">' + excerpt + "</p>" : "") +
-      '<p class="post-card-meta"><time datetime="' +
+      "</" +
+      titleTag +
+      ">" +
+      (featured && excerpt ? '<p class="post-feature-excerpt">' + excerpt + "</p>" : "") +
+      '<p class="' +
+      (featured ? "post-feature-meta" : "post-tile-meta") +
+      '"><time datetime="' +
       escapeHtml(post.date) +
       '">' +
       escapeHtml(formatDate(post.date)) +
@@ -76,16 +99,25 @@
     );
   }
 
-  function renderFeed(posts, base, eagerFirst) {
+  function renderTiles(posts, base, eagerFirst) {
     return (
-      '<div class="post-feed">' +
+      '<div class="post-tiles">' +
       posts
         .map(function (post, index) {
-          return renderCard(post, base, Boolean(eagerFirst && index === 0));
+          return renderCard(post, base, Boolean(eagerFirst && index === 0), false);
         })
         .join("") +
       "</div>"
     );
+  }
+
+  function renderHome(posts, base) {
+    if (!posts.length) return emptyHTML();
+    var html = renderCard(posts[0], base, true, true);
+    if (posts.length > 1) {
+      html += renderTiles(posts.slice(1), base, false);
+    }
+    return html;
   }
 
   function groupByYear(posts) {
@@ -127,7 +159,7 @@
     groups.forEach(function (group) {
       html += '<section class="year-group" id="year-' + group.year + '">';
       html += "<h3>" + group.year + "</h3>";
-      html += renderFeed(group.posts, base, false);
+      html += renderTiles(group.posts, base, false);
       html += "</section>";
     });
     return html;
@@ -155,7 +187,7 @@
         var html = heading ? heading.outerHTML : "";
 
         if (limit) {
-          html += renderFeed(sorted.slice(0, limit), base, true);
+          html += renderHome(sorted.slice(0, limit), base);
           if (moreHref && sorted.length > limit) {
             html +=
               '<p class="more-posts"><a href="' +
@@ -165,7 +197,7 @@
         } else if (groupYears) {
           html += renderArchive(sorted, base);
         } else {
-          html += renderFeed(sorted, base, true);
+          html += renderTiles(sorted, base, true);
         }
 
         root.innerHTML = html;
