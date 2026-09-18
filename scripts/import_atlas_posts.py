@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 import time
 import urllib.error
 import urllib.parse
@@ -16,6 +17,9 @@ from zoneinfo import ZoneInfo
 import html2text
 from bs4 import BeautifulSoup
 from markdown import markdown as render_markdown
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from post_meta import first_image, make_excerpt  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 POSTS_DIR = ROOT / "posts"
@@ -41,9 +45,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta property="og:title" content="{title} | Behind the Mac">
   <meta property="og:description" content="{description}">
   <meta property="og:url" content="https://behindthemac.com/blog/{slug}/">
-  <meta name="twitter:card" content="summary">
+  {social_image}
+  <meta name="twitter:card" content="{twitter_card}">
   <meta name="twitter:title" content="{title} | Behind the Mac">
   <meta name="twitter:description" content="{description}">
+  {twitter_image}
   <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../../css/styles.css">
 </head>
@@ -232,11 +238,7 @@ def html_to_markdown(body: str) -> str:
 
 
 def excerpt_from_markdown(md: str) -> str:
-    for line in md.splitlines():
-        text = re.sub(r"[*_`>#\[\]]", "", line).strip()
-        if text and not text.startswith("http") and not text.startswith("!"):
-            return text[:180]
-    return "A note from Behind the Mac."
+    return make_excerpt(md)
 
 
 def pretty_date(date_str: str) -> str:
@@ -265,7 +267,11 @@ def write_post(item: dict, original_url: str, used_slugs: set[str]) -> dict:
     published = datetime.fromtimestamp(item["publishOn"] / 1000, tz=TZ)
     date = published.strftime("%Y-%m-%d")
     md_body = html_to_markdown(item.get("body") or "")
-    html_body = render_markdown(md_body, extensions=["extra", "sane_lists"])
+    html_body = promote_hero_image(
+        render_markdown(md_body, extensions=["extra", "sane_lists"])
+    )
+    image, image_alt = first_image(md_body)
+    description = excerpt_from_markdown(md_body)
 
     front = [
         "---",
@@ -285,7 +291,14 @@ def write_post(item: dict, original_url: str, used_slugs: set[str]) -> dict:
 
     page_dir = BLOG_DIR / slug
     page_dir.mkdir(parents=True, exist_ok=True)
-    description = excerpt_from_markdown(md_body)
+    social_image = ""
+    twitter_image = ""
+    twitter_card = "summary"
+    if image:
+        safe_image = html_escape(image)
+        social_image = f'<meta property="og:image" content="{safe_image}">'
+        twitter_image = f'<meta name="twitter:image" content="{safe_image}">'
+        twitter_card = "summary_large_image"
     (page_dir / "index.html").write_text(
         HTML_TEMPLATE.format(
             title=html_escape(title),
@@ -295,16 +308,34 @@ def write_post(item: dict, original_url: str, used_slugs: set[str]) -> dict:
             pretty_date=pretty_date(date),
             body=html_body,
             original_url=html_escape(original_url),
+            social_image=social_image,
+            twitter_image=twitter_image,
+            twitter_card=twitter_card,
         )
     )
-    return {
+    entry = {
         "title": title,
         "date": date,
         "slug": slug,
         "original_url": original_url,
         "author": "Chad Keith",
         "source": "atlascarolina",
+        "excerpt": description,
     }
+    if image:
+        entry["image"] = image
+        entry["image_alt"] = image_alt or title
+    return entry
+
+
+def promote_hero_image(html_body: str) -> str:
+    return re.sub(
+        r"^\s*<p>\s*(<img\b[^>]*>)\s*</p>",
+        r'<figure class="post-hero">\1</figure>',
+        html_body,
+        count=1,
+        flags=re.I,
+    )
 
 
 def html_escape(value: str) -> str:
