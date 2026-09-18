@@ -5,16 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Behind the Mac | Mac and Apple notes by Chad Keith</title>
   <meta name="description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
+  <meta name="theme-color" content="#000000">
   <link rel="canonical" href="https://behindthemac.com/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Behind the Mac">
   <meta property="og:title" content="Behind the Mac | Mac and Apple notes by Chad Keith">
   <meta property="og:description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
   <meta property="og:url" content="https://behindthemac.com/">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="https://behindthemac.com/assets/brand/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Behind the Mac | Mac and Apple notes by Chad Keith">
   <meta name="twitter:description" content="Mac and Apple notes from Chad Keith - tips, news, and how-tos for people who live on Macs.">
+  <meta name="twitter:image" content="https://behindthemac.com/assets/brand/og-image.png">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="css/styles.css">
   <script src="js/posts.js" defer></script>
   <script type="application/ld+json">
@@ -47,14 +51,14 @@
 
   <main id="content">
     <header class="hero">
-      <h1>Behind the Mac</h1>
+      <h1 class="visually-hidden">Behind the Mac</h1>
+      <img class="hero-mark" src="assets/brand/logo-white.png" alt="">
       <p class="lede">Mac and Apple notes from Chad Keith.</p>
+      <div class="hero-copy">
+        <p>Short posts on Macs, iPhones, and the Apple stuff I actually use - setups, updates, security gotchas, and the odd tip that saves a Friday night.</p>
+        <p>New posts land here. Older Apple write-ups are moving over from the Atlas blog as we go.</p>
+      </div>
     </header>
-
-    <section class="notes">
-      <p>Short posts on Macs, iPhones, and the Apple stuff I actually use - setups, updates, security gotchas, and the odd tip that saves a Friday night.</p>
-      <p>New posts land here. Older Apple write-ups are moving over from the Atlas blog as we go.</p>
-    </section>
 
     <section
       class="post-index"
@@ -64,7 +68,7 @@
       data-posts-limit="10"
       data-posts-more="blog/"
     >
-      <h2 id="posts-heading">Posts</h2>
+      <h2 id="posts-heading">Latest</h2>
       <div class="empty-posts">
         <p>No posts yet. New ones will show up here.</p>
       </div>
@@ -73,7 +77,10 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>Mac and Apple notes by Chad Keith.</p>
+      <div>
+        <a class="footer-brand" href="index.html">Behind the Mac</a>
+        <p>Mac and Apple notes by Chad Keith.</p>
+      </div>
       <p>
         <a href="https://chadwickkeith.com">chadwickkeith.com</a>
         · <a href="https://overcomingaverage.net">overcomingaverage.net</a>

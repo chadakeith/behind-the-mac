@@ -50,7 +50,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta name="twitter:title" content="{title} | Behind the Mac">
   <meta name="twitter:description" content="{description}">
   {twitter_image}
+  <meta name="theme-color" content="#000000">
   <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
   <link rel="stylesheet" href="../../css/styles.css">
 </head>
 <body>
@@ -81,7 +83,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>Mac and Apple notes by Chad Keith.</p>
+      <div>
+        <a class="footer-brand" href="../../index.html">Behind the Mac</a>
+        <p>Mac and Apple notes by Chad Keith.</p>
+      </div>
       <p>
         <a href="https://chadwickkeith.com">chadwickkeith.com</a>
         · <a href="https://overcomingaverage.net">overcomingaverage.net</a>
